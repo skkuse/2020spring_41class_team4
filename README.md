@@ -11,3 +11,16 @@
 - 주원영
 - 송현욱
 - Damdin
+
+## Repository Structure
+
+```bash
+PROJECT ROOT
+├─docs: Documentation
+└─src: Source code of the project
+    └─frontend: Front-end
+        ├─
+    └─backend  
+    └─Data : Data direc 
+    └─DataCrawling : Crawling source
+    └─Recommendation : Recommendation Model
