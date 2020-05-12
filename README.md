@@ -2,7 +2,7 @@
 *****
 ## 2020spring_41class_team4
 ## E-Commer Application : Locally Second-hand Books Platform
-<img src="" width="90%"></img>
+<img src="https://github.com/skkuse/2020spring_41class_team4/blob/master/src/Data/Logo.png" width="90%"></img>
 *****
 ## Team members
 
