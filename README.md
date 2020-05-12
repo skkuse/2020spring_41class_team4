@@ -1,8 +1,9 @@
 # Software Engineering
-# 2020spring_41class_team4
-
-# E-Commer Application : Locally Second-hand Books Platform
-
+*****
+## 2020spring_41class_team4
+## E-Commer Application : Locally Second-hand Books Platform
+<img src="" width="90%"></img>
+*****
 ## Team members
 
 - 한채정
