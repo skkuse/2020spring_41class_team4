@@ -42,13 +42,13 @@ class User(AbstractUser):
     first_name = None
     last_name = None
     uname = models.CharField(max_length=20)
-    email = models.EmailField(max_length=50)
-    gender = models.IntegerField(max_length=1)
+    email = models.EmailField(max_length=50, unique=True)
+    gender = models.IntegerField(default=0)
     major = models.CharField(max_length=20)
     phone_number = models.CharField(max_length=20, null=True)
 
     USERNAME_FIELD = 'email'
-    REQUIRED_FIELDS = []
+    REQUIRED_FIELDS = ['uname', 'gender', 'major']
 
     objects = CustomUserManager()
 
@@ -58,26 +58,26 @@ class User(AbstractUser):
 
 # DB Models
 class Product(models.Model):
-    post_id = models.ForeignKey(Post, on_delete=models.CASCADE)
-    uid_buyer = models.ForeignKey(User, on_delete=models.CASCADE)
+    post_id = models.ForeignKey('Post', on_delete=models.CASCADE)
+    uid_buyer = models.ForeignKey('User', on_delete=models.CASCADE)
     complete_date = models.DateTimeField(blank=True, null=True)
     pname = models.CharField(max_length=50)
-    category = models.IntegerField(max_length=3)
-    price = models.IntegerField(max_length=20)
-    status = models.IntegerField(max_length=1)
-    p_status = models.IntegerField(max_length=1)
+    category = models.IntegerField(default=10)
+    price = models.IntegerField(default=0)
+    status = models.IntegerField(default=0)
+    p_status = models.IntegerField(default=0)
 
     def __str__(self):
         return self.pname
 
 
 class Post(models.Model):
-    uid = models.ForeignKey(User, on_delete=models.CASCADE)
+    uid = models.ForeignKey('User', on_delete=models.CASCADE)
     title = models.CharField(max_length=50)
     content = models.TextField(blank=True)
     reg_date = models.DateTimeField(default=timezone.now)
-    hits = models.IntegerField(max_length=70)
-    status = models.IntegerField(max_length=1)
+    hits = models.IntegerField(default=0)
+    status = models.IntegerField(default=0)
 
     @property
     def update_hits(self):
@@ -90,8 +90,8 @@ class Post(models.Model):
 
 
 class Schedule(models.Model):
-    cid = models.ForeignKey(Course, on_delete=models.CASCADE)
-    uid = models.ForeignKey(User, on_delete=models.CASCADE)
+    cid = models.ForeignKey('Course', on_delete=models.CASCADE)
+    uid = models.ForeignKey('User', on_delete=models.CASCADE)
 
     def __str__(self):
         return f"{self.cid}, {self.uid}"
@@ -108,8 +108,8 @@ class Course(models.Model):
 
 
 class Locker(models.Model):
-    l_number = models.IntegerField(max_length=10)
-    status = models.IntegerField(max_length=1)
+    l_number = models.CharField(max_length=20)
+    status = models.IntegerField(default=0)
     location = models.CharField(max_length=50)
 
     def __str__(self):
