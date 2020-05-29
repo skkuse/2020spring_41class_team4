@@ -22,6 +22,9 @@ PROJECT ROOT
     └─frontend: Front-end
         ├─
     └─backend  
+        ├─backpack
+        ├─rest
+        └─email-auth
     └─Data : Data direc 
     └─DataCrawling : Crawling source
     └─Recommendation : Recommendation Model
