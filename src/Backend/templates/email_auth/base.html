@@ -1,0 +1,24 @@
+<html lang="ko">
+    <head>
+    
+        {% block title %}      <!-- 페이지별 타이틀 공간 -->
+        <title>bbs - minitutorial</title>
+        {% endblock title %}
+
+        {% block meta %}    <!-- 페이지별 메타 데이터 공간 -->
+        {% endblock meta %}
+
+        {% block scripts %}    <!-- 페이지별 스크립트 공간 -->
+        {% endblock scripts %}
+
+        {% block css %}        <!-- 페이지별 css -->
+        {% endblock css %}
+    </head>
+    <body>
+    {% block content %}
+    view: {{ view }} <!-- ctx['view'] -->
+    <br>
+    data: {{ data }}  <!-- ctx['data'] -->
+    {% endblock content %}
+    </body>
+</html>

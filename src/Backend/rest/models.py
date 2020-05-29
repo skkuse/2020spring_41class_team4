@@ -46,6 +46,7 @@ class User(AbstractUser):
     gender = models.IntegerField(default=0)
     major = models.CharField(max_length=20)
     phone_number = models.CharField(max_length=20, null=True)
+    is_active = models.BooleanField('active', default=False)
 
     USERNAME_FIELD = 'email'
     REQUIRED_FIELDS = ['uname', 'gender', 'major']

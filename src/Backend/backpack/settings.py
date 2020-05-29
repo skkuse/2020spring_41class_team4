@@ -57,7 +57,7 @@ ROOT_URLCONF = 'backpack.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -135,3 +135,19 @@ USE_TZ = False
 
 STATIC_URL = '/static/'
 AUTH_USER_MODEL = 'rest.User'
+
+
+# Email (For authentication system)
+
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+EMAIL_HOST_USER = 'sweteam4@gmail.com'
+EMAIL_HOST_PASSWORD = 'software4!'
+EMAIL_USE_TLS = True
+
+
+# Redirect url
+
+LOGIN_REDIRECT_URL = '/rest/users/'
+LOGIN_URL = '/email_auth/login/'
+# LOGOUT_REDIRECT_URL = ''
