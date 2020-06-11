@@ -31,16 +31,21 @@ PROJECT ROOT
     
 ```
 ## Links 
+* Docs
 > [Proposal](https://github.com/skkuse/2020spring_41class_team4/tree/master/docs)<br>
 > [Requirement Specification](https://github.com/skkuse/2020spring_41class_team4/tree/master/docs/)<br>
 > [Design Specification](https://github.com/skkuse/2020spring_41class_team4/tree/master/docs/Design_Specification_team4.pdf)<br>
-
+----------------------------------------------------------
+* Data
 > [Data](https://github.com/skkuse/2020spring_41class_team4/tree/master/src/Data)
 > [Crawler](https://github.com/skkuse/2020spring_41class_team4/tree/master/src/DataCrawling)
-
+----------------------------------------------------------
+* Recommendation
 > [FeatureEngineering & Modeling & Evaluation of Recommendation](https://github.com/skkuse/2020spring_41class_team4/tree/master/src/Recommend)
-
+----------------------------------------------------------
+* FrontEnd
 > [FrontEnd](https://github.com/skkuse/2020spring_41class_team4/tree/master/src/)
-
+----------------------------------------------------------
+* BackEnd
 > [BackEnd](https://github.com/skkuse/2020spring_41class_team4/tree/master/src/)
-
+----------------------------------------------------------
