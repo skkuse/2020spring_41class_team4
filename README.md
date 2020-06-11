@@ -17,7 +17,7 @@
 
 ```bash
 PROJECT ROOT
-├─docs: Documentation
+├─docs: Documentation [Docs](https://github.com/skkuse/2020spring_41class_team4/tree/master/docs/)
 └─src: Source code of the project
     └─frontend: Front-end
         ├─
@@ -26,7 +26,7 @@ PROJECT ROOT
         ├─rest
         └─email-auth
     └─Data : Data direc 
-    └─DataCrawling : Crawling source
+    └─DataCrawling : Crawling [Source](https://github.com/skkuse/2020spring_41class_team4/tree/master/src/DataCrawling)
     └─Recommendation : Recommendation Model
     
 ```
