@@ -31,6 +31,9 @@ PROJECT ROOT
     
 ```
 ## Links 
+* About Our Project
+> [Introduction] https://github.com/skkuse/2020spring_41class_team4/wiki/Introduction
+----------------------------------------------------------
 * Docs
 > [Proposal](https://github.com/skkuse/2020spring_41class_team4/tree/master/docs)<br>
 > [Requirement Specification](https://github.com/skkuse/2020spring_41class_team4/tree/master/docs/)<br>
