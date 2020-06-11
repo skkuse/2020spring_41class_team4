@@ -26,7 +26,7 @@ PROJECT ROOT
         ├─rest
         └─email-auth
     └─Data : Data direc 
-    └─DataCrawling : Crawling [Source](https://github.com/skkuse/2020spring_41class_team4/tree/master/src/DataCrawling)
+    └─DataCrawling : Crawling [Source](https://github.com/skkuse/2020spring_41class_team4/tree/master/src/DataCrawling, "Crawl")
     └─Recommendation : Recommendation Model
     
 ```
