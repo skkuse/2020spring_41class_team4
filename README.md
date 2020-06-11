@@ -17,7 +17,7 @@
 
 ```bash
 PROJECT ROOT
-├─docs: Documentation [Docs](https://github.com/skkuse/2020spring_41class_team4/tree/master/docs/)
+├─docs: Documentation Link: [Docs][DocsLink]
 └─src: Source code of the project
     └─frontend: Front-end
         ├─
@@ -30,3 +30,7 @@ PROJECT ROOT
     └─Recommendation : Recommendation Model
     
 ```
+
+
+[DocsLink]: https://github.com/skkuse/2020spring_41class_team4/tree/master/docs/
+[Docs]: 
