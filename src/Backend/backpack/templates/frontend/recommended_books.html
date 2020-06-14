@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+  <title>Backpack</title>
+  <link rel="icon" href="/static/img/transparent.png">
+	<link rel="stylesheet" href="/static/css/frontend/books.css">
+	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script>
+    function getCookie(name) {
+          var cookieValue = null;
+          if (document.cookie && document.cookie !== '') {
+              var cookies = document.cookie.split(';');
+              for (var i = 0; i < cookies.length; i++) {
+                  var cookie = cookies[i].trim();
+                  // Does this cookie string begin with the name we want?
+                  if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                      cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                      break;
+                  }
+              }
+          }
+          return cookieValue;
+      }
+
+      var csrftoken = getCookie('csrftoken');
+
+      function csrfSafeMethod(method) {
+          // these HTTP methods do not require CSRF protection
+          return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+      }
+      $.ajaxSetup({
+          beforeSend: function(xhr, settings) {
+              if (!csrfSafeMethod(settings.type) && !this.crossDomain) {
+                  xhr.setRequestHeader("X-CSRFToken", csrftoken);
+              }
+          }
+      });
+  </script>
+  <script>
+      var major_to_text = {'GEL': 0, 'CFT': 1, 'BIZ': 2, 'BUS': 3, 'ECO': 4, 'STA': 5, 'GBA': 6, 'GEC': 7, 'PSY': 8, 'MAE': 9, 'ENG': 10, 'INT': 11, 'CAL': 12, 'ERC': 13, 'COV': 14, 'EEE': 15, 'EME': 16, 'ICE': 17, 'SWE': 18, 'ESM': 19, 'ECE': 20, 'EAM': 21, 'ECH': 22, 'IKS': 23, 'KLC': 24, 'DKL': 25, 'GCC': 26, 'HFS': 27, 'GER': 28, 'RUS': 29, 'DSC': 30, 'LIS': 31, 'SWF': 32, 'PHL': 33, 'HIS': 34, 'CHI': 35, 'FRE': 36, 'EDU': 37, 'COM': 38, 'PAD': 39, 'PIL': 40, 'PSD': 41, 'GLD': 42, 'USS': 43, 'MCJ': 44, 'SOC': 45, 'CFS': 46, 'KID': 47, 'FBT': 48, 'IBT': 49, 'CHY': 50, 'AAI': 51, 'CNT': 52, 'SPT': 53, 'BIO': 54, 'ART': 55, 'COS': 56, 'MTH': 57, 'GED': 58, 'DBA': 59, 'CLA': 60, 'LIT': 61, 'ILI': 62, 'JAP': 63, 'CON': 64, 'EBM': 65};
+      var user_id = "{{user_id}}";
+      console.log(user_id);
+
+      // 추천 알고리즘
+      $.ajax({
+          url:'/recommend/user/',
+          method:'POST',
+          dataType:'json',
+          // async:false,
+          data:{
+              'user_id':user_id,
+          },
+          success:function(recommend_data) {
+              console.log(recommend_data);
+              if(recommend_data.result == "추천 정보가 없습니다!"){
+                console.log("111")
+                card_item.innerHTML = '<img src=\'/static/img/frontend/no-rec.png\' alt="My Image"></img>';
+                div.appendChild(card_item);
+              }
+              // 추천 도서 표시
+              for(var j = 0; j < 8; j++){  // 8개만
+
+                // 전공
+                var major = "";
+                Object.keys(major_to_text).forEach(function(key){
+                  if(major_to_text[key] == recommend_data[j].major){
+                    major = major + key;
+                  }
+                });
+
+                var div = document.getElementById('card_body');
+                var card_item = document.createElement('div');
+                card_item.className = 'card_item';
+
+                card_item.innerHTML = '<div class="card_inner">\
+                                        <div class="card_top">\
+                                          <a href="/home/transaction/' + recommend_data[j].bk + '/"><img src=' + recommend_data[j].book_img + ' style="width: 405px;height:450px;"></a>\
+                                        </div>\
+                                        <div class="card_bottom">\
+                                          <div class="card_category">' + 
+                                            major +
+                                          '</div>\
+                                          <div class="card_info">\
+                                            <p class="title">' + recommend_data[j].lec + '</p>\
+                                            <div style="width:100%;height:50px;"><p>' + recommend_data[j].bk + '</p></div>\
+                                          </div>\
+                                          <div class="card_creator">'+ recommend_data[j].publisher +
+                                          '</div>\
+                                        </div>\
+                                        </div>';
+
+                div.appendChild(card_item);
+
+                // img
+
+
+              //   // bk
+              //   var li_bk = document.createElement('li');
+              //   li_bk.id = 'board_recommend_book';
+              //   li_bk.innerText = recommend_data[j].bk;
+              //   recommend_ul.appendChild(li_bk);
+              //   // author
+              //   var li_author = document.createElement('li');
+              //   li_author.id = 'board_recommend_author';
+              //   li_author.innerText = recommend_data[j].author;
+              //   recommend_ul.appendChild(li_author);
+              //   // publisher
+              //   var li_pub = document.createElement('li');
+              //   li_pub.id = 'board_recommend_publisher';
+              //   li_pub.innerText = recommend_data[j].publisher;
+              //   recommend_ul.appendChild(li_pub);
+              //   // prof
+              //   var li_prof = document.createElement('li');
+              //   li_prof.id = 'board_recommend_prof';
+              //   li_prof.innerText = recommend_data[j].prof;
+              //   recommend_ul.appendChild(li_prof);
+              //   // lec
+              //   var li_lec = document.createElement('li');
+              //   li_lec.id = 'board_recommend_lec';
+              //   li_lec.innerText = recommend_data[j].lec;
+              //   recommend_ul.appendChild(li_lec);
+              //   recommend_ul.appendChild(document.createElement("BR"));
+              }
+
+          },
+          error:function(err) {
+              console.log("111")
+              var div = document.getElementById('card_body');
+              var card_item = document.createElement('div');
+              card_item.className = 'card_item';
+              card_item.innerHTML = '<img src=\'/static/img/frontend/no-rec.png\' alt="My Image"></img>';
+              div.appendChild(card_item);
+              console.log('추천 정보가 없습니다!');
+              // var li = document.createElement('li');
+              // li.innerText = "추천 정보가 없습니다!";
+              // recommend_ul.appendChild(li);
+          }
+      });
+
+  </script>
+	<script>
+		$(document).ready(function(){
+      $(".wrapper").toggleClass("collapse");
+			$(".hamburger").click(function(){
+			   $(".wrapper").toggleClass("collapse");
+			});
+		});
+	</script>
+</head>
+<body>
+
+<div class="wrapper">
+  <div class="top_navbar">
+    <div class="hamburger">
+       <div class="one"></div>
+       <div class="two"></div>
+       <div class="three"></div>
+    </div>
+    <div class="top_menu">
+      <div class="logo">Backpack</div>
+      <div><img src="/static/img/frontend/logo.png" alt="logo"></div>
+      <ul>
+        <li><a href="/home/search/">
+          <i class="fas fa-search"></i></a></li>
+        <li><a href="#">
+          <i class="fas receipt"></i>
+          </a></li>
+        <li><a href="/home/mypage/">
+          <i class="fas fa-user"></i>
+          </a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="sidebar">
+      <ul>
+        <li><a href="/home/">
+          <span class="icon"><i class="fas fa-home"></i></span>
+          <span class="title">Home</span></a></li>
+       
+        <li><a href="/home/recommendation/" class="active">
+          <span class="icon"><i class="far fa-thumbs-up"></i></span>
+          <span class="title">Recommendation</span>
+          </a></li>
+        <li><a href="/home/schedule/">
+          <span class="icon"><i class="fas fa-table"></i></span>
+          <span class="title">Timetable</span>
+          </a></li>
+        <li><a href="/home/transaction/">
+          <span class="icon"><i class="fas fa-comments-dollar"></i></span>
+          <span class="title">Sell Books</span>
+          </a></li>
+    </ul>
+  </div>
+
+  <div class="main_container">
+    <div class="cards_wrap" id="card_body">
+              
+        <!-- <div class="card_item">
+          <div class="card_inner">
+            <div class="card_top">
+              <img src="/static/img/frontend/calculus.jpg"/>
+            </div>
+            <div class="card_bottom">
+              <div class="card_category">
+                Mathematics
+              </div>
+              <div class="card_info">
+                <p class="title">Calculus</p>
+                <p>
+                  Calculus : Early Transcendentals for Scientists and Engineers, 8/E
+                </p>
+              </div>
+              <div class="card_creator">
+                ₩45,000
+              </div>
+            </div>
+          </div>
+        </div> -->        
+          
+  </div>
+</div>
+
+</body>
+</html>

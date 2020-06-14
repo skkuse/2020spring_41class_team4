@@ -1,0 +1,9 @@
+.popup_index{position: absolute; left: 50%; top: 50%; z-index: 105; transform: translate(-50%,-50%); width: 800px; height: 500px; box-shadow: 0 0 10px rgba(0,0,0,0,5);background: whitesmoke;border-radius: 5px; text-align: right;
+    padding: 20px; box-sizing: border-box; opacity: 0; transition: all 0.5s; border: 1px;}
+.popup_index a{ color: grey; text-decoration:none;}
+.popup_index:target{opacity: 1;}
+.popup_index #lec_head{
+    font-family: "Roboto", sans-serif;
+    width: 100%;
+    background: white
+}

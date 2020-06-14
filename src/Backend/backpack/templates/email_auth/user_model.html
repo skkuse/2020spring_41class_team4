@@ -1,0 +1,30 @@
+{% load rest_framework %}
+
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/css/signup.css">
+</head>
+<html><body>
+    <div class="user">
+        <header class="user__header">
+            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/3219/logo.svg" alt="" />
+            <h1 class="user__title">Sign up for our system!</h1>
+        </header>
+
+        <form class="form" action="{% url 'email_auth:register' %}" method="POST">
+            {% csrf_token %}
+            {% render_form serializer template_pack='rest_framework/vertical' %}
+            <button type="submit" class="btn btn-default">Sign up</button>
+        </form>
+    </div>
+
+    <script>
+        const button = document.querySelector('.btn');
+        const form   = document.querySelector('.form');
+
+        button.addEventListener('click', function() {
+        form.classList.add('form--no') 
+        });
+    </script>
+
+</body></html>

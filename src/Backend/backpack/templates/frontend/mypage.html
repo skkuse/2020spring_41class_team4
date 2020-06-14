@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+  <title>Backpack</title>
+  <link rel="icon" href="/static/img/transparent.png">
+	<link rel="stylesheet" href="/static/css/frontend/mypage.css">
+	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script>
+		$(document).ready(function(){
+      $(".wrapper").toggleClass("collapse");
+			$(".hamburger").click(function(){
+			   $(".wrapper").toggleClass("collapse");
+			});
+		});
+	</script>
+</head>
+<body>
+  
+
+<div class="wrapper">
+  <div class="top_navbar">
+    <div class="hamburger">
+       <div class="one"></div>
+       <div class="two"></div>
+       <div class="three"></div>
+    </div>
+    <div class="top_menu">
+      <div class="logo">My Page</div>
+      <div><img src="/static/img/frontend/logo.png" alt="logo"></div>
+      <ul>
+        <li><a href="/home/search/">
+          <i class="fas fa-search"></i></a></li>
+        <li><a href="#">
+          <i class="fas fa-receipt"></i>
+          </a></li>
+        <li><a href="/home/mypage/">
+          <i class="fas fa-user"></i>
+          </a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="sidebar">
+      <ul>
+        <li><a href="/home/">
+          <span class="icon"><i class="fas fa-home"></i></span>
+          <span class="title">Home</span></a></li>
+       
+        <li><a href="/home/recommendation/">
+          <span class="icon"><i class="far fa-thumbs-up"></i></span>
+          <span class="title">Recommendation</span>
+          </a></li>
+        <li><a href="/home/schedule/">
+          <span class="icon"><i class="fas fa-table"></i></span>
+          <span class="title">Timetable</span>
+          </a></li>
+        <li><a href="/home/transaction/">
+          <span class="icon"><i class="fas fa-comments-dollar"></i></span>
+          <span class="title">Sell Books</span>
+          </a></li>
+    </ul>
+  </div>
+
+  <div class="main_container">
+    <div class="profile">
+        <div class="profile_img_info">         
+             <div class="img">
+                <img src="/static/img/frontend/profile.png" alt="profile_pic">     
+             </div>
+             <div class="info">
+                  <p class="name">{{uname}}</p>
+                  <p class="place"><span><i class="fas fa-id-card"></i> {{email}}</span>
+                    
+                  </p>
+             </div>
+        </div>
+        <div class="profile_skills">
+            <div class="skills">
+                <p>Profile Information</p>
+                <ul>
+                    <li><span class="icon"><i class="fas fa-university"></i></span>
+                       <span class="title">{{major}}</span>
+                  </li>
+                    
+                </ul>
+            </div>
+            <div class="tags_wrap">
+                <span class="tag">Mathematics</span>
+              <span class="tag">Science</span>
+              <span class="tag">Computer</span>
+            </div>
+        </div>
+    </div>
+    <div class="profile_counts">
+        <div class="profile_counts_wrap">
+           <div class="item" type="button" onclick="location.href='/home/schedule/register/'">
+             <div class="icon"><i class="fas fa-table"></i></div>
+             <div class="title">Register Timetable</div>
+          </div>
+        </div>
+        <div class="profile_counts_wrap">
+           <div class="item" type="button" onclick="location.href='/email_auth/logout/'">
+             <div class="icon"><i class="fas fa-sign-out-alt"></i></div>
+           <div class="title">Log Out</div>
+          </div>
+        </div>
+    </div>
+
+  </div>
+</div>
+
+</body>
+</html>

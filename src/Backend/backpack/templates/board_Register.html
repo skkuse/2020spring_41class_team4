@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Board</title>
+		<link rel="stylesheet" type="text/css" href="/static/css/style.css">
+	</head>
+	<body>
+		<div class="board-page">
+			<div class="board">
+                <h1>상품 등록페이지</h1>
+                <div class="board-category">
+                    <ul>
+                            <label><input type="radio" name="category" value="majorbook">전공책</label>
+                            <label><input type="radio" name="category" value="stationery">문구류</label>
+                            <label><input type="radio" name="category" value="electronics">전자제품</label>
+                            <label><input type="radio" name="category" value="clothes">의류제품</label>
+                            <label><input type="radio" name="category" value="etc">기타제품</label>
+                    </ul>
+                </div>
+                <div class ="board-sellerinfo">
+                    <ul>
+                        <label for="product_name">상품명</label><input type="text" id="product_name">
+                        <label for="product_price">가격</label><input type="number" id="product_price">
+                    </ul>
+                    <ul>
+                    <td width="70" id="board_img" align="center">이미지 첨부</td>
+                    <td align="left" width="330">
+                        <input type="file" id="reportFile" name="reportFile">
+                    </ul>
+                    </td>
+                </div>
+
+                <div class="board-form">
+                    <input id="board_title" type="text" placeholder="제목"/>
+                    <textarea id="board_content" rows="10" placeholder="내용"></textarea>
+                </div>
+				<div align="right">
+                    <button id="btn_board_register">새글 등록</button>
+                    <button id="btn_board_list">목록</button>
+                </div>
+			</div>
+		</div>
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script>
+            $('#btn_board_register').on('click', function() {
+                var post_id = 0;
+                var cgs= document.getElementsByName('category');
+                var cg = 0
+
+                for (var i = 0, length = cgs.length; i < length; i++) {
+                    if (cgs[i].checked) {
+                        cg = i;
+                        break;
+                    }
+                }
+
+                $.ajax({
+                    url:'/rest/posts/', //목록으로 다시 돌아가야함
+                    method:'POST',
+                    dataType:'json',
+                    async:false,
+                    data:{
+                        'title':$('#board_title').val(),
+                        'content':$('#board_content').val()
+                    },
+                    success:function(data) {
+                        alert('저장에 성공!');
+                        post_id = data;
+                        // window.location.replace('/post/');
+
+                    },
+                    error:function(err) {
+                        alert('저장에 실패!, 다시 시도!2');
+                    }
+                });
+
+                $.ajax({
+                    url:'/rest/products/', //목록으로 다시 돌아가야함
+                    method:'POST',
+                    dataType:'json',
+                    data:{
+                        'pname':$('#product_name').val(),
+                        'price':$('#product_price').val(),
+                        'post_id':post_id,
+                        'category':cg
+                    },
+                    success:function(data) {
+                    },
+                    error:function(err) {
+                    }
+                });
+            });
+        </script>
+        
+        <script src="/static/scripts/board.js"></script>
+
+	</body>
+</html>

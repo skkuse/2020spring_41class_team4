@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Login Form</title>
+		<link rel="stylesheet" type="text/css" href="/static/css/style.css">
+	</head>
+	<body>
+    <div id="" class="login-page">
+      <div class="form">
+        <input id="login_id" type="text" placeholder="user id"/>
+        <input id="login_pwd" type="password" placeholder="user password"/>
+        <button id="btn_login" class="button">login</button>
+        <p id="message" class="message"></p>
+        <p>Not registered? <a href="/login/signup">Create an account</a></p>
+      </div>
+    </div>
+    <div class="user-page">
+      <div class="user">
+        <p id="txt_welcome"></p>
+        <button id="btn_logout" class="button">logout</button>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="/static/scripts/login.js"></script>
+	</body>
+</html>

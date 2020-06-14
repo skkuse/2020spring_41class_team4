@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Board</title>
+		<link rel="stylesheet" type="text/css" href="/static/css/style.css">
+	</head>
+	<body>
+		<div class="board-page">
+			<div class="board">
+				<h1>수정</h1>
+				<div class="board-category">
+                    <ul>
+                            <label><input type="radio" name="category" value="majorbook">전공책</label>
+                            <label><input type="radio" name="category" value="stationery">문구류</label>
+                            <label><input type="radio" name="category" value="electronics">전자제품</label>
+                            <label><input type="radio" name="category" value="clothes">의류제품</label>
+                            <label><input type="radio" name="category" value="etc">기타제품</label>
+                    </ul>
+                </div>
+             
+                <div align="right">작성자 <%= data.author %></div>
+				<div align="right">전화번호 <%= data.tel %></div>
+				<ul>
+                    <td width="70" id="board_img" align="center">이미지 첨부</td>
+                    <td align="left" width="330">
+                        <input type="file" id="reportFile" name="reportFile">
+                    </ul>
+                <div align="left"><input onclick="btn_board_status()" type="button" value="판매중" id="board_status"></input></div>
+                <div class="board-form">
+					<input id="bid" type="hidden" value="<%=data.bid%>"/>
+                    <input id="board_title" type="text" value="<%=data.title%>"/>
+                    <textarea id="board_content" rows="10"><%=data.content%></textarea>
+                </div>
+				<div align="right">
+                    <button id="btn_board_update">수정</button>
+                    <button id="btn_board_delete">삭제</button>
+                    <button id="btn_board_list">목록</button>
+                </div>
+			</div>
+		</div>
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="/javascripts/board.js"></script>
+	</body>
+</html>

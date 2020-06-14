@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Board</title>
+		<link rel="stylesheet" type="text/css" href="/static/css/style.css">
+	</head>
+	<body>
+
+        <div class="dim"></div>
+        <div class="main">
+            <section id="wrap">
+            <div class="aside">
+                <nav>
+                <strong class="board_recommand_ad" id="board_recommand_ad"></strong>
+                <h1 align="center" style="font-style: normal; color: seashell;">추천 상품 리스트</h1>
+					<ul id="recommend_list">
+                        
+					</ul>
+					
+                </nav>
+			</div>
+			
+		<div class="board-page">
+			<div class="board">
+                <h1>상품 상세페이지</h1>
+                <div align="right" id="uname">작성자: </div>
+                <div align="right" id="phone">전화번호: </div>
+                <div align="left" id="board_status"><input onclick="btn_board_status()" type="button" value="판매중" id="board_status"></input></div>
+                <div class="board-form">
+					<input id="bid" type="hidden" value="<%=data.bid%>"/>
+                    <div id="board_title" type="text"></div>
+                    <textarea id="board_content" rows="10" readonly></textarea>
+                </div>
+				<div align="right">
+                    <button id="btn_board_list">목록</button>
+                    <button id="btn_board_buy">구매</button>
+                </div>
+			</div>
+		</div>
+
+
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+		<script>
+			$.ajax({
+				url:'/rest/posts/' + '{{pk}}/',
+				method:'GET',
+				dataType:'json',
+				contentType:'application/json',
+				success:function(data) {
+					console.log(data);
+					document.getElementById('board_title').append(data.title);
+					document.getElementById('board_content').append(data.content);
+
+					// user
+					$.ajax({
+							url:'/rest/users/' + data.user_id + '/',
+							method:'GET',
+							dataType:'json',
+							async:false,
+							contentType:'application/json',
+							success:function(user_data) {
+								console.log(user_data);
+								document.getElementById('uname').append(user_data.uname);
+								document.getElementById('phone').append(user_data.phone_number);
+							}
+						});
+
+					
+					
+					// product
+					var products_str = "{{products}}";
+					var products = JSON.parse(products_str);  // product id list
+
+					for(var i = 0; i < products.length; i++){
+						console.log(i);
+						$.ajax({
+							url:'/rest/products/' + products[i] + '/',
+							method:'GET',
+							dataType:'json',
+							async:false,
+							contentType:'application/json',
+							success:function(product_data) {
+								console.log(product_data);
+
+								var recommend_ul = document.getElementById('recommend_list');
+								
+								// 추천 알고리즘
+								$.ajax({
+									url:'/recommend/item/',
+									method:'POST',
+									dataType:'json',
+									async:false,
+									data:{
+										'item':product_data.pname,
+										'other':'false'
+									},
+									success:function(recommend_data) {
+										console.log(recommend_data);
+										// 추천 도서 표시
+
+										for(var j = 0; j < 5; j++){  // 3개만
+											// bk
+											var li_bk = document.createElement('li');
+											li_bk.id = 'board_recommend_book';
+											li_bk.innerText = recommend_data[j].bk;
+											recommend_ul.appendChild(li_bk);
+											// author
+											var li_author = document.createElement('li');
+											li_author.id = 'board_recommend_author';
+											li_author.innerText = recommend_data[j].author;
+											recommend_ul.appendChild(li_author);
+											// publisher
+											var li_pub = document.createElement('li');
+											li_pub.id = 'board_recommend_publisher';
+											li_pub.innerText = recommend_data[j].publisher;
+											recommend_ul.appendChild(li_pub);
+											// prof
+											var li_prof = document.createElement('li');
+											li_prof.id = 'board_recommend_prof';
+											li_prof.innerText = recommend_data[j].prof;
+											recommend_ul.appendChild(li_prof);
+											// lec
+											var li_lec = document.createElement('li');
+											li_lec.id = 'board_recommend_lec';
+											li_lec.innerText = recommend_data[j].lec;
+											recommend_ul.appendChild(li_lec);
+											recommend_ul.appendChild(document.createElement("BR"));
+										}
+
+									},
+									error:function(err) {
+										console.log('추천 정보가 없습니다!');
+										var li = document.createElement('li');
+										li.innerText = "추천 정보가 없습니다!";
+										recommend_ul.appendChild(li);
+									}
+								});
+								
+
+
+							}
+						});
+					}
+
+			
+
+				}
+					
+			});
+
+		</script>
+        <script src="/static/scripts/board.js"></script>
+	</body>
+</html>
+

@@ -1,0 +1,30 @@
+<div class="login-form">
+    <form action="." method="post">
+        {% csrf_token %}
+        <header>
+            <div class="photo"><img src="/static/img/frontend/logo2.png" alt="" /></div>
+            <link rel="stylesheet" href="/static/css/login.css">
+            <div class="user-info">
+                <h3>책가방</h3>
+                <h5>Backpack</h5>
+            </div>
+        </header>
+        <section>
+            <div class="form-group ">
+                <label for="id_username"></label>
+                <div class="input"><input name="username" id class="form-control" type="email" placeholder="Email Address"></div>
+            </div>
+            <div class="form-group ">
+                <div class="confirm-password">
+                <label for="id_password"></label>
+                <div class="inner"><input name="password" id class="form-control" type="password" placeholder="Confirm Password"></div>
+                </div>
+            </div>
+        </section>
+        <footer>
+            <input type="submit" class="action" value="Login">
+        </footer>
+    </form>
+</div>
+
+<!-- "/static/img/frontend/logo.png" -->

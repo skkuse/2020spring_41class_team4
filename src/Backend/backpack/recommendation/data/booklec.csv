@@ -1,0 +1,1341 @@
+book_id,lec,prof,bk,publisher,author,serial,credit,rating,major,difficulty
+0,교실밖창업과실무기초,김경환,과학기술창업론(대학생을 위한),성균관대학교출판부,김경환,GELT064-I1,2,4.29,0,0
+1,교육방법및교육공학,서향희,교육방법 및 교육공학(2판),양서원,"유승우, 임형택, 권충훈, 이성주, 이순덕",CFTD005-01,2,3.06,1,0
+2,교육방법및교육공학,서향희,교육방법 및 교육공학(3판)(양장본 HardCover),양서원,"유승우, 임형택, 권충훈, 이성주, 이순덕",CFTD005-01,2,3.06,1,0
+3,교육방법및교육공학,강성원,교수-학습과 교육공학(3판)(양장본 HardCover),학지사,"박숙희, 염명숙",CFTD005-01,2,3.06,1,0
+4,교육심리,김명숙,교육심리학(3판)(양장본 HardCover),학지사,"신명희, 강소연, 김은경, 김정민, 노원경",CFTD003-01,2,4.38,1,0
+5,교육심리,김명숙,교육심리학(4판)(양장본 HardCover),학지사,"신명희, 강소연, 김은경, 김정민, 노원경",CFTD003-01,2,4.38,1,0
+6,교육학개론,김은우,교육학개론,학지사,"이지헌, 송현종, 이두휴, 손승남, 이정화",CFTD094-01,2,4.37,1,0
+7,교육학개론,조병희,교육의 사회학적 이해(3판)(3판)(양장본 HardCover),학지사,김천기,CFTD094-01,2,4.37,1,0
+8,교육학개론,조병희,교육학개론(최신)(2판)(양장본 HardCover),학지사,"성태제, 강대중, 강이철, 곽덕주, 김계현",CFTD094-01,2,4.37,1,0
+9,교육행정및교육경영,한신일,교육행정학 원론(6판)(양장본 HardCover),학지사,"윤정일, 송기창, 조동섭, 김병주",CFTD006-01,2,4.21,1,0
+10,교육행정및교육경영,한신일,교육행정학원론(5판),학지사,윤정일,CFTD006-01,2,4.21,1,0
+11,교육행정및교육경영,곽은주,교육행정 및 학교경영의 이해(개정판 3판)(양장본 HardCover),교육과학사,"진동섭, 이윤식, 김재웅",CFTD006-01,2,4.21,1,0
+12,속기학,김신영,속기의 길잡이 (기본편/약법편) 속기공부(전3권),홍신문화사,남상천,GELT008-01,1,3.35,0,0
+13,속기학,김신영,쉽고 재미있는 속기의 길잡이 (기본편),홍신문화사,남상천,GELT008-01,1,3.35,0,0
+14,수학교과논리논술,서희주,수리논술의 이론과 실제(2판),경문사,"강옥기, 이장주, 이환철, 손정화",CFTD081-01,2,4.0,1,0
+15,언어지문분석,박정하,법학적성시험 문제 해설: 언어이해 영역(2014~2018),에피스테메,법학전문대학원협의회 법학적성�,GELT048-01,1,4.64,0,0
+16,언어지문분석,박정하,법학적성시험 안내서 LEET,에피스테메,법학전문대학원협의회 법학적성�,GELT048-01,1,4.64,0,0
+17,정보통신윤리,정진욱,인터넷 윤리(2판),이한미디어,인터넷윤리실천협의회,GELT009-I1,1,2.81,0,0
+18,정보통신윤리,정진욱,인터넷 윤리(4차 산업혁명 시대의)(3판),이한미디어,인터넷윤리실천협의회,GELT009-I1,1,2.81,0,0
+19,컴퓨터자료처리,이상원,워드프로세서 실기(2019)(시나공)(CD1장포함),길벗,길벗알앤디,GELT007-I1,1,4.65,0,0
+20,특수교육학개론,권승희,특수교육학개론(양장본 HardCover),학지사,"김동일, 손승현, 전병운, 한경근",CFTD093-01,2,4.77,1,0
+21,특수교육학개론,권승희,특수아동교육(3판)(양장본 HardCover),학지사,"이소현, 박은혜",CFTD093-01,2,4.77,1,0
+22,특수교육학개론,정광조,특수아동의 이해(3판)(양장본 HardCover),일문사,"조홍중, 조주희, 박선희, 김경렬, 강정화",CFTD093-01,2,4.77,1,0
+23,학교폭력예방및학생의이해,김은우,학교폭력 예방 및 학생의 이해,박영스토리,김희대,CFTD119-01,2,3.25,1,0
+24,학교폭력예방및학생의이해,서정원,학교 폭력 예방의 이론과 실제(개정판)(양장본 HardCover),양성원,"김규태, 방경곤, 이병환, 윤혜영, 우원재",CFTD119-01,2,3.25,1,0
+25,학교폭력예방및학생의이해,서정원,학교폭력 예방의 이론과 실제,학지사,청소년폭력예방재단 학교폭력문제연구소,CFTD119-01,2,3.25,1,0
+26,학교폭력예방및학생의이해,서정원,학교폭력의 예방과 대책(사례와 판례로 이해하는),학지사,"천세영, 정일화, 남미정, 김미정, 조성만",CFTD119-01,2,3.25,1,0
+27,관리회계,백태영,관리회계(2판)(양장본 HardCover),신영사,백태영,BIZ2021-01,3,3.49,2,1
+28,관리회계,백태영,관리회계(3판)(양장본 HardCover),신영사,백태영,BIZ2021-01,3,3.49,2,1
+29,관리회계,백태영,관리회계(양장본 HardCover),신영사,백태영,BIZ2021-01,3,3.49,2,1
+30,관리회계,백태영,원가관리회계(5판),신영사,백태영,BIZ2021-01,3,3.49,2,1
+31,관리회계,백태영,원가관리회계(K-IFRS 반영)(증보판 5판)(양장본 HardCover),신영사,백태영,BIZ2021-01,3,3.49,2,1
+32,회계원리,이종은,Financial Accounting,Wiley,"Jerry J Weygandt, Paul D Kimmel, Donald E Kieso",BIZ2022-01,3,4.6,2,1
+33,회계원리,이종은,"Financial Accounting, 3/e",Wiley,"Kimmel, Paul D., Ph.D./ Weygandt, Jerry J., Ph.D./",BIZ2022-01,3,4.6,2,1
+34,회계원리,이종은,"Financial Accounting, 3/E.",Harcourt-Brace,"Porter, Gary A.",BIZ2022-01,3,4.6,2,1
+35,회계원리,이종은,"Financial Accounting, IFRS Edition",Wiley,Weygandt,BIZ2022-01,3,4.6,2,1
+36,회계원리,이종은,IFRS 회계원리 해답(5판),신영사,"이효익, 최관, 백원선",BIZ2022-01,3,4.6,2,1
+37,회계원리,이종은,IFRS 회계원리(5판)(양장본 HardCover),신영사,"이효익, 최관, 백원선",BIZ2022-01,3,4.6,2,1
+38,회계원리,이종은,IFRS 회계원리(7판)(양장본 HardCover),신영사,"이효익, 최관, 백원선",BIZ2022-01,3,4.6,2,1
+39,회계원리,이종은,IFRS 회계원리(8판)(양장본 HardCover),신영사,"이효익, 최익, 백원선, 최영수",BIZ2022-01,3,4.6,2,1
+40,회계원리,이효익,IFRS 밀레니엄 회계원리(9판),탐진,"신현걸, 노준화",BIZ2022-01,3,4.6,2,1
+41,회계원리,이효익,IFRS 회계원리 해답(7판),신영사,"이효익, 최관, 백원선",BIZ2022-01,3,4.6,2,1
+42,회계원리,이효익,IFRS 회계원리 해답(8판),신영사,"이효익, 최관, 백원선, 최영수",BIZ2022-01,3,4.6,2,1
+43,회계원리,이효익,IFRS 회계원리 해답(9판),신영사,"이효익, 최관, 백원선, 최영수",BIZ2022-01,3,4.6,2,1
+44,회계원리,이효익,IFRS 회계원리(6판)(양장본 HardCover),신영사,"이효익, 최관, 백원선",BIZ2022-01,3,4.6,2,1
+45,회계원리,이효익,IFRS 회계원리(9판)(양장본 HardCover),신영사,"이효익, 최관, 백원선, 최영수",BIZ2022-01,3,4.6,2,1
+46,회계원리,이효익,회계원리 Study Guide(IFRS 회계원리에 따른),신영사,"김한수, 박연희",BIZ2022-01,3,4.6,2,1
+47,회계원리,홍시운,IFRS 회계원리 해답(6판),신영사,"이효익, 최관, 백원선",BIZ2022-01,3,4.6,2,1
+48,회계원리,홍시운,IFRS 회계원리(2판),샘앤북스,"김기동, 임태종",BIZ2022-01,3,4.6,2,1
+49,회계원리,최영수,Financial Accounting 3e,Wiley,Kimmel,BIZ2022-01,3,4.6,2,1
+50,회계원리,최영수,IFRS 회계원리(수정판 9판)(양장본 HardCover),신영사,"이효익, 최관, 백원선, 최영수",BIZ2022-01,3,4.6,2,1
+51,경영학원론,박명섭,CPA 객관식 경영학(8판)(전2권),밀더북,전수환,BUS2001-01,3,4.8,3,1
+52,경영학원론,김종욱,경영학원론,신영사,"김태웅, 이우헌",BUS2001-01,3,4.8,3,1
+53,경영학원론,김종욱,경영학원론(2판)(양장본 HardCover),신영사,"김태웅, 이우헌",BUS2001-01,3,4.8,3,1
+54,마케팅관리,이석규,AI 2045 인공지능 미래보고서,반니,일본경제신문사,BUS2003-01,3,3.64,3,1
+55,마케팅관리,이석규,도전자의 전략,김앤김북스,애덤 모건,BUS2003-01,3,3.64,3,1
+56,마케팅관리,이석규,디지털과 인간,세종연구원,스티븐 판 벨레험,BUS2003-01,3,3.64,3,1
+57,마케팅관리,이석규,마케팅 관리(세계 일류들의)(양장본 HardCover),율곡출판사,"김정구, 오준환, 이우헌",BUS2003-01,3,3.64,3,1
+58,마케팅관리,이석규,마케팅(4판)(양장본 HardCover),집현재,"이학식, 임지훈",BUS2003-01,3,3.64,3,1
+59,마케팅관리,이석규,마케팅관리,박영사,이석규,BUS2003-01,3,3.64,3,1
+60,마케팅관리,이석규,마케팅관리(핵심)(5판),PEARSON,"필립 코틀러, 케빈 레인 켈러",BUS2003-01,3,3.64,3,1
+61,마케팅관리,이석규,마케팅의 이해(양장본 HardCover),한경사,"이승창, 류성민, 정강옥, 조성도",BUS2003-01,3,3.64,3,1
+62,마케팅관리,이석규,프레임(양장본 HardCover),21세기북스,최인철,BUS2003-01,3,3.64,3,1
+63,마케팅관리,이석규,플랫폼 제국의 미래,비즈니스북스,스콧 갤러웨이,BUS2003-01,3,3.64,3,1
+64,마케팅관리,이석규,플랫폼의 생각법,한스미디어,이승훈,BUS2003-01,3,3.64,3,1
+65,마케팅관리,이석규,현대마케팅론(전면개정판 8판)(양장본 HardCover),박영사,"유필화, 김용준, 한상만",BUS2003-01,3,3.64,3,1
+66,마케팅관리,김지영,Kotler의 마케팅 원리(16판),시그마프레스,"Philip Kotler, Gary Armstrong",BUS2003-01,3,3.64,3,1
+67,마케팅관리,김지영,Principles of Marketing,Pearson,"Philip Kotler, Gary Armstrong",BUS2003-01,3,3.64,3,1
+68,마케팅관리,김지영,Principles of Marketing 15/E: Global Edition,PEARSON,필립 코틀러,BUS2003-01,3,3.64,3,1
+69,마케팅관리,류주연,Marketing Management,Pearson Educacion,Kotler keller,BUS2003-01,3,3.64,3,1
+70,마케팅관리,한상만,전략적 브랜드관리: 이론과 응용(4판)(4판)(양장본 HardCover),학현사,"안광호, 한상만, 전성률",BUS2003-01,3,3.64,3,1
+71,마케팅관리,한상만,현대마케팅론(9판)(양장본 HardCover),박영사,"유필화, 김용준, 한상만",BUS2003-01,3,3.64,3,1
+72,마케팅관리,김정구,날개를 준비하라(스티브 잡스처럼 이건희처럼)(세계일류들의 미래창조 비결 1...,천년의보물,김정구,BUS2003-01,3,3.64,3,1
+73,소비자행동,전선규,소비자행동(5판)(양장본 HardCover),법문사,"이학식, 안광호, 하영원",BUS2005-01,3,3.92,3,1
+74,소비자행동,전선규,소비자행동(6판)(양장본 HardCover),집현재,"이학식, 안광호, 하영원",BUS2005-01,3,3.92,3,1
+75,소비자행동,김정구,Strategic Brand Management,Pearson FT Prentice Hall Highe,Kevin Keller,BUS2005-01,3,3.92,3,1
+76,소비자행동,김정구,날개를 준비하라,천년의보물,김정구,BUS2005-01,3,3.92,3,1
+77,소비자행동,이선녕,Marketing Channels 7/E:a Management View,Thomson,Rosenbloom,BUS2005-01,3,3.92,3,1
+78,소비자행동,이선녕,소비자행동(2판),Cengage Learning,"Frank R Kardes, Maria L Cronley, Thomas W Cline",BUS2005-01,3,3.92,3,1
+79,소비자행동,이선녕,소비자행동(7판),CENGAGE LEARNING,"이명식, 김찬목, 이선수, 김문용, 유병희",BUS2005-01,3,3.92,3,1
+80,재무관리,안희준,"Fundamentals of Corporate Finance, Aisan Global 2 Edition",McGraw Hill,"Ross, Randolph W Westerfield, Bradford D Jordan, Joseph Lim, Ruth Tan",BUS2006-01,3,4.48,3,1
+81,재무관리,안희준,"Fundamentals of Corporate Finance, Aisan Global Edition",McGraw-Hill,"Ross, Joseph Lim, Ruth Tan",BUS2006-01,3,4.48,3,1
+82,재무관리,안희준,Fundamentals of Corprate Finance,McGraw-Hill,Ross,BUS2006-01,3,4.48,3,1
+83,재무관리,안희준,Ross의 재무관리(10판),지필미디어,"Stephen A Ross, Randolph W Westerfield, Bradford D Jordan",BUS2006-01,3,4.48,3,1
+84,재무관리,한중호,Corporate Finance (Asia Global Edition),McGraw-Hill,"Ross, Randolph W Westerfield, Jeffrey Jaffe, Joseph Lim, Ruth Tan",BUS2006-01,3,4.48,3,1
+85,재무관리,한중호,기업의 재무관리(Ross의)(11판),McGraw Hill Education,"Stephen A. Ross, Randolph W Westerfield, Jeffrey Jaffe, Bradford D Jordan",BUS2006-01,3,4.48,3,1
+86,재무관리,한중호,재무관리(Ross의)(12판),지필미디어,Ross,BUS2006-01,3,4.48,3,1
+87,재무관리,한중호,재무관리의 이해(양장본 HardCover),신영사,송교직,BUS2006-01,3,4.48,3,1
+88,재무관리,김현석,재무관리의 이해(2판)(양장본 HardCover),신영사,송교직,BUS2006-01,3,4.48,3,1
+89,재무관리,최종범,Corporate Finance 3/E: The Core (Global Edition),Pearson,Berk,BUS2006-01,3,4.48,3,1
+90,재무관리,최종범,Corporate Finance: The Core,Pearson,Jonathan Berk,BUS2006-01,3,4.48,3,1
+91,재무관리,최종범,Principles of Corporate Finance,McGRAW HILL,"Richard A Brealey, Stewart C Myers, Franklin Allen",BUS2006-01,3,4.48,3,1
+92,재무관리,최종범,기본 재무관리(2판),Pearson,"Jonathan Berk, Peter DeMarzo, Jarrad Harford",BUS2006-01,3,4.48,3,1
+93,재무관리,송교직,현대재무관리(양장본 HardCover),신영사,장영광,BUS2006-01,3,4.48,3,1
+94,재무관리,서정원,Essentials of Financial Management,Cengage Learning,Eugene F Brigham,BUS2006-01,3,4.48,3,1
+95,재무관리,송인욱,국제재무(2판),탑북스,박영규,BUS2006-01,3,4.48,3,1
+96,투자론,서정원,Fundamentals of Investments,McGraw-Hill,Jordan,BUS2007-01,3,3.39,3,1
+97,투자론,김다혜,Essentials of Investments,McGraw-Hill Education,"Zvi Bodie, Alex Kane, Alan J Marcus",BUS2007-01,3,3.39,3,1
+98,투자론,김다혜,기본투자론(Bodie의)(10판),McGraw Hill,"Zvi Bodie, Alex kane, Alan J Marcus",BUS2007-01,3,3.39,3,1
+99,투자론,김다혜,투자론(10판),McGraw Hill,"Bodie, Alex Kane, Alan J Marcus",BUS2007-01,3,3.39,3,1
+100,투자론,최종범,Investment (Asia Global Edition),McGraw-Hill,Bodie,BUS2007-01,3,3.39,3,1
+101,투자론,최종범,Investments,McGraw Hill Education,Bodie,BUS2007-01,3,3.39,3,1
+102,투자론,최종범,Investments 7/E (IE),McGraw-Hill,Bodie,BUS2007-01,3,3.39,3,1
+103,투자론,김현석,현대투자론(6판)(양장본 HardCover),신영사,"장영광, 이영주",BUS2007-01,3,3.39,3,1
+104,금융기관경영의이해,한중호,Financial Institutions Management,McGraw-Hill,Saunders,BUS2009-01,3,4.4,3,1
+105,금융기관경영의이해,한중호,Financial Institutions Management: A Risk Management Approac,McGraw-Hill,편집부,BUS2009-01,3,4.4,3,1
+106,금융기관경영의이해,한중호,"Financial Institutions Management: A Risk Management Approach,",McGraw Hill Education,"Anthony Saunders, Marcia Millon Cornett",BUS2009-01,3,4.4,3,1
+107,금융기관경영의이해,한중호,Financial Markets and Institutions,McGraw Hill,Anthony Saunders,BUS2009-01,3,4.4,3,1
+108,인사관리,김안드레아,Human Resource Management (Paperback),Cengage Learning,Werner,BUS2010-01,3,3.57,3,1
+109,마케팅조사방법,이민환,마케팅조사(4판)(CD1장포함)(양장본 HardCover),집현재,이학식,BUS2011-01,3,3.75,3,1
+110,경영통계,조남형,엑셀과 R Commander를 활용한 통계(양장본 HardCover),신영사,김태웅,BUS2013-03,3,4.33,3,1
+111,경영통계,조남형,통계학개론(4판)(양장본 HardCover),신영사,김태웅,BUS2013-03,3,4.33,3,1
+112,경영통계,김성주,통계학 탐구,박영사,김성주,BUS2013-03,3,4.33,3,1
+113,생산운영관리,이문기,생산 공급망관리의 이해(2판)(양장본 HardCover),신영사,김태웅,BUS2014-01,3,2.91,3,1
+114,생산운영관리,이문기,생산 공급망관리의 이해(양장본 HardCover),신영사,김태웅,BUS2014-01,3,2.91,3,1
+115,생산운영관리,조남형,생산 운영관리의 이해(4판)(양장본 HardCover),신영사,김태웅,BUS2014-01,3,2.91,3,1
+116,생산운영관리,조남형,생산운영관리(11판),석정,"Lee J Krajewski, Manoj K Malhotra, Larry P Ritzman",BUS2014-01,3,2.91,3,1
+117,경영정보시스템,장시영,Management Information System,Pearson,Kenneth C Laudon,BUS2015-01,3,3.77,3,1
+118,경영정보시스템,장시영,Management Information Systems,Pearson Learning,"Laudon, Kenneth C./ Laudon, Jane P.",BUS2015-01,3,3.77,3,1
+119,경영정보시스템,장시영,Management Information Systems : Managing the Digital Firm (Paperback),Pearson Education Asia,Laudon Kenneth,BUS2015-01,3,3.77,3,1
+120,경영정보시스템,장시영,"Management information systems, Global Edition",Pearson,Jane P Laudon Kenneth C Laudon,BUS2015-01,3,3.77,3,1
+121,경영정보시스템,장시영,"Management Information Systems, Student Value Edition &amp; New Mymislab...",Prentice Hall,"Kenneth C. Laudon, Jane Laudon",BUS2015-01,3,3.77,3,1
+122,경영정보시스템,장시영,Management Information Systems: Managing the Digital Firm(Global Edition),"Pearson Education, Limited",Kenneth C Laudon,BUS2015-01,3,3.77,3,1
+123,경영정보시스템,장시영,경영의사결정(Excel 2013을 활용한)(3판),신영사,김종욱,BUS2015-01,3,3.77,3,1
+124,경영정보시스템,장시영,경영정보시스템(14판),시그마프레스,"Kenneth C Laudon, Jane P Laudon",BUS2015-01,3,3.77,3,1
+125,경영정보시스템,장시영,경영정보시스템(미래 비즈니스를 위한)(2판),시그마프레스,"R Kelly Rainer, Brad Prince, Hugh Watson",BUS2015-01,3,3.77,3,1
+126,경영정보시스템,장시영,경영정보시스템의 이해(10판),한티미디어,"Kenneth C Laudon, Jane PLaudon",BUS2015-01,3,3.77,3,1
+127,경영정보시스템,문병석,경영정보시스템(2판)(양장본 HardCover),비앤엠북스,"천면중, 이민화, 허명숙",BUS2015-01,3,3.77,3,1
+128,경영정보시스템,한민희,경영정보시스템(미래 비즈니스를 위한)(3판),시그마프레스,"Kelly Rainer, Brad Prince, Hugh Watson",BUS2015-01,3,3.77,3,1
+129,경영정보시스템,한민희,경영정보시스템의 이해(12판),한티미디어,"Kenneth C Laudon, Jane P Laudon",BUS2015-01,3,3.77,3,1
+130,경영정보시스템,한민희,미래 비즈니스를 위한 경영정보시스템,시그마프레스,없음,BUS2015-01,3,3.77,3,1
+131,국제경영,이윤,글로벌경영(8판),박영사,장세진,BUS2018-01,3,5.0,3,1
+132,국제경영,이윤,글로벌경영(개정판 9판),박영사,장세진,BUS2018-01,3,5.0,3,1
+133,세법개론,정문기,객관식 세법(2018),현지,"이승원, 이승철",BUS2027-01,3,4.37,3,1
+134,세법개론,정문기,객관식 세법(2020)(객관식),현지,"이승원, 이승철",BUS2027-01,3,4.37,3,1
+135,세법개론,정문기,세법개론 세트(2019)(25판)(전2권),상경사,"임상엽, 정정운",BUS2027-01,3,4.37,3,1
+136,세법개론,정문기,세법개론(2017)(23판),상경사,"임상엽, 정정운",BUS2027-01,3,4.37,3,1
+137,세법개론,정문기,세법개론(2018)(24판),상경사,"임상엽, 정정운",BUS2027-01,3,4.37,3,1
+138,조직행동,신지선,"Organization Behavior And Change, 12/e : Managing Human Resources For...",Stipes,Head Thomas C/ Sorensa Peter F/ Baum Bernard,BUS2028-01,3,4.38,3,1
+139,조직행동,신지선,Organizational Behavior : Managing People and Organizations (Paperback),South Western,Griffin,BUS2028-01,3,4.38,3,1
+140,조직행동,신지선,"Outlines &amp; Highlights for Organizational Behavior by Ricky Griffin, ISBN...",Academic Internet Publishers,없음,BUS2028-01,3,4.38,3,1
+141,조직행동,문지영,CTE Organizational Behavior,CENGAGE LEARNING,Ricky W GRIFFIN,BUS2028-01,3,4.38,3,1
+142,조직행동,문지영,Organizational Behavior,Pearson,"Stepher R Robbins, Timothy A Judge",BUS2028-01,3,4.38,3,1
+143,조직행동,차동옥,Organizational Behavior : Managing People and Organizations,South Western,없음,BUS2028-01,3,4.38,3,1
+144,조직행동,차동옥,Principles of Organizational Behavior,Cengage Learning,James Quick,BUS2028-01,3,4.38,3,1
+145,중급회계1,정문기,IFRS 중급회계. 1(5판),샘앤북스,"김기동, 김태동",BUS2029-01,3,3.77,3,1
+146,중급회계1,정문기,IFRS 중급회계(7판),탐진,"신현걸, 최창규, 김현식",BUS2029-01,3,3.77,3,1
+147,중급회계1,정문기,IFRS 중급회계(상)(4판),원,김재호,BUS2029-01,3,3.77,3,1
+148,중급회계1,정문기,K-IFRS 중급재무회계(11판),신영사,"송인만, 윤순석, 최관",BUS2029-01,3,3.77,3,1
+149,중급회계1,정문기,중급 재무회계 해답(K-IFRS)(8판),신영사,"송인만, 윤순석, 최관",BUS2029-01,3,3.77,3,1
+150,중급회계1,정문기,중급 재무회계(K-IFRS)(8판),신영사,"송인만, 윤순석, 최관",BUS2029-01,3,3.77,3,1
+151,중급회계1,정문기,중급재무회계 연습(K-IFRS)(5판),신영사,"송인만, 윤순석, 김한수, 지현미",BUS2029-01,3,3.77,3,1
+152,중급회계1,정문기,중급재무회계 해답(K-IFRS)(10판),신영사,"송인만, 윤순석, 최관",BUS2029-01,3,3.77,3,1
+153,중급회계1,정문기,중급재무회계 해답(K-IFRS)(9판),신영사,"송인만, 윤순석, 최관",BUS2029-01,3,3.77,3,1
+154,중급회계1,정문기,중급재무회계 해답(K-IFRS)(수정판 8판),신영사,"송인만, 윤순석, 최관",BUS2029-01,3,3.77,3,1
+155,중급회계1,정문기,중급재무회계(K-IFRS)(10판),신영사,"송인만, 윤순석, 최관",BUS2029-01,3,3.77,3,1
+156,중급회계1,정문기,중급재무회계(K-IFRS)(9판),신영사,"송인만, 윤순석, 최관",BUS2029-01,3,3.77,3,1
+157,중급회계1,정문기,중급재무회계(K-IFRS)(수정판 8판),신영사,"송인만, 윤순석, 최관",BUS2029-01,3,3.77,3,1
+158,중급회계1,최관,IFRS 중급 회계(6판),탐진,"신현걸, 최창규, 김현식",BUS2029-01,3,3.77,3,1
+159,중급회계1,최관,K-IFRS 중급 재무회계(7판),신영사,"송인만, 윤순석, 최 관",BUS2029-01,3,3.77,3,1
+160,경제학원론1,조준모,Principles of Economics,Cengage Learning,그레고리 맨큐,ECO2001-01,3,3.62,4,1
+161,경제학원론1,조준모,맨큐의 경제학 연습문제풀이(7판),한티미디어,NGregory Mankiw,ECO2001-01,3,3.62,4,1
+162,경제학원론1,조준모,맨큐의 경제학 연습문제풀이(8판),센게이지러닝코리아,그레고리 맨큐,ECO2001-01,3,3.62,4,1
+163,경제학원론1,조준모,맨큐의 경제학(7판),Cengage Learning,그레고리 맨큐,ECO2001-01,3,3.62,4,1
+164,경제학원론1,조준모,맨큐의 경제학(8판),한티에듀,그레고리 맨큐,ECO2001-01,3,3.62,4,1
+165,경제학원론1,김일중,경제학원론,시그마프레스,"대런 애쓰모글루, David Laibson, 존 리스트",ECO2001-01,3,3.62,4,1
+166,경제학원론1,김일중,경제학원론(5판)(양장본 HardCover),문우사,"이준구, 이창용",ECO2001-01,3,3.62,4,1
+167,경제학원론1,김일중,맨큐의 경제학(5판),Cengage Learning,Mankiw,ECO2001-01,3,3.62,4,1
+168,경제학원론1,김일중,맨큐의 경제학(6판),Cengage Learning,N Gregory Mankiw,ECO2001-01,3,3.62,4,1
+169,경제학원론1,김일중,미시경제학(3판),시그마프레스,"David Besanko, RONALD R BRAEUTIGAM",ECO2001-01,3,3.62,4,1
+170,경제학원론1,송욱헌,맨큐의 경제학 연습문제 풀이집(6판),Cengage Learning,N Gregory Mankiw,ECO2001-01,3,3.62,4,1
+171,경제학원론1,송욱헌,맨큐의 핵심경제학(5판),Cengage Learning,그레고리 맨큐,ECO2001-01,3,3.62,4,1
+172,경제학원론1,지민웅,경제학원론(4판)(양장본 HardCover),법문사,"이준구, 이창용",ECO2001-01,3,3.62,4,1
+173,경제학원론1,신혜원,미시경제학(6판)(양장본 HardCover),문우사,이준구,ECO2001-01,3,3.62,4,1
+174,경제학원론1,이지윤,Microeconomics 2/E,Wiley,Besanko,ECO2001-01,3,3.62,4,1
+175,통계학원론,이준석,통계학원론(양장본 HardCover),박영사,김동욱,STA2011-01,3,4.38,5,1
+176,마케팅전략,한상만,경쟁우위 마케팅전략(4판)(양장본 HardCover),박영사,"한상만, 하영원, 장대련",BUS2004-01,3,3.33,3,1
+177,마케팅전략,한상만,마케팅전략(경쟁우위)(3판)(양장본 HardCover),박영사,"한상만, 하영원, 장대련",BUS2004-01,3,3.33,3,1
+178,국제재무관리,박영규,국제재무(3판)(양장본 HardCover),탑북스,박영규,BUS2008-01,3,3.21,3,1
+179,국제물류,박명섭,국제물류론 연습,아카데미프레스,박명섭,BUS3001-01,3,4.58,3,2
+180,국제물류,박명섭,국제물류의 이해(4판)(양장본 HardCover),법문사,박명섭,BUS3001-01,3,4.58,3,2
+181,경영전략,최희원,전략경영(글로벌 시대의 경쟁력 강화를 위한)(12판),Cengage Learning,"Michael A Hitt, R Duane Ireland, Robert E Hoskisson",BUS3008-04,3,5.0,3,2
+182,경영전략,김주희,TOP을 위한 전략경영 5.0,피앤씨미디어,"김언수, 김봉선",BUS3008-04,3,5.0,3,2
+183,조직설계,현선해,21세기 미국의 패권과 지정학,김앤김북스,피터 자이한,BUS3009-01,3,2.89,3,2
+184,조직설계,현선해,Organization Theory and Design,Cengage Learning,Richard L Daft,BUS3009-01,3,2.89,3,2
+185,조직설계,현선해,Organizational Theory Design and Change (Paperback),Pearson Educacion,Jones,BUS3009-01,3,2.89,3,2
+186,조직설계,현선해,강자의 조건,MID,이주희,BUS3009-01,3,2.89,3,2
+187,조직설계,현선해,대항해 시대(양장본 HardCover),서울대학교출판부,주경철,BUS3009-01,3,2.89,3,2
+188,조직설계,현선해,조직설계의 기초(3판)(양장본 HardCover),무역경영사,"현선해, 최세경, 서문교",BUS3009-01,3,2.89,3,2
+189,조직설계,현선해,조직설계의 기초(개정판)(양장본 HardCover),무역경영사,"현선해, 최세경, 서문교",BUS3009-01,3,2.89,3,2
+190,조직설계,최세경,조직이론과 설계(12판),Cengage Learning,Richard L Daft,BUS3009-01,3,2.89,3,2
+191,인터넷과경영,나형종,e-비즈니스와 e-커머스(2판)(양장본 HardCover),법문사,"차훈상, 유소은, 홍일유, 김태하",BUS3011-01,3,3.62,3,2
+192,인터넷과경영,나형종,디지털 시대의 경영,Gbrain(지브레인),"이원준, 강윤정",BUS3011-01,3,3.62,3,2
+193,글로벌리스크관리보험,정홍주,Introduction to Risk Management and Insurance,PEARSON,Mark s Dorfman,BUS3027-02,3,2.32,3,2
+194,글로벌리스크관리보험,정홍주,Introduction to Risk Management and Insurance  (International Edition),Pearson,Dorfman,BUS3027-02,3,2.32,3,2
+195,글로벌리스크관리보험,정홍주,리스크와 보험(3판)(양장본 HardCover),문영사,보험경영연구회,BUS3027-02,3,2.32,3,2
+196,글로벌리스크관리보험,정홍주,리스크와 보험(개정판)(양장본 HardCover),문영사,보험경영연구회,BUS3027-02,3,2.32,3,2
+197,글로벌리스크관리보험,정홍주,보험마케팅(소비자 중심의),문영사,정홍주,BUS3027-02,3,2.32,3,2
+198,계량경제이론1,한희준,계량경제학. 1(7판),박영사,"Jeffrey M Wooldridge, 한치록",ECO7002-01,3,4.73,4,2
+199,상법2,최준선,상법 사례형 기출(2018)(로이어스),헤르메스,이정엽,BIZ2024-01,3,4.38,2,1
+200,상법2,최준선,상법(Ⅱ),삼영사,최준선,BIZ2024-01,3,4.38,2,1
+201,상법2,최준선,어음 수표법,삼영사,없음,BIZ2024-01,3,4.38,2,1
+202,상법2,최준선,회계사 상법(16판),나무와사람,"오수철, 심유식",BIZ2024-01,3,4.38,2,1
+203,파생상품론,김다혜,Finance and the Good Society,Princeton University Press,Shiller Robert J,BUS3028-01,3,4.38,3,2
+204,파생상품론,김다혜,Fundamentals of Futures and Options markets,Pearson Higher Education,John Hull,BUS3028-01,3,4.38,3,2
+205,파생상품론,김다혜,Fundamentals of Futures and Options Markets (GE),Pearson,John C Hull,BUS3028-01,3,4.38,3,2
+206,파생상품론,김다혜,Fundamentals of Futures and Options Markets 8/E (International Edition),Pearson Educacion,Hull,BUS3028-01,3,4.38,3,2
+207,파생상품론,김다혜,새로운 금융시대,알에이치코리아,로버트 쉴러,BUS3028-01,3,4.38,3,2
+208,파생상품론,김다혜,파생상품의 평가와 헷징전략(8판)(CD1장포함),퍼스트북,John C. Hull,BUS3028-01,3,4.38,3,2
+209,파생상품론,신영석,Fundamentals of Futures and Options Markets,Pearson College Div,없음,BUS3028-01,3,4.38,3,2
+210,기업재무전략,박흥주,Corporate Finance,McGraw Hill,"Ross, Westerfield, Jaffe, Jordan",BUS3029-01,3,4.6,3,2
+211,유통관리론,박민혜,유통의 이해(3판),작은책방,류성민,BUS3032-01,3,4.05,3,2
+212,중국마케팅,노은영,중국마케팅(China Marketing)(전면개정판 5판),박영사,김용준,BUS3033-01,3,4.0,3,2
+213,중국마케팅,노은영,차이나 마케팅(전면개정판 4판)(양장본 HardCover),박영사,김용준,BUS3033-01,3,4.0,3,2
+214,중국마케팅,엄금철,China Marketing(중국마케팅)(개정판 3판)(양장본 HardCover),박영사,김용준,BUS3033-01,3,4.0,3,2
+215,중국마케팅,김용준,China Markeitng(중국마케팅),박영사,김용준,BUS3033-01,3,4.0,3,2
+216,중국마케팅,김용준,차이나 마케팅,e비즈북스,없음,BUS3033-01,3,4.0,3,2
+217,경영과학,조남형,경영과학(12판),시그마프레스,Bernard W Taylor,BUS3035-01,3,4.14,3,2
+218,회계감사,이종은,회계감사(New ISA)(4판),신영사,"이효익, 김한수, 이종은",BUS3020-01,3,4.6,3,2
+219,Financial Management,최종범,Investment Valuation,Wiley,Damodaran Aswath,GBA2005-01,3,4.4,6,1
+220,Financial Management,최종범,Principles of Corporate Finance Concise,McGraw-Hill,"Richard A. Brealey, Stewart C. Myers, Franklin Allen",GBA2005-01,3,4.4,6,1
+221,Intermediate Investments,신영석,"Exam Prep for Essentials of Investments by Bodie, Kane, &amp; Marcus, 6th Ed.",Mznlnx,없음,GBA2010-01,3,4.3,6,1
+222,Consumer Behavior,김학균,Consumer Behavior,Cengage Learning,"Frank R Kardes, Maria L Cronley, Thomas W Cline",GBA2029-01,3,3.56,6,1
+223,Intermediate Accounting I,최선화,Intermediate Accounting,Wiley,Kieso,GBA2032-01,3,4.56,6,1
+224,Business Statistics II,이건웅,Statistics for Managers Using Microsoft Excel,"Pearson Education, Limited","David M Levine, David F Stephan, Kathryn A Szabat",GBA3042-01,3,3.55,6,2
+225,Introduction to Microeconomics,송은지,Principles of microeconomics,Cengage Learning,Mankiw,GEC2009-01,3,3.33,7,1
+226,Introduction to Microeconomics,송은지,Principles of Microeconomics,CENGAGE LEARNING,Mankiw N Gregory,GEC2009-01,3,3.33,7,1
+227,IT Management,이건창,Information Technology For Management,Wiley Custom,"Efraim Turban, Carol Pollard, Gregory Wood",GBA2035-02,3,3.13,6,1
+228,Advertising and Promotion Management,한영지,Advertising &amp; Promotion,McGraw-Hill,Belch,GBA3013-01,3,3.0,6,2
+229,Current Topics in Finance,임태섭,Equity Asset Valuation 2/E (Hardcover),Wiley,Pinto Jerald E/ Henry Elaine/ Robinson Thomas,GBA3025-01,3,4.45,6,2
+230,집단심리,권영미,Group Dynamics 5/E,Wadsworth,"Forsyth, Donelson R.",PSY3006-01,3,4.29,8,2
+231,집단심리,권영미,집단역학(5판),CENGAGE LEARNING,Donelson R Forsyth,PSY3006-01,3,4.29,8,2
+232,경제학원론2,김인무,거시 경제의 이해,퍼플,김인무,ECO2002-01,3,4.14,4,1
+233,경제학원론2,박형수,경제학(크루그먼의)(3판),시그마프레스,"폴 크루그먼, Robin Wells",ECO2002-01,3,4.14,4,1
+234,경제학원론2,박형수,경제학원론(10판),율곡출판사,"조순, 정운찬, 전성인, 김영식",ECO2002-01,3,4.14,4,1
+235,경제학원론2,박형수,크루그먼의 경제학(4판),시그마프레스,"폴 크루그먼, Robin Wells",ECO2002-01,3,4.14,4,1
+236,경제학원론2,박형수,크루그먼의 경제학입문(3판),시그마프레스,"폴 크루그먼, Graddy",ECO2002-01,3,4.14,4,1
+237,경제학원론2,김정훈,거시경제학(9판)(양장본 HardCover),시그마프레스,그레고리 맨큐,ECO2002-01,3,4.14,4,1
+238,경제학원론2,김정훈,경제학 연습: 거시편(7판),세경북스,정병열,ECO2002-01,3,4.14,4,1
+239,경제학원론2,김정훈,경제학원론(최신),형지사,김봉호,ECO2002-01,3,4.14,4,1
+240,미시경제학,이진형,트리니티 미시경제학(5판),윌비스,황종휴,ECO2003-02,3,4.25,4,1
+241,미시경제학,장선구,객관식 경제학 미시편(3판),비앤엠북스,장선구,ECO2003-02,3,4.25,4,1
+242,미시경제학,장선구,객관식 경제학(거시편)(3판),비앤엠북스,"장선구, 정영숙, 이재민",ECO2003-02,3,4.25,4,1
+243,미시경제학,장선구,객관식 경제학(원샷 123)(양장본 HardCover),비앤엠북스,장선구,ECO2003-02,3,4.25,4,1
+244,미시경제학,장선구,미시경제학 연습문제 해답집,박영사,"김영산, 왕규호",ECO2003-02,3,4.25,4,1
+245,미시경제학,장선구,미시경제학: 수학노트와 연습문제 해답(5판),법문사,이준구,ECO2003-02,3,4.25,4,1
+246,미시경제학,장선구,미시경제학: 수학노트와 연습문제 해답(6판),문우사,이준구,ECO2003-02,3,4.25,4,1
+247,미시경제학,장선구,미시경제학(2판),시그마프레스,"Austan Goolsbee, Steven Levitt, Chad Syverson",ECO2003-02,3,4.25,4,1
+248,미시경제학,장선구,미시경제학(2판)(양장본 HardCover),박영사,"김영산, 왕규호",ECO2003-02,3,4.25,4,1
+249,미시경제학,장선구,미시경제학(예제와 함께하는)(2판),박영사,임봉욱,ECO2003-02,3,4.25,4,1
+250,미시경제학,장선구,미시경제학연습(4판),율곡출판사,임봉욱,ECO2003-02,3,4.25,4,1
+251,미시경제학,장선구,장선구 경제학 필기노트,지금,장선구,ECO2003-02,3,4.25,4,1
+252,미시경제학,장선구,현대 경제학(양장본 HardCover),율곡출판사,"최병권, 장선구",ECO2003-02,3,4.25,4,1
+253,미시경제학,송은지,Intermediate Microeconomics with Calculus,Norton,Varian,ECO2003-02,3,4.25,4,1
+254,미시경제학,김용관,Intermediate Microeconomics,W.W.Norton,Varian,ECO2003-02,3,4.25,4,1
+255,미시경제학,김용관,Intermediate Microeconomics a Modern Approach Workouts in Intermediate...,Gardners Books,없음,ECO2003-02,3,4.25,4,1
+256,미시경제학,김용관,Macroeconomics 5/E: International Edition,Pearson,Williamson,ECO2003-02,3,4.25,4,1
+257,미시경제학,김용관,경제학 연습: 미시편(7판),세경북스,정병열,ECO2003-02,3,4.25,4,1
+258,미시경제학,김용관,미시경제학(7판)(양장본 HardCover),문우사,이준구,ECO2003-02,3,4.25,4,1
+259,미시경제학,김용관,미시적 경제분석(중판 3판),박영사,"강태진, 유정식, 홍종학",ECO2003-02,3,4.25,4,1
+260,거시경제학,김인철,Macroeconomics,Pearson,"Daron Acemoglu, David Laibson, John A List",ECO2004-01,3,2.06,4,1
+261,거시경제학,장선구,거시경제론 연습문제 해설집(12판),율곡,김영식,ECO2004-01,3,2.06,4,1
+262,거시경제학,장선구,거시경제론(10판),율곡출판사,"정운찬, 김영식",ECO2004-01,3,2.06,4,1
+263,거시경제학,장선구,거시경제론(12판)(양장본 HardCover),율곡출판사,"정운찬, 김영식",ECO2004-01,3,2.06,4,1
+264,거시경제학,장선구,거시경제학 해법(9판),시그마프레스,그레고리 맨큐,ECO2004-01,3,2.06,4,1
+265,거시경제학,장선구,거시경제학(2판),박영사,"이종화, 신관호",ECO2004-01,3,2.06,4,1
+266,거시경제학,장선구,정석 거시경제론(양장본 HardCover),비앤엠북스,"박환재, 장선구, 이진형",ECO2004-01,3,2.06,4,1
+267,거시경제학,이근영,Macroeconomics(Global Edition),Peachpit Press,Blanchard Olivier,ECO2004-01,3,2.06,4,1
+268,거시경제학,이근영,거시경제학(6판)(양장본 HardCover),시그마프레스,"Olivier Blanchard, David R Johnson",ECO2004-01,3,2.06,4,1
+269,거시경제학,이근영,거시경제학(7판),시그마프레스,Olivier Blanchard,ECO2004-01,3,2.06,4,1
+270,거시경제학,김영세,Macroeconomics 8/E (Paperback),Macmillan,Mankiw N Gregory,ECO2004-01,3,2.06,4,1
+271,거시경제학,김영세,거시경제학(4판)(양장본 HardCover),박영사,"김경수, 박대근",ECO2004-01,3,2.06,4,1
+272,거시경제학,김영세,거시경제학(5판)(양장본 HardCover),박영사,"김경수, 박대근",ECO2004-01,3,2.06,4,1
+273,거시경제학,김영세,거시경제학(7판)(양장본 HardCover),시그마프레스,그레고리 맨큐,ECO2004-01,3,2.06,4,1
+274,거시경제학,김영세,거시경제학(8판)(양장본 HardCover),시그마프레스,그레고리 맨큐,ECO2004-01,3,2.06,4,1
+275,경제사,송병건,경제사: 세계화와 세계 경제의 역사(3판),해남,송병건,ECO2006-01,3,4.49,4,1
+276,경제사,송병건,경제사(2판),해남,송병건,ECO2006-01,3,4.49,4,1
+277,경제사,이성주,세계화의 풍경들(비주얼 경제사 2),아트북스,송병건,ECO2006-01,3,4.49,4,1
+278,경제통계분석,김인무,경제경영통계학(3판),박영사,이종원,ECO2011-01,3,3.72,4,1
+279,경제통계분석,김인무,경제경영통계학(3판)(양장본 HardCover),박영사,이종원,ECO2011-01,3,3.72,4,1
+280,경제통계분석,전용일,Statistics for Business and Economics,Pearson Education Asia,Newbold,ECO2011-01,3,3.72,4,1
+281,경제통계분석,전용일,Statistics for Business and Economics 8 (Paperback),Pearson Educacion,Newbold,ECO2011-01,3,3.72,4,1
+282,선형대수학의응용,윤상운,Introduction to Mathematical Statistics,PEARSON,Robert V Hogg,MAE2004-01,3,5.0,9,1
+283,선형대수학의응용,윤상운,Linear Algebra and Its Applications,PEARSON,David Lay,MAE2004-01,3,5.0,9,1
+284,수리통계학입문,홍종선,통계적확률분포,자유아카데미,홍종선,STA2014-01,3,4.91,5,1
+285,수리통계학입문,홍종선,통계적확률분포(수정보완판)(양장본 HardCover),자유아카데미,홍종선,STA2014-01,3,4.91,5,1
+286,수리경제학,김용관,Microeconomic Analysis,W.W.Norton,Varian,ECO3001-01,3,4.23,4,2
+287,금융정책,이근영,화폐와 금융(미쉬킨의)(11판),퍼스트북,Frederic S Mishkin,ECO3011-01,3,4.2,4,2
+288,금융정책,전용일,"Economics of Money, Banking, and Financial Markets","Pearson Education, Limited",Frederic S Mishkin,ECO3011-01,3,4.2,4,2
+289,금융정책,전용일,"The Economics of Money, Banking, and Financial Markets",Pearson,Frederic S Mishkin,ECO3011-01,3,4.2,4,2
+290,금융정책,전용일,화폐와 금융(10판),PEARSON EDUCATION KOREA,Frederic S Mishkin,ECO3011-01,3,4.2,4,2
+291,재정정책,최봉제,재정학(4판)(양장본 HardCover),다산출판사,이준구,ECO3014-01,3,4.33,4,2
+292,재정정책,최봉제,재정학(5판)(양장본 HardCover),문우사,"이준구, 조명환",ECO3014-01,3,4.33,4,2
+293,재정정책,최창옥,재정학과 공공정책(3판)(양장본 HardCover),시그마프레스,Jonathan Gruber,ECO3014-01,3,4.33,4,2
+294,재정정책,최창옥,재정학과 공공정책(5판)(반양장),시그마프레스,Jonathan Gruber,ECO3014-01,3,4.33,4,2
+295,국제금융론,조두연,International Economics 11/E,Pearson / Prentice Hall,Krugman,ECO3015-01,3,3.63,4,2
+296,국제금융론,조두연,International Economics theory and policy(GE),Pearson Higher Education,krugman,ECO3015-01,3,3.63,4,2
+297,국제금융론,조두연,국제경제학(10판)(양장본 HardCover),시그마프레스,"Paul R Krugman, Maurice Obstfeld, Marc J Melitz",ECO3015-01,3,3.63,4,2
+298,국제통상론,정미경,국제무역론(3판),교보문고,"Robert C Feensta, Alan M Taylor",ECO3018-03,3,3.74,4,2
+299,국제통상론,김영한,International Economics : Theory and Policy,Pearson Education Asia,Krugman Paul,ECO3018-03,3,3.74,4,2
+300,국제통상론,김영한,The Political Economy of the World Trading System,"Oxford University Press, USA","Hoekman, Bernard M./ Kostecki, Michel M.",ECO3018-03,3,3.74,4,2
+301,국제통상론,김영한,국제경제학(9판),Pearson,"Paul R Krugman, Maurice Obstfeld, Marc J",ECO3018-03,3,3.74,4,2
+302,국제통상론,김영한,국제무역론(양장본 HardCover),진샘미디어,"김영한, 여택동, 이종민, 최용제",ECO3018-03,3,3.74,4,2
+303,도시경제학,김호연,도시경제학(오설리반의)(7판)(양장본 HardCover),박영사,Arthur O Sullivan,ECO3025-01,3,3.0,4,2
+304,도시경제학,김호연,오설리반의 도시경제학(8판)(양장본 HardCover),박영사,Arthur O'Sullivan,ECO3025-01,3,3.0,4,2
+305,의료경제학,이진형,Health Economics[6e],SOUTH-WESTERNCENGAGELEARNING,REXFORD E. SANTERRE,ECO3033-01,3,3.42,4,2
+306,미시경제학1,송준,Microeconomic Theory,South Western,Nicholson Walter,ECO4002-01,3,4.0,4,3
+307,영어회화및작문,션노르만딘,Emma,W. W. Norton & Company,제인 오스틴,ENG3047-01,3,4.15,10,2
+308,영어회화및작문,션노르만딘,MLA Handbook,Modern Language Association of America,The Modern Language Association of America,ENG3047-01,3,4.15,10,2
+309,영어회화및작문,션노르만딘,Pride and Prejudice,Signet Classics,"제인 오스틴, James Eloisa, Drabble Margaret",ENG3047-01,3,4.15,10,2
+310,지역통상론,차경은,국제경제통합론(개정판),시그마프레스,손병해,INT3004-01,3,3.88,11,2
+311,지역통상론,차경은,국제경제통합론(양장본 HardCover),시그마프레스,손병해,INT3004-01,3,3.88,11,2
+312,Mathematics for Economics,송준,[스크래치C]경제 경영수학 길잡이,지필,없음,GEC2005-01,3,4.06,7,1
+313,Mathematics for Economics,송준,Fundamental Methods of Mathematical Economics,McGraw-Hill,Chiang,GEC2005-01,3,4.06,7,1
+314,Mathematics for Economics,송준,경제 경영수학 길잡이(4판)(양장본 HardCover),한국맥그로힐,"Alpha C. Chiang, Kevin Wainwright",GEC2005-01,3,4.06,7,1
+315,International Trade,김영한,International Economics,Worth,Feenstra,GEC3103-01,3,4.21,7,2
+316,International Trade,김영한,International Economics 8/E: Theory and Policy,Addison Wesley,Krugman,GEC3103-01,3,4.21,7,2
+317,International Trade,김영한,국제경제론(4판),다산출판사,김인준,GEC3103-01,3,4.21,7,2
+318,International Trade,김영한,국제금융론(3판),교보문고,"Robert C Feenstra, Alan M Taylor",GEC3103-01,3,4.21,7,2
+319,Game Theory,백경환,Introduction to Game Theory,Oxford USA,Osborne,GEC3105-01,3,4.24,7,2
+320,Money and Banking,이승덕,Money Banking and the Financial System,Pearson Education Asia,Hubbard R Glenn,GEC3201-01,3,3.6,7,2
+321,International Monetary Economics,김경수,국제경제학(핵심)(3판),시그마프레스,"Robert C Feenstra, Alan M Taylor",GEC3202-01,3,4.4,7,2
+322,International Monetary Economics,김경수,국제금융론,교보문고,"Feenstra, Alan M Taylor",GEC3202-01,3,4.4,7,2
+323,Econometrics,한희준,Basic Econometrics,McGraw Hill,Gujarati,GEC3204-01,3,3.07,7,2
+324,Public Economics,이동원,Public Finance,McGraw-Hill,편집부,GEC3401-01,3,3.9,7,2
+325,Public Economics,이동원,재정학(Rosen의)(9판),McGraw-Hill,"Rosen, Ted Gayer",GEC3401-01,3,3.9,7,2
+326,통계수학,안수형,미적분학,경문사,강윤수,STA2008-01,3,4.18,5,1
+327,회귀분석입문,서병태,Regression Analysis by Example,WILEY,"Samprit Chatterjee, Ali S Hadi",STA2010-01,3,4.47,5,1
+328,회귀분석입문,서병태,회귀분석(예제를 통한)(4판),자유아카데미,SAMPRIT CHATTERJEE,STA2010-01,3,4.47,5,1
+329,회귀분석입문,서병태,회귀분석(예제를 통한)(5판),자유아카데미,"Samprit Chatterjee, Ali S Hadi",STA2010-01,3,4.47,5,1
+330,행렬대수학,안수형,Matrix Algebra Useful for Statistics,Wiley,"Shayle R Searle, Andre I Khuri",STA2017-01,3,4.17,5,1
+331,표본조사론,이준석,표본조사의 이해와 활용(7판),교우사,"Richard L. Scheaffer, William Mendenhall lll, R Lyman Ott, Kenneth G Gerow",STA3025-01,3,3.31,5,2
+332,보험통계,권수연,최신 보험통계학(양장본 HardCover),자유아카데미,"홍종선, 전흥기",STA3018-01,3,3.88,5,2
+333,구조역학,이정윤,"Structural Analysis, Si Edition",Cengage Learning,Aslam Kassimali,CAL2002-41,3,4.5,12,1
+334,구조역학,이정윤,구조해석(5판),동화기술,Aslam Kassimali,CAL2002-41,3,4.5,12,1
+335,구조역학,이정윤,구조해석(양장본 HardCover),동화기술,ASLAM KASSIMALI,CAL2002-41,3,4.5,12,1
+336,환경공학개론,염익태,Introduction To Environmental Engineering,Cengage Learning,Vesilind P Aarne/ Morgan Susan M/ Heine Laure,CAL2015-41,3,4.67,12,1
+337,기초유체역학,이정렬,유체역학(9판),한티미디어,CROWE,CAL2016-41,3,4.0,12,1
+338,창의적공학설계,남성우,창의적설계입문,생능,김용세,ERC2006-41,3,3.84,13,1
+339,창의적공학설계,남성우,창의적설계입문(워크북포함)(전2권),생능출판사,김용세,ERC2006-41,3,3.84,13,1
+340,창의적공학설계,전재욱,레고 마인드스톰 NXT 기반 임베디드시스템 설계,성균관대학교출판부,전재욱,ERC2006-41,3,3.84,13,1
+341,기술경영개론,이지훈,기술 경영 전략 PLUS,경문사,이주성,ERC2008-41,3,4.34,13,1
+342,기술경영개론,이지훈,기술경영과 혁신전략(3판),McGraw-Hill,Schilling,ERC2008-41,3,4.34,13,1
+343,기술경영개론,이지훈,기술경영과 혁신전략(5판)(양장본 HardCover),McGraw-Hill Education,Melissa A Schilling,ERC2008-41,3,4.34,13,1
+344,기술경영개론,이선우,기술경영학개론(양장본 HardCover),탐진,"김영준, 송경모, 민재웅, 윤지환, 조용덕",ERC2008-41,3,4.34,13,1
+345,기술경영개론,조근태,기술경영과 혁신전략(4판),McGraw-Hill,Schilling,ERC2008-41,3,4.34,13,1
+346,발명가를위한실천적특허법,정차호,특허법의 진보성,박영사,없음,COV3028-41,3,4.55,14,2
+347,공학수치해석,이동우,Applied Numerical Methods With MATLAB for Engineers and Scientists,McGraw-Hill,Steven C Chapra,ERC2007-41,3,3.36,13,1
+348,공학수치해석,이동우,Numerical Methods for Engineers,McGraw-Hill,Chapra,ERC2007-41,3,3.36,13,1
+349,공학수치해석,이동우,응용수치해석(3판)(양장본 HardCover),한티미디어,Steven C Chapra,ERC2007-41,3,3.36,13,1
+350,공학수치해석,이동우,응용수치해석(제2판),한국맥그로힐,STEVEN CCHAPRA,ERC2007-41,3,3.36,13,1
+351,공학수치해석,남재도,MATHEMATICA를 이용한 길잡이 수치해석,미래컴,남재도 이종훈,ERC2007-41,3,3.36,13,1
+352,공학수치해석,남재도,길잡이 수치해석(Mathematica와 MATLAB을 이용한),에듀컨텐츠휴피아,"남재도, 김예찬",ERC2007-41,3,3.36,13,1
+353,신호및시스템,홍광석,신호와 시스템(개정2판)(2판),범한서적,SIMON HAYKIN,EEE2008-41,3,2.81,15,1
+354,신호및시스템,전병우,Signals and Systems,Wiley,"Simon Haykin, Barry Van Veen",EEE2008-41,3,2.81,15,1
+355,신호및시스템,유재천,Signals &amp; Systems,Pearson,Oppenheim,EEE2008-41,3,2.81,15,1
+356,열역학,권오채,Fundamentals of thermodynamics,Wiley,Borgnakke,EME2007-41,3,4.85,16,1
+357,열역학,권오채,fundmentals of thermodynamics,.,sonntag/Borgnakke,EME2007-41,3,4.85,16,1
+358,열역학,권오채,공업열역학(7판),한티미디어,"Moran, Shapiro, Boettner, Bailey",EME2007-41,3,4.85,16,1
+359,열역학,권오채,기본 열역학(Cengel의)(Core 시리즈 3),McGraw Hill,Yunus ACengel,EME2007-41,3,4.85,16,1
+360,열역학,권오채,열역학(8판),텍스트북스,"Claus Borgnakke, Richard E Sonntag",EME2007-41,3,4.85,16,1
+361,열역학,권오채,열역학(9판),텍스트북스,"Richard E Sonntag, Claus Borgnakke",EME2007-41,3,4.85,16,1
+362,열역학,류창국,열역학(개정7판)(7판),텍스트북스,"CLAUS BORGNAKKE, RICHARD E SONNTAG",EME2007-41,3,4.85,16,1
+363,유체역학,김윤제,Fluid Mechanics (SI),McGraw Hill,White,EME2008-41,3,4.0,16,1
+364,유체역학,김윤제,유체역학(4판),한티미디어,"Merle C Potter, David C Wiggert, Bassem Ramadan",EME2008-41,3,4.0,16,1
+365,유체역학,김윤제,유체역학(7판)(CD1장포함),McGraw-Hill,Frank M White,EME2008-41,3,4.0,16,1
+366,유체역학,고한서,Fluid Mechanics,McGraw-Hill,White,EME2008-41,3,4.0,16,1
+367,유체역학,고한서,White의 유체역학(8판),경문사,Frank M White,EME2008-41,3,4.0,16,1
+368,동역학,휴고로드리그,Dynamics,Wiley,Benson H Tongue,EME2009-41,3,4.22,16,1
+369,동역학,휴고로드리그,Dynamics: Engineering Mechanics,Wiley,Benson H Tongue,EME2009-41,3,4.22,16,1
+370,동역학,휴고로드리그,Engingeering Mechanics: Dynamics,Pearson Education,Russell C Hibbeler,EME2009-41,3,4.22,16,1
+371,동역학,휴고로드리그,Engingeering Mechanics: Statics,"Pearson Education, Limited",Russell C Hibbeler,EME2009-41,3,4.22,16,1
+372,동역학,휴고로드리그,동역학(2판),교보문고,Tongue,EME2009-41,3,4.22,16,1
+373,동역학,휴고로드리그,동역학(공업역학)(13판),프로텍미디어,"R C Hibbeler, Kai Beng Yap",EME2009-41,3,4.22,16,1
+374,정역학,최현기,Engineering Mechanics STATICS SI Edition(Paperback),John Wiley & Sons Inc,Meriam J L,EME2011-41,3,4.19,16,1
+375,정역학,최현기,Mechanics for Engineers: Statics(전2권),PEARSON,"RC Hibbeler, Peter Schiavone, Kai Beng Yap",EME2011-41,3,4.19,16,1
+376,정역학,최현기,정역학(공업역학)(13판),프로텍미디어,"R C Hibbeler, Kai Beng Yap",EME2011-41,3,4.19,16,1
+377,고체역학,김문기,Mechanics of Materials,PEARSON,Russell C Hibbeler,EME2012-41,3,4.67,16,1
+378,고체역학,김문기,재료역학(9판),프로텍미디어,R C Hibbeler,EME2012-41,3,4.67,16,1
+379,기계공학도를위한전기전자공학입문,최혁렬,Principles and Applications of Electrical Engineering,McGraw Hill,"Rizzoni, James Kearns",EME2016-41,3,4.01,16,1
+380,기계공학도를위한전기전자공학입문,최혁렬,전기전자공학개론(5판),McGraw-Hill,Rizzoni,EME2016-41,3,4.01,16,1
+381,기계공학도를위한전기전자공학입문,최혁렬,전기전자공학개론(6판),McGraw Hill,"Rizzoni, James Kearns",EME2016-41,3,4.01,16,1
+382,확률및랜덤프로세스,정민영,확률 및 랜덤 프로세스(3판),자유아카데미,Alberto Leon-Garcia,ICE2003-41,3,4.28,17,1
+383,확률및랜덤프로세스,박현진,"Probability, Statistics and Random Processes for Electrical Engineering",Prentice-Hall,Leon-Garcia,ICE2003-41,3,4.28,17,1
+384,확률및랜덤프로세스,박현진,확률 및 랜덤 프로세스(한글3판)(3판),자유아카데미,ALBERTO LEON GARCIA,ICE2003-41,3,4.28,17,1
+385,자료구조개론,염익준,윤성우의 열혈 자료구조,오렌지미디어,윤성우,SWE2015-01,3,4.48,18,1
+386,자료구조개론,이준원,C로 쓴 자료구조론(2판),교보문고,"Horowitz, SAHNI, ANDERSON-FREED",SWE2015-01,3,4.48,18,1
+387,자료구조개론,이준원,Fundamentals of Data Structures in C,Silicon Press,Horowitz Ellis,SWE2015-01,3,4.48,18,1
+388,알고리즘개론,조대호,Introduction to Algorithms(양장본 HardCover),한빛아카데미,"토머스 코멘, 찰스 레이서손, 로날드 리베스트, 클리포드 스타인",SWE2016-41,3,4.16,18,1
+389,알고리즘개론,허재필,INTRODUCTION TO ALGORITHMS 2/E,한빛미디어,THOMAS HCORMEN,SWE2016-41,3,4.16,18,1
+390,디스플레이공학,김상수,디스플레이 공학 1(LCD),청범출판사,김상수 외,EEE3009-41,3,4.4,15,2
+391,디스플레이공학,이준신,디스플레이 공학개론,홍릉과학출판사,"이준신, 김도영, 모연곤, 배병성, 송장근",EEE3009-41,3,4.4,15,2
+392,응용열역학,김근형,Thermodynamics,McGraw-Hill,Cengel,EME3006-41,3,4.5,16,2
+393,에너지와환경,류창국,에너지 과학,한티미디어,"John Andrews, Nick Jelley",EME3015-41,3,4.38,16,2
+394,에너지와환경,이창구,Energy Science,"Oxford University Press, USA","John Andrews, Nick Jelley",EME3015-41,3,4.38,16,2
+395,에너지와환경,이창구,Energy Science: Principles Technologies and Impacts,Oxford University Press,Andrews John,EME3015-41,3,4.38,16,2
+396,기계요소설계,이상원,기계설계(최신),학진북스,정남용,EME3021-41,3,3.0,16,2
+397,계측공학,석지원,"Theory and Design for Mechanical Measurement, 3rd Edition(Hard 560PP)",Wiley,없음,EME3022-41,3,4.56,16,2
+398,계측공학,석지원,Theory and Design for Mechanical Measurements,Wiley,Figliola Richard S,EME3022-41,3,4.56,16,2
+399,계측공학,석지원,기계계측공학(6판),시그마프레스,"Figliola, Beasley",EME3022-41,3,4.56,16,2
+400,생산시스템,강무진,현대 생산자동화와 CIM(3판),시그마프레스,MIKELL P GROOVER,EME3024-41,3,4.31,16,2
+401,생산시스템,강무진,현대 생산자동화와 CIM(4판),시그마프레스,Mikell P Groover,EME3024-41,3,4.31,16,2
+402,제어공학,김훈모,Automatic Control Systems,McGRAW HILL,"Farid Golnaraghi, Benjamin C kuo",EME3025-41,3,2.28,16,2
+403,제어공학,김훈모,"Automatic Control Systems, 9/E",Wiley,"Golnaraghi Farid, Kuo Benjamin C",EME3025-41,3,2.28,16,2
+404,제어공학,김훈모,자동제어(Kuo의)(10판),Mcgraw Hill,"Farid Golnaraghi, Benjamin C Kuo",EME3025-41,3,2.28,16,2
+405,제어공학,김훈모,자동제어(KUO의)(9판),퍼스트북,"FARID GOLNARAGHI, BENJAMIN C KUO",EME3025-41,3,2.28,16,2
+406,윤활공학,이영제,Friction and Wear of Materials,Wiley,Rabinowicz Ernest,EME3034-41,3,4.09,16,2
+407,데이터마이닝,이종석,데이터마이닝 기법과 응용,한나래아카데미,전치혁,ESM3061-41,3,4.36,19,2
+408,전산제도,최재붕,기본에 충실한 인벤터(2016),세진북스,"신순욱, 고성우",EME2006-41,1,4.64,16,1
+409,전력전자시스템해석,이병국,전력계통 해석 및 설계(6판),북스힐,"glover, Thomas J Overbye, Mulukla SSarma",ECE4247-41,3,4.8,20,3
+410,경제성공학,임동준,Engineering Economy (Paperback),MCGRAW-HILL Higher Education,Blank,ESM2003-41,3,3.6,19,1
+411,기술관리,조근태,세계미래보고서 2045,교보문고,"박영숙, 제롬 글렌, 테드 고든",ESM2006-41,3,4.54,19,1
+412,제조시스템공학,노상도,Introduction to Manufacturing Processes (Paperback),John Wiley & Sons Inc,Campbell John,ESM3033-41,3,3.4,19,2
+413,제조시스템공학,노상도,핵심 제조공학,한티미디어,Mikell P Groover,ESM3033-41,3,3.4,19,2
+414,제조시스템공학,노상도,현대제조공학. 4/E(4판)(DVD1장포함)(반양장),ITC,Mikel P Groover,ESM3033-41,3,3.4,19,2
+415,제조시스템공학,노상도,현대제조공학(Fundamentals of Midern Manufacturing,대웅,Mikell PGroover,ESM3033-41,3,3.4,19,2
+416,경영과학(OR)및실습1,이희상,Opeartions Management,McGraw Hill,Stevenson,ESM2001-41,3,3.05,19,1
+417,경영과학(OR)및실습1,이희상,경영과학(9판),지필미디어,"Frederck S Hillier, Gerald J Lieberman",ESM2001-41,3,3.05,19,1
+418,경영과학(OR)및실습1,이희상,경영과학(CD1장포함),지필,"Frederick S. Hillier, LIEBERMAN",ESM2001-41,3,3.05,19,1
+419,시뮬레이션및실습,김윤배,Simio와 시뮬레이션,교보문고,Sturrock,ESM3023-41,3,2.23,19,2
+420,시뮬레이션및실습,김윤배,"Simulation Modeling and Analysis, 5/E",McGraw Hill,Law,ESM3023-41,3,2.23,19,2
+421,품질경영,박영택,품질경영론(박영택)(개정판)(양장본 HardCover),KSAM,박영택,ESM3075-I1,3,4.78,19,2
+422,품질경영,박영택,품질경영론(박영택)(양장본 HardCover),한국표준협회미디어,박영택,ESM3075-I1,3,4.78,19,2
+423,재료전자기학,염근영,Engineering Electromagnetics,McGraw-Hill,Hayt,EAM2040-41,3,4.35,21,1
+424,재료전자기학,염근영,Hayt의 전자기학(9판),McGraw Hill Education,"William H Hayt jr, John A Buck",EAM2040-41,3,4.35,21,1
+425,재료전자기학,염근영,Hayt의 전자기학(수정판 8판)(양장본 HardCover),홍릉과학출판사,"William H Hayt Jr, John A Buck",EAM2040-41,3,4.35,21,1
+426,재료전자기학,염근영,전자기학(7판)(CD1장포함),McGraw-Hill,Hayt,EAM2040-41,3,4.35,21,1
+427,재료전자기학,염근영,전자기학(Hayt의)(8판),McGraw Hill Korea,"Hayt, John A Buck",EAM2040-41,3,4.35,21,1
+428,재료전자기학,이후정,전자기학(Ulaby의)(7판),성진미디어,"Fawwaz T Ulaby, Umberto Ravaioli",EAM2040-41,3,4.35,21,1
+429,재료열역학1,이동복,신소재 열역학,보성문화사,"이동복, 이종권",EAM2042-41,3,4.03,21,1
+430,재료열역학1,이동복,신소재 열역학(개정판),보성문화사,"이동복, 이종권",EAM2042-41,3,4.03,21,1
+431,재료열역학1,이동복,재료열역학(0),홍릉과학출판사,DAVID R GASKELL,EAM2042-41,3,4.03,21,1
+432,재료열역학1,최재영,Introduction to the Thermodynamics of Materials,CRC Press,David R Gaskell,EAM2042-41,3,4.03,21,1
+433,신소재공학개론2,하마드코티바,fundamentals of materials science and engineering si version,.,callister/rethwisch,EAM2058-41,3,4.29,21,1
+434,상변태학,이후정,금속상변태(3판),교보문고,"Porter, KENNETH E EASTERLING, MOHAMED Y SHERIF",EAM3003-42,3,4.64,21,2
+435,에너지신소재학,정현석,전자재료물성 및 소자공학(4판),Mcgraw Hill,S O Kasap,EAM2008-41,3,3.09,21,1
+436,신소재프로세스공학,하마드코티바,Manufacturing Processes for Engineering Materials SI,World Scientific,Kalpakjian,EAM2011-41,3,4.46,21,1
+437,신소재프로세스공학,하마드코티바,공업재료가공학(5판),성진미디어,"Serope Kalpakjian, Steven Schmid",EAM2011-41,3,4.46,21,1
+438,고체물성론,이재찬,Introduction To Solid State Physics,Wiley,"Kittel Charles, McEuen Paul",EAM3027-41,3,3.07,21,2
+439,나노신소재,황동목,나노재료,범한서적,"김기범, 김현미",EAM3048-41,3,4.0,21,2
+440,반도체공정,이내응,반도체공정개론,교보문고,Jaeger,EAM3049-41,3,3.87,21,2
+441,화공열역학1,방석호,Fundamentals of Chemical Engineering Thermodynamics(Si Edition),CENGAGE LEARNING,Kevin D Dahm,ECH2005-41,3,4.35,22,1
+442,화공열역학1,방석호,Introduction to Chemical Engineering Thermodynamics,McGraw Hill,"Smith, Ness Hendrick Van, Abbott Michael",ECH2005-41,3,4.35,22,1
+443,화공열역학1,방석호,화학공학열역학,동화기술,"김광주, 이동현, 윤정우, 홍인권, 박병흥",ECH2005-41,3,4.35,22,1
+444,화공열역학1,배종욱,화학공학 열역학 (제7판),한티미디어,JMSMITH,ECH2005-41,3,4.35,22,1
+445,화공열역학1,배종욱,화학공학 열역학(8판),McGraw Hill Education,"JMSmith, H C Van Ness, M M Abbott, M T Swihart",ECH2005-41,3,4.35,22,1
+446,화공열역학1,엄숭호,Fundamentals of Chemical Engineering Thermodynamics,Pearson Education,Matsoukas,ECH2005-41,3,4.35,22,1
+447,공업물리화학2,안정호,물리화학(Atkins)(10판),교보문고,"Peter Atkins, Julio de paula",ECH2018-41,3,3.76,22,1
+448,공업물리화학2,조성민,Physical Chemistry,Oxford U.K,"Atkins, JuliO de Paula",ECH2018-41,3,3.76,22,1
+449,공업유기화학2,남성우,Organic Chemistry (IE),Thomson Brooks/Cole,McMurry John,ECH2020-41,3,4.19,22,1
+450,공업유기화학2,남성우,유기화학(맥머리의)(9판),사이플러스,John E McMurry,ECH2020-41,3,4.19,22,1
+451,화공열및물질전달,김덕준,"Fundamentals of Momentum, Heat and Mass Transfer",Wiley,Welty James R,ECH2032-41,3,3.5,22,1
+452,화공열및물질전달,김덕준,기초 이동현상론(개정판 6판),범한서적,"James R Welty, Gregory L Rorrer, David G Foster",ECH2032-41,3,3.5,22,1
+453,화공열및물질전달,남재도,Incropera's Principles of Heat and Mass Transfer,Wiley,"Frank P Incropera, David P DeWitt, Theodore L Bergman, Adrienne S Lavine",ECH2032-41,3,3.5,22,1
+454,화공열및물질전달,남재도,Principles of Heat and Mass Transfer,Wiley,Incropera,ECH2032-41,3,3.5,22,1
+455,화공열및물질전달,남재도,열전달(7판),교보문고,"Incropera, Dewitt, Bergman, Lavine",ECH2032-41,3,3.5,22,1
+456,화공열및물질전달,이용철,Unit Operations of Chemical Engineering (New),McGraw-Hill,McCabe,ECH2032-41,3,3.5,22,1
+457,화공열및물질전달,이용철,단위조작(McCabe의)(수정판 7판)(양장본 HardCover),McGraw Hill Education,"Mccabe L Warren, Julian C Smith, Peter Harriott",ECH2032-41,3,3.5,22,1
+458,반응공학,배종욱,화학공정계산,McGraw-Hill,없음,ECH3053-41,3,3.33,22,2
+459,반응공학,배종욱,화학반응공학(SECOND EDITION)(2판),한티미디어,LANNY D SCHMIDT,ECH3053-41,3,3.33,22,2
+460,반응공학,유필진,Engineering of Chemical Reactions (International Edition),Oxford USA,Schmidt Lanny D,ECH3053-41,3,3.33,22,2
+461,전자회로1,박진홍,마이크로전자회로(6판)(CD1장포함),한티미디어,"Sedra, Smith",EEE2013-41,3,4.49,15,1
+462,전자회로1,박진홍,마이크로전자회로(7판),한티미디어,"Adel S Sedra, Kenneth C Smith",EEE2013-41,3,4.49,15,1
+463,공정제어,방창현,최신공정제어(최신)(3판),McGraw-Hill,"Coughanowr, Steven ELeBlance",ECH2010-41,3,3.4,22,1
+464,화공기기분석,김영준,Introduction to Spectroscopy,Cengage Learning,"James R Vyvyan, Donald L Pavia, Gary M Lampman, George S Kriz",ECH2011-41,3,3.56,22,1
+465,화공기기분석,김영준,기기분석의 이해(6판),Cengage Learning,박기채,ECH2011-41,3,3.56,22,1
+466,화공기기분석,김영준,분광학강의(파비아의)(4판),Cengage Learning,PAVIA,ECH2011-41,3,3.56,22,1
+467,화공기기분석,김영준,분광학강의(파비아의)(5판),사이플러스,"Donald L Pavia, Gary M Lampman, George S Kriz, James R Vyvyan",ECH2011-41,3,3.56,22,1
+468,융복합소재개론,김진웅,재료과학(5판),한티미디어,"William D Callister JR, David G Rethwisch",ECH2030-41,3,3.63,22,1
+469,환경화학공학,김병우,환경공학개론(3판),교보문고,"Masters, GILBERT M MASTERS, WENDELL P ELA",ECH3009-41,3,3.5,22,2
+470,생명화학소재,박재형,An Introduction to Tissue-Biomaterial Interactions,Wiley-Liss,Kay C Dee,ECH3059-41,3,4.33,22,2
+471,생명화학소재,박재형,Introduction to Tissue-Biomaterial Interactions,Wiley,Dee Kay C/ Puleo David/ Bizios Rena,ECH3059-41,3,4.33,22,2
+472,메디컬생체재료,정동준,생체재료학,성균관대학교출판부,나카바야시 노부오 외,ECH3063-41,3,3.94,22,2
+473,기초양자화학,조슈아잭맨,"물리화학: 양자, 물질, 변화(2판)",자유아카데미,"Peter Atkins, Jullo de Paula, Ronald Frirfman",ECH4009-41,3,5.0,22,3
+474,한국의역사와문화,김도형,한국의 역사와 문화(외국인을 위한)(글로벌한국학교재 시리즈 2),한국문화사,"박성준, 이선이",IKS2003-01,3,4.0,23,1
+475,학술적글쓰기실습,손숙자,학문 목적 쓰기(서울대 한국어+(Plus))(서울대 학문 목적 한국어+ 시리즈 쓰기),서울대학교출판문화원,서울대학교 언어교육원,IKS2008-01,3,3.0,23,1
+476,학술적글쓰기실습,손숙자,한국어 리포트 작성 입문(Link Korean),한국문화사,최윤곤,IKS2008-01,3,3.0,23,1
+477,한국의민족주의와동아시아,임우경,청소년을 위한 한국 근현대사,휴머니스트,백유선,IKS3001-01,3,0.0,23,2
+478,뇌와마음,민수정,인지 신경과학(3판),박학사,"Marie T Banich, Rebecca J Compton",PSY3040-01,3,4.5,8,2
+479,중급한문,안대회,고문진보(후집)(부 문장궤범)(현토완역)(동양고전국역총서 23),전통문화연구회,편집부,KLC2016-01,3,5.0,24,1
+480,현대문학사,천정환,전태일평전(개정판 2판),돌베개,조영래,DKL2008-01,3,4.56,25,1
+481,현대성·글로컬문화커뮤니티·한류,박철현,지구 지방화와 다문화 공간(푸른길학술 5),푸른길,"최병두, 임석회, 안영진, 박배균",GCC3012-01,3,2.67,26,2
+482,국어의미론,정희창,국어의미론 강의(양장본 HardCover),역락,윤평헌,DKL3002-01,3,4.22,25,2
+483,비교문학.문화론,박진영,뇌우(세계문학전집 344),민음사,차오위,DKL3017-01,3,3.71,25,2
+484,미래디자인과인문학,김화자,모두가 디자인하는 시대,안그라픽스,에치오 만치니,HFS3002-01,3,3.6,27,2
+485,도이치1b,프랑크그뤼네르트,Menschen A2/1. Kursbuch mit DVD-ROM,Hueber,"Habersack Charlotte, Pude Angela, Specht Franz",GER2007-01,3,4.67,28,1
+486,도이치1b,프랑크그뤼네르트,studio [21] Grundstufe A2: Teilband 1. Deutschbuch mit DVD-ROM,Cornelsen,Cornelsen Verlag GmbH,GER2007-01,3,4.67,28,1
+487,독일분단과통일,이혜정,카산드라(세계문학전집 141),문학동네,크리스타 볼프,GER3032-01,3,4.0,28,2
+488,초급러시아어회화2,포포바에카테리나,러시아어 인텐시브 회화 1,뿌쉬낀하우스,"Л В Миллер, Л В Политова, И Я Рыбакова",RUS2004-02,3,5.0,29,1
+489,초급러시아어회화2,포포바에카테리나,러시아어 인텐시브 회화 WORKBOOK 1,뿌쉬낀하우스,Политова,RUS2004-02,3,5.0,29,1
+490,20세기러시아문학과사회,이형구,롤리타,문학동네,없음,RUS3021-01,3,4.29,29,2
+491,실용러시아어회화2,포포바에카테리나,러시아로 가는길 3단계,뿌쉬낀하우스,"В. Е. Антонова, М. М. Нахабина, А. А. Толстых",RUS3028-01,3,0.0,29,2
+492,데이터사이언스개론,심원식,데이터 분석의 힘,인플루엔셜,이토 고이치로,DSC2001-01,3,3.0,30,1
+493,데이터사이언스와R,유주연,R과 통계분석(2판),자유아카데미,박동련,DSC2005-01,3,0.0,30,1
+494,데이터사이언스와통계학2,엄태관,통계학,자유아카데미,김태수,DSC2011-01,3,4.33,30,1
+495,정보분류론,조순영,정보자료분류론(개정증보판 5판)(양장본 HardCover),태일사,윤희윤,LIS2016-01,3,4.11,31,1
+496,고전자료의이해1,윤현정,논어집주(현토완역)(동양고전국역총서 1),전통문화연구회,성백효,LIS2013-01,3,4.5,31,1
+497,인간행동과사회환경,이혁구,사회복지사 1급 한권으로 끝내기(2019)(개정판),시대고시기획,"이용석, 사회복지사 수험연구소",SWF2002-01,3,3.45,32,1
+498,인간행동과사회환경,이혁구,인간행동과 사회복지실천 이론과 적용,학지사,권중돈,SWF2002-01,3,3.45,32,1
+499,응용현상학,이종관,공간의 현상학 풍경 그리고 건축(생각하는 거울 1)(양장본 HardCover),성균관대학교출판부,이종관,PHL3033-01,3,4.0,33,2
+500,미래과학기술철학,이종관,디지털 철학,성균관대학교출판부,"박승억, 이종관, 김종규, 임형택",PHL3043-01,3,3.78,33,2
+501,미래과학기술철학,이종관,포스트휴먼이 온다(포스트휴머니즘 2)(양장본 HardCover),사월의책,이종관,PHL3043-01,3,3.78,33,2
+502,동시대영미문학,홍덕선,Atonement,Vintage Books,이언 매큐언,ENG3037-01,3,4.27,10,2
+503,동시대영미문학,홍덕선,Atonement : Movie-tie-in,Random House,이언 매큐언,ENG3037-01,3,4.27,10,2
+504,동시대영미문학,홍덕선,The Great Gatsby(2판),신아사,"스콧 피츠제럴드, Kim Yong Kwon",ENG3037-01,3,4.27,10,2
+505,동시대영미문학,홍덕선,The New York Trilogy,없음,Auster Paul,ENG3037-01,3,4.27,10,2
+506,조선시대사,조성산,조선시대사. 1: 국가와 세계(한국역사연구회시대사 총서 5),푸른역사,"홍순민, 한상권, 손병규, 김성우, 고동환",HIS2003-01,3,4.13,34,1
+507,조선시대사,조성산,조선시대사. 2: 인간과 사회(한국역사연구회시대사 총서 6),푸른역사,"김훈식, 고영진, 정진영, 이해준, 김건태",HIS2003-01,3,4.13,34,1
+508,영문학개관2,싸이몬에스톡,"Norton Anthology of English Literature, Vol. 2, 8/E",W.W.Norton,"Greenblatt Stephen (EDT), Abrams M H (EDT)",ENG2006-01,3,2.0,10,1
+509,영문학개관2,싸이몬에스톡,The Norton Anthology of English Literature,W. W. Norton & Company,"Greenblatt Stephen (Editor), Christ Carol T (EDT), David Alfred (EDT)",ENG2006-01,3,2.0,10,1
+510,영문학개관2,싸이몬에스톡,The Norton Anthology of English Literature Vol.2,W. W. Norton & Company,Greenblatt,ENG2006-01,3,2.0,10,1
+511,영어학입문,이고운,An Introduction to Language,Wadsworth,Fromkin,ENG2009-01,3,4.05,10,1
+512,영어학입문,박유정,Linguistics for Everyone,Cengage Learning,편집부,ENG2009-01,3,4.05,10,1
+513,영미드라마입문,김동욱,세계연극사(5판)(양장본 HardCover),퍼스트북,"에드윈 윌슨, 앨빈 골드퍼브",ENG2013-01,3,2.71,10,1
+514,영미드라마입문,김유,Contemporary British Plays,신아사,"Joe Orton, Edward Bond, David Hare, David Greig",ENG2013-01,3,2.71,10,1
+515,영미드라마입문,김유,고래기름/사소한 것들(현대영미 드라마 1),동인,유진 오닐,ENG2013-01,3,2.71,10,1
+516,응용언어학,문정원,Introduction to Applied Linguistics,Hodder,Schmitt Norbert,ENG2019-01,3,4.55,10,1
+517,응용언어학,박희수,Applied Linguistics(Paperback),Oxford U.K,"Cook Guy, Widdowson H G",ENG2019-01,3,4.55,10,1
+518,영어의사회문화적이해,이한정,"Language, Culture and Communicat",Prentice Hall Press,"Bonvillain, Nancy",ENG3017-01,3,4.63,10,2
+519,영어의사회문화적이해,이한정,"Language, Culture, and Communication: The Meaning of Messages",Prentice-Hall,Bonvillain,ENG3017-01,3,4.63,10,2
+520,영어의사회문화적이해,이한정,Style: Lessons in Clarity and Grace,Pearson Education,Bizup Joseph,ENG3017-01,3,4.63,10,2
+521,영어음운형태의이해,강용순,English Words,없음,Harley Heidi,ENG3021-01,3,3.62,10,2
+522,현대영미소설,정연식,Light in August,없음,Faulkner William,ENG3025-01,3,4.5,10,2
+523,현대영미소설,정연식,White Noise,없음,DeLillo Don,ENG3025-01,3,4.5,10,2
+524,현대영미소설,홍덕선,Kindred,없음,Butler Octavia E,ENG3025-01,3,4.5,10,2
+525,현대영미소설,홍덕선,The Crying of Lot 49(영미문학 시리즈),신아사,토머스 핀천,ENG3025-01,3,4.5,10,2
+526,현대영미소설,홍덕선,The Hours,Picador USA,마이클 커닝햄,ENG3025-01,3,4.5,10,2
+527,현대영미소설,홍덕선,속죄,문학동네,이언 매큐언,ENG3025-01,3,4.5,10,2
+528,현대영미소설,홍덕선,위대한 개츠비(세계문학전집 75),민음사,스콧 피츠제럴드,ENG3025-01,3,4.5,10,2
+529,현대영미소설,홍덕선,킨,비채,옥타비아 버틀러,ENG3025-01,3,4.5,10,2
+530,영어구조의이해,이정미,English Syntax and Argumentation,Palgrave Macmillan,Palgrave MacMillan,ENG3057-01,3,4.65,10,2
+531,영어구조의이해,이정미,Linguistics for everyone: An introduction,.,Kristin Denham,ENG3057-01,3,4.65,10,2
+532,영어구조의이해,이정미,영어통사론 그리고 논증: 현대언어학,한국문화사,Bas Aarts,ENG3057-01,3,4.65,10,2
+533,영어통사론특강,이정미,Syntax,없음,Andrew Carnie,ENG4027-01,3,5.0,10,3
+534,영어통사론특강,이정미,통사론(3판),한국문화사,앤드류 카니,ENG4027-01,3,5.0,10,3
+535,중국근대문학사,남종진,중국문학사(개정판),학연사,정범진,CHI2020-01,3,4.37,35,1
+536,초급중회화,왕수향,북경대학 신한어구어. 3(중국어뱅크)(전면개정판),동양북스,"대계부, 류립신, 이해연",CHI2027-01,3,3.31,35,1
+537,중급중회화,위펑,다락원 중국어 마스터. STEP 4(CD2장포함),다락원,"박정구, 백은희, 마원나",CHI2028-01,3,3.0,35,1
+538,중국문자의이해,전광진,교양한자(대학생을 위한),다락원,전광진,CHI3009-01,3,3.32,35,2
+539,중국문자의이해,전광진,중국언어학총론,동문선,J노먼,CHI3009-01,3,3.32,35,2
+540,인식론,이병덕,현대 인식론,성균관대학교출판부,이병덕,PHL2006-01,3,4.45,33,1
+541,예술철학,조정옥,예술철학,미술문화,"시릴 모라나, 에릭 우댕",PHL2012-01,3,2.92,33,1
+542,예술철학,조정옥,예술철학·예술치료 이야기(한 권으로 보는),성균관대학교출판부,조정옥,PHL2012-01,3,2.92,33,1
+543,심리철학,홍지호,심리철학(초보자 안내서),서광사,이안 라벤스크로프트,PHL3010-01,3,3.69,33,2
+544,프랑스어회화1b,마리께소,Nouveau DELF B2 : 200 activites : Livre,Cle Int'l,Normand,FRE2017-01,3,4.82,36,1
+545,프랑스어회화1b,마리께소,Totem 2 - Livre de l'eleve + DVD-ROM (audio + video) + manuel numerique...,Hachette Livre,Jean-Thierry Le Bougnec,FRE2017-01,3,4.82,36,1
+546,delf프랑스어,마리께소,"ABC DELF, B1 : 200 exercices(French Edition)",Cle International,없음,FRE3037-01,3,4.9,36,2
+547,진로상담의기초,강혜정,진로진학상담 기법의 이론과 실제(한국생애개발상담학회 진로진학상담총서 3),사회평론아카데미,"임은미, 강혜영, 고홍월, 공윤정, 구자경",EDU3030-01,3,2.0,37,2
+548,상담심리학,서은경,현대 심리치료와 상담 이론,학지사,권석만,EDU3004-01,3,4.25,37,2
+549,수학교육론,한선영,수학교육학 신서,교우사,"강옥기, 강윤수, 고상숙, 고호경, 권나영",MAE2005-01,3,4.67,9,1
+550,수학교육론,한선영,수학교육학신론(2016)(개정증보판),문음사,"황혜정, 나귀수, 최승현, 박경미, 임재훈",MAE2005-01,3,4.67,9,1
+551,논리회로,박천수,Fundamentals of Logic Design (Paperback),Cengage Learning,Roth,COM2006-01,3,4.5,38,1
+552,논리회로,박형원,Fundamentals of Logic Design,CENGAGE LEARNING,"Charles H Roth Jr, Larry L Kinney",COM2006-01,3,4.5,38,1
+553,논리회로,박형원,논리설계기초(6판)(CD1장포함),한티미디어,"CHARLES H ROTH, LARRY L KINNEY",COM2006-01,3,4.5,38,1
+554,논리회로,박형원,논리설계기초(7판)(CD1장포함),Cengage Learning,"Charles H Roth Jr, Larry L Kinney",COM2006-01,3,4.5,38,1
+555,소프트웨어공학,김재현,소프트웨어 공학(쉽게 배우는)(IT CookBook 192),한빛아카데미,김치수,COM3007-01,3,3.4,38,2
+556,소프트웨어공학,이은석,Software Engineering,Pearson,Ian Sommerville,COM3007-01,3,3.4,38,2
+557,알고리즘,한옥영,An Introduction to Programming Using Python,Pearson,David I Schneider,COM3026-01,3,4.14,38,2
+558,알고리즘,한옥영,모두의 파이썬,길벗,이승찬,COM3026-01,3,4.14,38,2
+559,알고리즘,한옥영,문제해결과 알고리즘(컴퓨팅사고력 향상을 위한),성균관대학교출판부,"김재현, 권정인, 한옥영",COM3026-01,3,4.14,38,2
+560,헌법,김일환,로스쿨 핵심강의 헌법(2019)(5판),윌비스,김유향,PAD2003-01,3,4.48,39,1
+561,현대사회와범죄,이경열,형법각론(5판)(양장본 HardCover),성균관대학교출판부,김성돈,PIL2004-01,3,2.4,40,1
+562,정책분석론,권기헌,미래예측학(양장본 HardCover),법문사,권기헌,PAD2016-01,3,3.27,39,1
+563,정책분석론,권기헌,"정부혁명 4.0: 따뜻한 공동체, 스마트한 국가",행복한에너지,권기헌,PAD2016-01,3,3.27,39,1
+564,정책분석론,권기헌,정의로운 국가란 무엇인가(개정판)(양장본 HardCover),박영사,권기헌,PAD2016-01,3,3.27,39,1
+565,정책분석론,권기헌,정책분석론(양장본 HardCover),박영사,권기헌,PAD2016-01,3,3.27,39,1
+566,정책분석론,권기헌,정책분석론(전정판 2판)(양장본 HardCover),박영사,권기헌,PAD2016-01,3,3.27,39,1
+567,정책분석론,권기헌,정책학강의(개정판)(양장본 HardCover),박영사,권기헌,PAD2016-01,3,3.27,39,1
+568,정책분석론,권기헌,행정학 콘서트(개정판)(양장본 HardCover),박영사,권기헌,PAD2016-01,3,3.27,39,1
+569,정책분석론,권기헌,행정학 콘서트(양장본 HardCover),박영사,권기현,PAD2016-01,3,3.27,39,1
+570,행정법각론,강현호,행정법의 이해(양장본 HardCover),동방문화사,강현호,PAD3002-01,3,4.4,39,2
+571,선거·정당·의회,마인섭,한국정당정치사(제2차)(증보판)(한국 한국인을 아는 책 15)(양장본 HardCover),백산서당,심지연,PSD3019-01,3,4.31,41,2
+572,사고및창의성,도경수,Thought and Knowledge,Psychology Press (UK),Diane F Halpern,PSY3015-01,3,3.56,8,2
+573,민법의기초,정상현,민법강의(23판)(양장본 HardCover),법문사,김준호,GLD2004-01,3,4.06,42,1
+574,민법의기초,정상현,민법강의(25판)(양장본 HardCover),법문사,김준호,GLD2004-01,3,4.06,42,1
+575,민법의기초,정상현,민법총칙(10판)(양장본 HardCover),법문사,김준호,GLD2004-01,3,4.06,42,1
+576,행정학개론,김근세,새 행정학 2.0(개정판)(양장본 HardCover),대영문화사,"이종수, 윤영진, 곽채기, 이재원",PAD2018-01,3,3.9,39,1
+577,행정학개론,김근세,현대 국가의 행정학(2판)(양장본 HardCover),법문사,"정용덕, 김근세, 김윤권, 김종성, 라휘문",PAD2018-01,3,3.9,39,1
+578,행정학개론,공동성,한국 행정학(5판)(양장본 HardCover),박영사,유민봉,PAD2018-01,3,3.9,39,1
+579,국제정치경제론,김남규,International Organization and Global Governance,Routledge,Weiss Thomas G,PSD2006-01,3,4.71,41,1
+580,국제정치경제론,김남규,International Political Economy,Routledge,Oatley Thomas,PSD2006-01,3,4.71,41,1
+581,사회과학조사방법론,이대웅,사회조사방법론(13판),CENGAGE LEARNING,Earl Babbie,USS2001-01,3,4.41,43,1
+582,사회과학조사방법론,이대웅,행정조사방법론(5판)(양장본 HardCover),법문사,남궁근,USS2001-01,3,4.41,43,1
+583,사회과학조사방법론,김기호,나를 만나는 스무살 철학,예담,김보일,USS2001-01,3,4.41,43,1
+584,사회과학조사방법론,김기호,연구방법론의 이해,북넷,이군희,USS2001-01,3,4.41,43,1
+585,사회과학조사방법론,김지범,The Practice of Social Reasearch Set,Cengage Learning,Earl Babbie,USS2001-01,3,4.41,43,1
+586,사회과학조사방법론,김지범,The Practice of Social Research,Wadsworth,Babbie Earl,USS2001-01,3,4.41,43,1
+587,정보체계론의이해,김상태,전자정부론(전정판)(양장본 HardCover),박영사,권기헌,GLD3006-01,3,3.22,42,2
+588,인적자원관리의이해,김상태,Public Management; Thinking and Acting in Three Dimensions,CQ Press,"Hill Carolyn J (EDT), Lynn Laurence E Jr (EDT)",GLD3011-01,3,3.82,42,2
+589,행정관리기법,박형준,Introduction to Management Science 10/E: Global Edition (Paperback),Pearson Education Asia,Taylor Bernard W,PAD3001-01,3,4.08,39,2
+590,행정관리기법,박형준,경영과학(9판)(CD1장포함)(양장본 HardCover),시그마프레스,Bernard W Taylir,PAD3001-01,3,4.08,39,2
+591,시민사회와국정관리,이숙종,시민정치론,아르케,달톤,PAD3018-01,3,3.07,39,2
+592,시민사회와국정관리,이숙종,시민참여론(2판),박영사,"이승종, 김혜정",PAD3018-01,3,3.07,39,2
+593,시민사회와국정관리,이숙종,시민참여론(양장본 HardCover),박영사,"이승종, 김혜정",PAD3018-01,3,3.07,39,2
+594,서구정치사상사1,윤비,국가 정체(플라톤의)(개정증보판),서광사,플라톤,PSD3005-01,3,4.15,41,2
+595,서구정치사상사1,윤비,군주론,책마루,니콜로 마키아벨리,PSD3005-01,3,4.15,41,2
+596,서구정치사상사1,윤비,리바이어던(월드북 72)(양장본 HardCover),동서문화사,토머스 홉스,PSD3005-01,3,4.15,41,2
+597,서구정치사상사1,윤비,유토피아 / 자유론 / 통치론,동서문화사,"존 스튜어트 밀, 존 로크",PSD3005-01,3,4.15,41,2
+598,서구정치사상사1,윤비,인간불평등기원론 사회계약론,동서문화사,장 자크 루소,PSD3005-01,3,4.15,41,2
+599,서구정치사상사1,윤비,정치학(원전으로 읽는 순수 고전 세계)(양장본 HardCover),숲,아리스토텔레스,PSD3005-01,3,4.15,41,2
+600,서구정치사상사1,윤비,펠로폰네소스 전쟁사(원전으로 읽는 순수 고전 세계)(양장본 HardCover),숲,투퀴디데스,PSD3005-01,3,4.15,41,2
+601,서구정치사상사2,김비환,통치론(까치글방 120),까치,존 로크,PSD3006-01,3,4.46,41,2
+602,방송영상콘텐츠실습,오진규,방송 콘텐츠 기획(커뮤니케이션이해총서),커뮤니케이션북스,이자혜,MCJ2023-01,3,2.66,44,1
+603,방송영상콘텐츠실습,오진규,방송기획 제작의 기초,커뮤니케이션북스,설진아,MCJ2023-01,3,2.66,44,1
+604,방송영상콘텐츠실습,오진규,영상제작론(개정판),커뮤니케이션북스,최이정,MCJ2023-01,3,2.66,44,1
+605,뉴스보도실습,송상근,기사 작성의 기초(전면개정판),이화여자대학교출판문화원,"이재경, 송상근",MCJ2024-01,3,3.37,44,1
+606,뉴스보도실습,류희림,가짜 뉴스 시대에서 살아남기,글로세움,류희림,MCJ2024-01,3,3.37,44,1
+607,뉴스보도실습,류희림,방송보도 기사쓰기(현장에서 바로 적용하는),글로세움,류희림,MCJ2024-01,3,3.37,44,1
+608,미디어산업과비즈니스입문,장병희,미디어 경영론(한국미디어경영학회 미디어경영총서 2),한울아카데미,"김성철, 곽규태, 김영규·, 류민호, 박주연",MCJ2034-01,3,2.6,44,1
+609,언론보도분석,신성호,특종 1987,중앙북스,신성호,MCJ3062-01,3,4.53,44,2
+610,미디어스포츠론,김원제,미디어스포츠 사회학(2016)(개정판),커뮤니케이션북스,김원제,MCJ3019-01,3,3.76,44,2
+611,Journalism Theory,이재국,언론과 민주정치,커뮤니케이션북스,이효성,MCJ3059-02,3,3.57,44,2
+612,사회복지실천기술론,김기현,Developing Helping Skills : A Step-by-Step Approach,Cengage Learning,Decker Carol,SWF2005-01,3,4.38,32,1
+613,사회문제론,김정우,사회문제론(4판),박영사,박철현,SWF2008-01,3,3.0,32,1
+614,가족복지론,김진원,가족복지론(2판),신정,한국임상사회사업학회,SWF2014-01,3,0.0,32,1
+615,의료사회복지론,송효석,의료사회복지실천론(3판),정민사,강흥구,SWF3003-01,3,4.0,32,2
+616,사회복지사상,이혁구,마음과 철학: 서양편(하),서울대학교출판문화원,"강진호, 김기현, 김서영, 김석, 박정태",SWF3012-01,3,4.17,32,2
+617,경제사회학,유홍준,신경제 사회학(양장본 HardCover),성균관대학교출판부,"유홍준, 정태인",SOC3009-01,3,3.9,45,2
+618,의료사회학,최문희,질병과 의료의 사회학,집문당,조병희,SOC3018-01,3,3.27,45,2
+619,의료사회학,최문희,질병과 의료의 사회학(개정판),집문당,조병희,SOC3018-01,3,3.27,45,2
+620,상담이론,이인수,상담심리학의 이론과 실제(2판)(양장본 HardCover),학지사,"천성문, 박명숙, 박순득, 박원모, 이영순",CFS2013-01,3,0.0,46,1
+621,상담이론,이인수,상담의 이론과 실제(2판)(양장본 HardCover),학지사,"김춘경, 이수연, 이윤주, 정종진, 최웅용",CFS2013-01,3,0.0,46,1
+622,중노년기발달과가족,최희정,Adult Development and Aging (4th Ed.),Wiley,"Whitbourne, Susan Krauss/ Whitbourne, Stacey B.",CFS3056-01,3,3.0,46,2
+623,중노년기발달과가족,최희정,성인 및 노인심리학(8판),시그마프레스,Barbara R Bjorklund,CFS3056-01,3,3.0,46,2
+624,발달심리학,송하나,발달 심리학,교문사,"최경숙, 송하나",KID2001-01,3,4.0,47,1
+625,발달심리학,송하나,아동발달심리학,교문사,최경숙,KID2001-01,3,4.0,47,1
+626,발달심리학,송하나,청소년심리학,시그마프레스,"F PHILIP RICE, KIM GALE DOLGIN",KID2001-01,3,4.0,47,1
+627,심리통계및컴퓨터분석,장승민,Statistical Analysis with Excel for Dummies,Wiley,Joseph Schmuller,PSY2003-01,3,3.26,8,1
+628,심리통계및컴퓨터분석,장승민,통계학(행동과학을 위한)(9판),학지사,David CHowell,PSY2003-01,3,3.26,8,1
+629,심리통계및컴퓨터분석,장승민,행동과학을 위한 통계학(행동과학을 위한)(7판),Cengage Learning,Howell,PSY2003-01,3,3.26,8,1
+630,조직심리,서용원,Organizational Psychology,Wiley,Steve M Jex,PSY3004-01,3,2.79,8,2
+631,조직심리,서용원,조직심리학(2판),시그마프레스,"STEVE M JEX, THOMAS W BRITT",PSY3004-01,3,2.79,8,2
+632,조직심리,서용원,조직심리학(3판),시그마프레스,"Steve M Jex, Thomas W Britt",PSY3004-01,3,2.79,8,2
+633,실험설계,용정순,심리학 실험법(7판),Cengage Learning,Martin,PSY3012-01,3,3.47,8,2
+634,영유아발달,박지현,영유아발달의 이해(3판)(양장본 HardCover),학지사,정옥분,KID3069-01,3,4.67,47,2
+635,임상심리,김주희,임상심리학(8판),CENGAGE LEARNING,"권정혜, 강연욱, 이훈진, 김은정",PSY3018-01,3,4.29,8,2
+636,집단상담및치료,김주희,집단상담의 이론과 실제(8판),학지사,Gerald Corey,PSY3021-01,3,4.75,8,2
+637,문화와사회심리,최훈석,문화심리학(양장본 HardCover),학지사,"한성열, 한민, 이누미야 요시유키, 심경섭",PSY3039-01,3,4.62,8,2
+638,특수아교육론,이양희,Exceptional Children: Pearson New International Edition,PEARSON,Heward,KID2005-01,3,2.75,47,1
+639,부모교육론,변혜원,부모교육(다음 세대를 위한),학지사,"신용주, 김혜수",KID3009-01,3,3.5,47,2
+640,아동미디어교육,현은자,미디어 리터러시,소통,James  Potter,KID3022-01,3,3.36,47,2
+641,언어지도,현은자,영유아 언어교육의 이해(3판),학지사,"한유미, 김혜선, 권희경, 양연숙, 백은정",KID3054-01,3,3.33,47,2
+642,아동음악,염현경,영유아 음악교육,정민사,최예린,KID3064-01,3,0.0,47,2
+643,아동청소년이상발달과행동분석,박지현,유 아동기 문제행동 예방 및 지도(3판)(반양장),시그마프레스,"Barbara Kaiser, Judy Sklar Rasminsky",KID3077-01,3,0.0,47,2
+644,동아시아국제관계론,홍관희,한반도 전쟁,자유민주,홍관희,PSD2023-01,3,0.0,41,1
+645,중국외교정책론,이희옥,차이나 핸드북,김영사,성균중국연구소,PSD3024-01,3,4.53,41,2
+646,국가정보론,전웅,현대국가정보학(양장본 HardCover),박영사,전웅,PSD3055-01,3,4.63,41,2
+647,식품위생학,조유란,식품위생학(New)(개정판 3판),지구문화사,"김옥경, 김창렬, 박인숙, 방우석, 범봉수",FBT2016-41,3,4.0,48,1
+648,식품면역학,박계원,THE IMMUNE SYSTEM(제3판),GARLAND SCIENCE,없음,FBT3017-41,3,4.9,48,2
+649,식품면역학,박계원,면역학(4판),라이프사이언스,Peter Parham,FBT3017-41,3,4.9,48,2
+650,인체영양학,최성숙,21세기 영양학 원리(4판),교문사,"최혜미, 김정희, 김초일, 장경자, 민혜선",FBT3023-41,3,4.57,48,2
+651,인체영양학,최성숙,인체생리학(7판),라이프사이언스,Dee Unglaub Sliverthorn,FBT3023-41,3,4.57,48,2
+652,인체영양학,최성숙,인체생리학(이해하기 쉬운)(개정판),파워북,"이연숙, 구재옥, 임현숙, 강영희, 권종숙",FBT3023-41,3,4.57,48,2
+653,분자생물학,오정수,Molecular Biology: Principles of Genome Function (Paperback),Oxford USA,Craig Nancy,FBT3011-41,3,0.0,48,2
+654,분자생물학,오정수,분자생물학 유전체 기능의 원리,홍릉과학출판사,"Craig, Cohen-Fix, Green, Greider, Storz",FBT3011-41,3,0.0,48,2
+655,세포공학,이석찬,Cell Biology 7th Edition International S,WILEY ACADEMIC,WILEY ACADEMIC,IBT2006-41,3,4.09,49,1
+656,세포공학,이석찬,세포생물학(Karp's)(8판),월드사이언스,"Janet Iwasa, Wallace Marshall",IBT2006-41,3,4.09,49,1
+657,종양생물학,이종성,Molecular Biology of Cancer,Oxford University Press,Lauren Pecorino,IBT3018-41,3,4.4,49,2
+658,종양생물학,이충은,Principles of Cancer Biology,Benjamin Cummings,"Kleinsmith, Lewis",IBT3018-41,3,4.4,49,2
+659,신경생리학,윤기정,신경과학: 뇌의 탐구(3판)(CD1장포함),바이오메디북,"MARK F BEAR, BARRY W CONNORS, MICHAEL A PARADISO",IBT3022-41,3,5.0,49,2
+660,물리전자,이경식,전자재료물성 및 소자공학(3판)(CD1장포함)(양장본 HardCover),홍릉과학출판사,S O Kasap,EEE2006-41,3,3.58,15,1
+661,물리전자,정일섭,Principles of Electronic Materials and Devices,McGraw-Hill,Kasap,EEE2006-41,3,3.58,15,1
+662,물리전자,신창환,반도체 소자공학,피어슨에듀케이션코리아,Robert F Pierret,EEE2006-41,3,3.58,15,1
+663,물리전자,송장근,전자재료물성 및 소자공학(3/E)(CD1장포함),홍릉과학출판사,SOKASAP,EEE2006-41,3,3.58,15,1
+664,고분자화학,송창식,고분자과학(3판),자유아카데미,Robert J Young,CHY3025-41,3,4.5,50,2
+665,고분자화학,김지흥,Polymer Chemistry: An Introduction,Oxford USA,Stevens Malcolm P,CHY3025-41,3,4.5,50,2
+666,고분자화학,김지흥,고분자 화학 입문(제3판),자유아카데미,박문수 외,CHY3025-41,3,4.5,50,2
+667,고분자화학,이영관,고분자 재료의 기본 원리(3판),자유아카데미,"Stephen L Rosen, Christopher S Brazel",CHY3025-41,3,4.5,50,2
+668,고분자화학,배진영,고분자화학(제3판),사이텍미디어,GEORGE ODIAN,CHY3025-41,3,4.5,50,2
+669,통계적데이터분석,이연란,Do it! 쉽게 배우는 R 데이터 분석,이지스퍼블리싱,김영우,AAI2006-01,3,2.57,51,1
+670,데이터베이스개론,김응모,Fundamental Database System (NEW),Prentice-Hall,Elmasri Ramez,AAI2008-01,3,4.47,51,1
+671,이산수학,배시영,이산수학(MSE),한빛아카데미,박두순,AAI3004-01,3,4.17,51,2
+672,이산수학,이영수,Discrete Mathematics,Brooks Cole,Ferland,AAI3004-01,3,4.17,51,2
+673,이산수학,이영수,Discrete Mathematics 7/E,Pearson Education Ltd,Johnsonbaugh,AAI3004-01,3,4.17,51,2
+674,이산수학,이영수,"Discrete Mathematics, Global Edition",Pearson Education,Johnsonbaugh Richard,AAI3004-01,3,4.17,51,2
+675,이산수학,이영수,Linear Algebra and its Applications,Pearson,David C Lay,AAI3004-01,3,4.17,51,2
+676,이산수학,이영수,이산수학(7판),한티미디어,Richard Johnsonbaugh,AAI3004-01,3,4.17,51,2
+677,정보보호개론,원동호,현대 암호학(4판),그린,원동호,SWE3025-41,3,4.44,18,2
+678,웹개발기초,김철우,파이썬 웹 프로그래밍(개정판),한빛미디어,김석훈,CNT2012-01,3,4.25,52,1
+679,오토마타,김응모,형식언어와 오토마타. 5/E(5판),홍릉과학출판사,Peter Linz,SWE2003-41,3,4.5,18,1
+680,운영체제,윤희용,운영체제(9판),교보문고,"Silberschatz, Peter B Galvin, Greg Gagne",COM3005-01,3,3.0,38,2
+681,운영체제,엄영익,Operating System Concepts,Wiley,Silberschatz,COM3005-01,3,3.0,38,2
+682,컴퓨터구조개론,신동군,COMPUTER ORGANIZATION AND DESIGN 5/E(컴퓨터 구조 및 설계),elsevier,David A Patterson,SWE3005-41,3,4.63,18,2
+683,컴퓨터구조개론,신동군,컴퓨터 구조 및 설계(5판),한티미디어,"David A. Patterson, L Hennessy",SWE3005-41,3,4.63,18,2
+684,프로그래밍언어,남범석,프로그래밍 언어(새로 보는)(CD1장포함),에이콘출판,마이클 스콧,SWE3006-41,3,2.21,18,2
+685,프로그래밍언어,정태명,Programming Languages,Prentice Hall,"Pratt, T.W. / Zelkowitz, M.V.",SWE3006-41,3,2.21,18,2
+686,프로그래밍언어,정태명,"Programming Languages, 4/E",Prentice-Hall,Pratt,SWE3006-41,3,2.21,18,2
+687,디지털신호처리,김중규,Discrete-Time Signal Processing,Prentice-Hall,"Oppenheim, Schafer Ronald W",EEE3011-41,3,4.5,15,2
+688,통신시스템,윤석호,HAYKIN의 통신이론(2판),한티미디어,SIMON HAYKIN 외,EEE3032-42,3,4.06,15,2
+689,통신시스템,윤석호,통신시스템(5판),한티에듀,"Simon Haykin, Michael Moher",EEE3032-42,3,4.06,15,2
+690,디지털시스템,민형복,Digital Systems Design Using Verilog(Paperback),Cengage Learning,Charles Roth,ICE3024-41,3,3.57,17,2
+691,디지털시스템,민형복,디지털 시스템 설계(Verilog를 이용한),CENGAGE LEARNING,"Charles Roth, Lizy Kurian  John, Byeong Kil Lee",ICE3024-41,3,3.57,17,2
+692,디지털시스템,민형복,디지털 시스템 설계(VHDL을 이용한)(2판)(CD1장포함),텍스트북스,"CHARLES H ROTHJR, LIZY KURIAN JOHN",ICE3024-41,3,3.57,17,2
+693,디지털시스템,김종태,Digital Systems Design Using VHDL,Cengage Learning,Charles H Roth,ICE3024-41,3,3.57,17,2
+694,컴퓨터네트웍개론,김유성,Computer Networking: A Top-Down Approach,Pearson,"JAMES F KUROSE, KEITH W ROSS",SWE3022-41,3,3.88,18,2
+695,컴퓨터네트웍개론,김유성,컴퓨터 네트워킹 : 하향식 접근(7판),퍼스트북,"James F Kurose, Keith WRoss",SWE3022-41,3,3.88,18,2
+696,웹프로그래밍실습,정윤경,HTML5 + CSS3 + JavaScript로 배우는 웹프로그래밍 기초,인피니티북스,천인국,SWE3048-01,2,3.0,18,2
+697,운동처방론,강현식,건강한 삶을 위한 운동처방기초(6판),대한미디어,"Scott K Powers, Stephen L Dodd, Erica M Jackson",SPT3004-41,3,0.0,53,2
+698,생식생물학,이석희,Human Reproductive Biology (양장본 HardCover),Academic Press,Jones Richard E,BIO3015-41,3,4.75,54,2
+699,현대미술의쟁점,김계원,세계 사진사 32장면 (1826~1955),디자인하우스,최봉림,ART2036-01,3,4.75,55,1
+700,대학·중용,김성기,대학 중용 강설(4판)(사서삼경강설 시리즈 1)(양장본 HardCover),성균관대학교출판부,이기동,COS2005-01,3,3.16,56,1
+701,대학·중용,김성기,대학 중용집주(개정증보판)(동양고전국역총서 3)(양장본 HardCover),전통문화연구회,성백효,COS2005-01,3,3.16,56,1
+702,한국미학사,조민환,한국미의 조명,열화당,조요한,COS3055-01,3,4.53,56,2
+703,회로이론2,이병국,Electric Circuits,Pearson Higher Education,James Nilsson & Susan Rjedel,EEE2012-41,3,4.32,15,1
+704,생물물리학,이상호,Physical Chemistry for the Life Sciences,W H Freeman & Co,Atkins P W/Paula Julio de/,BIO2012-41,3,4.25,54,1
+705,생물물리학,이상호,Physical Chemistry for the Life Sciences (Revised),"Oxford University Press, USA",Atkins Peter,BIO2012-41,3,4.25,54,1
+706,유전및유전체학,최철용,Genetics: From Genes to Genomes,MCGRAW-HILL Higher Education,MCGRAW-HILL Higher Education,BIO3001-41,3,4.25,54,2
+707,유전및유전체학,최철용,유전학(하트웰의)(5판),홍릉과학출판사,"Hartwell, Goldberg, Fischer, Hood",BIO3001-41,3,4.25,54,2
+708,진화학,윤환수,Evolution,W. W. Norton & Company,"Carl T Bergstrom, Lee Alan Dugatkin",BIO3020-41,3,4.0,54,2
+709,진화학,윤환수,Evolution (Paperback),W. W. Norton & Company,"Carl T. Bergstrom, Lee Alan Dugatkin",BIO3020-41,3,4.0,54,2
+710,분자식물과학,정재훈,식물 생리와 발달(6판),라이프사이언스,"Lincoln Taiz, Eduardo Zeiger, Ian Max Moller, Angus Murphy",BIO3047-41,3,0.0,54,2
+711,해석학2,김인숙,Introduction to Analysis : International Edition (Paperback)(),Pearson Education Asia,"Wade, William",MTH2006-41,3,4.12,57,1
+712,응용미분방정식,년푸중,"Differential Equations, Dynamical Systems, and an Introduction to Chaos",ACADEMIC PRESS,Morris W Hirsch,MTH2012-41,3,3.35,57,1
+713,벡터해석,정윤모,Vector Calculus(4판),Pearson,Susan J Colley,MTH2003-41,3,4.7,57,1
+714,암호론,권순학,Introduction to Cryptography with Coding Theory(2판),PEARSON,"Wade Trappe, Lawrence C Washington",MTH3007-41,3,4.63,57,2
+715,확률론,배종식,Probability,Springer,Karr,MTH3022-41,3,1.43,57,2
+716,위상수학2,이계선,Topology,PEARSON,James Munkres,MAE3008-01,3,5.0,9,2
+717,유기화학2,윤승수,맥머리의 유기화학. 8/E(8판),사이플러스,John E McMurry,CHY2006-41,3,4.0,50,1
+718,유기화학2,류도현,Organic Chemistry,McGraw-Hill,Janice Gorzynski Smith,CHY2006-41,3,4.0,50,1
+719,분석화학2,박성호,분석화학(9판),자유아카데미,Daniel C Harris,CHY2008-41,3,3.9,50,1
+720,광전자공학,이명현,광전자 및 광자공학(2판),퍼스트북,S O Kasap,EEE3055-41,3,4.29,15,2
+721,전자회로실험,유관호,단계별로 배우는 전자회로 실험 : 기본 소자부터 응용 회로까지,한빛아카데미,이강윤,EEE2004-41,2,3.0,15,1
+722,전기자기학1,이연호,전자기학(수정판),한티미디어,이연호,EEE2009-41,3,4.42,15,1
+723,전기자기학2,황금철,Elements of Electromagnetics,Oxford (USA),Matthew N O Sadiku,EEE2010-41,3,3.19,15,1
+724,전기자기학2,황금철,전자기학(5판),진샘미디어,MATTHEW N O SADIKU,EEE2010-41,3,3.19,15,1
+725,전기자기학2,황금철,전자기학(6판),진샘미디어,Matthew N O Sadiku,EEE2010-41,3,3.19,15,1
+726,전자회로2,유관호,Microelectronic Circuits,Oxford University Press,Sedra,EEE2014-41,3,4.31,15,1
+727,집적회로,이강윤,CMOS,Wiley-IEEE Press,R Jacob Baker,EEE3026-41,3,4.17,15,2
+728,집적회로,이강윤,"CMOS : CIRCUIT DESIGN, LAYOUT, AND SIMULATION",IEEE Computer Society Press,Baker R Jacob,EEE3026-41,3,4.17,15,2
+729,VLSI설계,이강윤,Integrated Circuit Design (+ Access Code) (IE),Prentice-Hall,Weste,EEE3033-41,3,4.6,15,2
+730,전기기기,정상용,Fitzgerald and Kingsleys Electric Machinery (Paperback),McGraw Hill,Umans,EEE3040-41,3,3.75,15,2
+731,전기기기,정상용,전기기기(7판),퍼스트북,Stephen D Umans,EEE3040-41,3,3.75,15,2
+732,전기기기,정상용,전기기기공학(3판),퍼스트북,PC Sen,EEE3040-41,3,3.75,15,2
+733,배전자동화설계,김철환,배전시스템공학(최신)(개정판),북스힐,대한전기학회,EEE3043-41,3,3.64,15,2
+734,기초회로실험,이병국,회로이론실험(실습을 통하여 체계적 이해를 돕는)(2판),두양사,"이준신, 윤석호, 박기헌",EEE2001-41,2,4.18,15,1
+735,언어심리,백연지,언어심리학(5판)(반양장),박학사,DAVID W CARROLL,PSY3027-01,3,4.2,8,2
+736,성균논어,함윤식,우리들의 세상 논어로 보다,사람의무늬,인성교육교재편찬위원회,GEDC010-01,2,3.91,58,0
+737,성균논어,함윤식,"우리들의 세상, 논어로 보다(개정판)",성균관대학교출판부,"고재석, 권경자, 김동민, 이천승, 정병섭",GEDC010-01,2,3.91,58,0
+738,성균논어,고재석,논어(유교경전번역총서 1),성균관대학교출판부,유교문화연구소,GEDC010-01,2,3.91,58,0
+739,성균논어,고재석,논어(현대지성 클래식 23),현대지성,공자,GEDC010-01,2,3.91,58,0
+740,성균논어,고재석,논어강설(4판)(사서삼경강설 시리즈 2),성균관대학교출판부,이기동,GEDC010-01,2,3.91,58,0
+741,성균논어,고재석,심산 김창숙 평전(양장본 HardCover),시대의창,김삼웅,GEDC010-01,2,3.91,58,0
+742,성균논어,고재석,통하니까 인간이다,커뮤니케이션북스,이효성,GEDC010-01,2,3.91,58,0
+743,성균논어,임홍태,논어,심산,편집부,GEDC010-01,2,3.91,58,0
+744,성균논어,이주강,"리더십, 성균에 길이 있다",사람의무늬,성균리더십출간위원회,GEDC010-01,2,3.91,58,0
+745,이론리더십,신완선,P를 보면 발걸음이 가볍다,KSAM,신완선,GEDR013-01,2,3.85,58,0
+746,이론리더십,신완선,P를 보면 발걸음이 가볍다 (비전편),KSAM,신완선,GEDR013-01,2,3.85,58,0
+747,이론리더십,신완선,리얼 옵션,더난출판사,없음,GEDR013-01,2,3.85,58,0
+748,이론리더십,신완선,테크노 리더십,김영사,신완선,GEDR013-01,2,3.85,58,0
+749,이론리더십,차동옥,논리적 추론과 증명(3판),이제이북스,이병덕,GEDR013-01,2,3.85,58,0
+750,앙트레프레너십과리더십,이원준,리더십 이론과 실제(양장본 HardCover),학지사,"탁진국, 손주영",GEDR015-I1,2,3.48,58,0
+751,영어발표,토머스존,Poised to presen(개정판),성균관대학교출판부,성균어학원,GEDG002-01,2,3.75,58,0
+752,영어발표,토머스존,Poised to Present(Paperback),성균관대학교출판부,성균어학원,GEDG002-01,2,3.75,58,0
+753,영어발표,다인리듬,Write On,성균관대학교출판부,편집부,GEDG002-01,2,3.75,58,0
+754,영어발표,저스틴바라스,Write On(개정판),성균관대학교출판부,성균어학원,GEDG002-01,2,3.75,58,0
+755,문예영어,모건뱁스트,Starship Troopers,Ace Books,Heinlein Robert A,GEDG007-01,2,4.23,58,0
+756,문예영어,모건뱁스트,The Forever War,없음,Haldeman Joe,GEDG007-01,2,4.23,58,0
+757,비즈니스영어,다인리듬,Market Leader Elementary Course Book CD,Longman,Cotton,GEDG005-01,2,3.43,58,0
+758,비즈니스영어,다인리듬,Market Leader: Intermediate Business English CourseBook,Prentice-Hall,David Cotoon,GEDG005-01,2,3.43,58,0
+759,비즈니스영어,다인리듬,Market Leader(3rd Extra) SB(w/DVD) Intermediate,PEARSON,Cotten,GEDG005-01,2,3.43,58,0
+760,스페인어문화권의사회와문화,강정원,라틴 아메리카를 찾아서,민음사,"곽재성, 우석균",GEDG019-01,2,4.53,58,0
+761,스페인어문화권의사회와문화,강정원,왜 스페인은 끌리는가(타산지석 18),리수,안영옥,GEDG019-01,2,4.53,58,0
+762,스페인어문화권의사회와문화,강정원,차이를 넘어 공존으로,서울대학교출판문화원,서울대학교 서어서문학과,GEDG019-01,2,4.53,58,0
+763,스페인어문화권의사회와문화,강정원,콜럼버스에서 룰라까지,개마고원,송기도,GEDG019-01,2,4.53,58,0
+764,현대세계와글로벌시각,김현숙,숫자로 보는 세계화 교과서,현실문화,카를 알브레히트 이멜,GEDG010-01,2,3.49,58,0
+765,현대세계와글로벌시각,전비호,Global Business Today,McGraw Hill,Charles W L Hill,GEDG010-01,2,3.49,58,0
+766,현대세계와글로벌시각,전비호,국제경영(글로벌 시대의)(8판),MCGRAWHILL,Charles W L Hill,GEDG010-01,2,3.49,58,0
+767,발표와토론1,이소영,말하기 능력을 키우는 발표의 기술,성균관대학교출판부,"김경훤, 홍은실, 현원숙, 김희경, 오광근",GEDW015-01,2,4.0,58,0
+768,스피치와토론,오현정,소통의 기초 스피치와 토론(시학과 향연 3),성균관대학교출판부,스피치와 토론 교과교재 출간위원회,GEDW003-03,2,4.06,58,0
+769,스피치와토론,오현정,스피치와 토론(개정판),성균관대학교출판부,"이상철, 백미숙, 정현숙",GEDW003-03,2,4.06,58,0
+770,스피치와토론,오현정,스피치와 토론(글쓰기와 커뮤니케이션 03),성균관대학교대동문화연구원,"이상철, 백미숙, 정현숙",GEDW003-03,2,4.06,58,0
+771,스피치와토론,백미숙,스피치로 승부하라,교보문고,백미숙,GEDW003-03,2,4.06,58,0
+772,스피치와토론,백미숙,토론(커뮤니케이션 이해 총서),커뮤니케이션북스,백미숙,GEDW003-03,2,4.06,58,0
+773,스피치와토론,이상욱,창의적 사고 소통의 글쓰기(3판)(시학과 향연 1),성균관대학교출판부,"김경훤, 김미란, 김성수",GEDW003-03,2,4.06,58,0
+774,의사소통1,이수미,사고력을 키우는 읽기의 기술,성균관대학교출판부,"김경훤, 김희경, 홍은실, 오광근, 유하라",GEDW008-01,2,0.0,58,0
+775,의사소통2,박혜경,강의 듣기의 기술. 1(CD1장포함)(외국인 유학생을 위한 교양 한국어),성균관대학교출판부,"김경훤, 현원숙, 유하라, 오문경, 장민정",GEDW009-01,2,4.0,58,0
+776,의사소통4,홍은실,강의 듣기의 기술. 2,성균관대학교출판부,김경훤,GEDW014-01,2,4.25,58,0
+777,의사소통4,장민정,강의 듣기의 기술. 2(개정판)(CD1장포함),성균관대학교출판부,"김경훤, 홍은실, 장민정, 유하라, 현원숙",GEDW014-01,2,4.25,58,0
+778,창의적글쓰기,배선애,창의적 사고 소통의 글쓰기,성균관대학교출판부,"김경훤, 김미란, 김성수",GEDW001-01,2,4.07,58,0
+779,창의적글쓰기,김성수,프랑켄슈타인의 글쓰기,글누림,없음,GEDW001-01,2,4.07,58,0
+780,창의적글쓰기,김성수,프랑켄슈타인의 글쓰기(개정판),글누림,김성수,GEDW001-01,2,4.07,58,0
+781,창의적글쓰기,김진균,보정 한글 맞춤법 강의(양장본 HardCover),신구문화사,"이희승, 안병희, 한재영",GEDW001-01,2,4.07,58,0
+782,창의적글쓰기,김경훤,문장의 실제와 분석(글쓰기를 위한),지필미디어,김경훤,GEDW001-01,2,4.07,58,0
+783,창의적글쓰기,진순애,글쓰기와 자기발견의 근대,역락,진순애,GEDW001-01,2,4.07,58,0
+784,창의적글쓰기,이봉범,과학혁명의 구조(4판),까치,토머스 쿤,GEDW001-01,2,4.07,58,0
+785,창의적글쓰기,심선옥,자유론(책세상문고 고전의 세계),책세상,존 스튜어트 밀,GEDW001-01,2,4.07,58,0
+786,학술적글쓰기,김태경,무지개를 풀며,바다출판사,리처드 도킨스,GEDW002-01,2,3.54,58,0
+787,학술적글쓰기,김태경,비판적 사고 학술적 글쓰기(시학과 향연 시리즈 2),성균관대학교출판부,"원만희, 박정하, 박상태, 한기호, 김상현",GEDW002-01,2,3.54,58,0
+788,학술적글쓰기,김태경,욕망의 진화,사이언스북스,데이비드 버스,GEDW002-01,2,3.54,58,0
+789,학술적글쓰기,원만희,돈으로 살 수 없는 것들,와이즈베리,마이클 샌델,GEDW002-01,2,3.54,58,0
+790,학술적글쓰기,원만희,학술적 글쓰기,성균관대학교출판부,"원만희, 박정하, 박상태, 한기호, 김상현",GEDW002-01,2,3.54,58,0
+791,학술적글쓰기,원만희,행복의 기원(양장본 HardCover),21세기북스,서은국,GEDW002-01,2,3.54,58,0
+792,학술적글쓰기,전대석,3차 산업혁명,민음사,제레미 리프킨,GEDW002-01,2,3.54,58,0
+793,학술적글쓰기,전대석,SWP 연습,성균관대학교출판부,"원만희, 박정하, 박상태, 한기호, 김상현",GEDW002-01,2,3.54,58,0
+794,학술적글쓰기,전대석,빅 데이터가 만드는 세상,21세기북스,없음,GEDW002-01,2,3.54,58,0
+795,학술적글쓰기,전대석,생각하지 않는 사람들,청림출판,니콜라스 카,GEDW002-01,2,3.54,58,0
+796,학술적글쓰기,전대석,세상을 바꾼 법정,궁리,"마이클 리프, 미첼 콜드웰",GEDW002-01,2,3.54,58,0
+797,학술적글쓰기,전대석,시민혁명(비타 악티바 21),책세상,박윤덕,GEDW002-01,2,3.54,58,0
+798,학술적글쓰기,전대석,엔트로피,세종연구원,제레미 리프킨,GEDW002-01,2,3.54,58,0
+799,학술적글쓰기,전대석,역사란 무엇인가(개정판 2판),까치,EH 카,GEDW002-01,2,3.54,58,0
+800,학술적글쓰기,전대석,역사란 무엇인가(탐구히스토리),탐구당,에드워드 카,GEDW002-01,2,3.54,58,0
+801,학술적글쓰기,전대석,역사의 역사,돌베개,유시민,GEDW002-01,2,3.54,58,0
+802,학술적글쓰기,전대석,의료윤리와 비판적 글쓰기,북코리아,전대석,GEDW002-01,2,3.54,58,0
+803,학술적글쓰기,박정하,문화의 수수께끼(오늘의사상신서 37),한길사,마빈 해리스,GEDW002-01,2,3.54,58,0
+804,학술적글쓰기,박정하,시장은 정의로운가,김영사,이정전,GEDW002-01,2,3.54,58,0
+805,학술적글쓰기,박정하,자유론(책세상문고 고전의세계 43),책세상,존 스튜어트 밀,GEDW002-01,2,3.54,58,0
+806,학술적글쓰기,박정하,정의란 무엇인가,김영사,마이클 샌델,GEDW002-01,2,3.54,58,0
+807,학술적글쓰기,박정하,정의란 무엇인가(마이클 샌델),와이즈베리,마이클 샌델,GEDW002-01,2,3.54,58,0
+808,학술적글쓰기,박정하,죽음이란 무엇인가,엘도라도,셸리 케이건,GEDW002-01,2,3.54,58,0
+809,학술적글쓰기,박정하,학교는 시장이 아니다,궁리,마사 누스바움,GEDW002-01,2,3.54,58,0
+810,학술적글쓰기,박정하,학술적 글쓰기(글쓰기와 커뮤니케이션 02),성균관대학교출판부,"손동현, 원만희, 박정하, 배식한, 박상태",GEDW002-01,2,3.54,58,0
+811,학술적글쓰기,정준영,경쟁에 반대한다,민들레,알피 콘,GEDW002-01,2,3.54,58,0
+812,학술적글쓰기,정준영,인간 불평등 기원론(책세상문고고전의세계 27),책세상,장 자크 루소,GEDW002-01,2,3.54,58,0
+813,학술적글쓰기,이창후,Justice,Farrar Straus & Giroux,마이클 샌델,GEDW002-01,2,3.54,58,0
+814,학술적글쓰기,김종규,4차 산업 혁명의 충격,흐름출판,"클라우스 슈밥, 포린 어페어스 (엮음)",GEDW002-01,2,3.54,58,0
+815,학술적글쓰기,김종규,로봇(양장본 HardCover),모비딕,카렐 차페크,GEDW002-01,2,3.54,58,0
+816,학술적글쓰기,김종규,조건 없이 기본소득,바다출판사,바티스트 밀롱도,GEDW002-01,2,3.54,58,0
+817,학술적글쓰기,김성희,소유란 무엇인가(대우고전총서 9),아카넷,피에르 조제프 프루동,GEDW002-01,2,3.54,58,0
+818,학술적글쓰기,김성희,여성의 종속,책세상,존 스튜어트 밀,GEDW002-01,2,3.54,58,0
+819,학술적글쓰기,박우현,종교 행복을 말하다(학글모둠 1),로직인,박우현,GEDW002-01,2,3.54,58,0
+820,학술적글쓰기,박우현,철학 글쓰기와 독서를 말하다(학글모둠 2),로직인,박우현,GEDW002-01,2,3.54,58,0
+821,학술적글쓰기,박우현,코끼리는 생각하지 마,와이즈베리,조지 레이코프,GEDW002-01,2,3.54,58,0
+822,학술적글쓰기,김주일,사회과학입문,성균관대학교출판부,성균관대학교 사회과학대학,GEDW002-01,2,3.54,58,0
+823,한국어문서작성,양태영,글쓰기 기초(외국인 유학생을 위한),박이정,양태영,GEDW011-01,2,4.6,58,0
+824,한국어문서작성,박은정,한국어 쓰기. 중급 2(대학 강의 수강을 위한)(Paperback),연세대학교출판부,연세대학교 한국어학당,GEDW011-01,2,4.6,58,0
+825,과학기술글쓰기,박상태,과학기술 글쓰기: 이론과 실제(시학과 향연 4),성균관대학교출판부,"노상도, 박상태, 한기호, 한영신",GEDW004-41,2,3.99,58,0
+826,과학기술글쓰기,박상태,과학기술글쓰기(개정판)(시학과 향연 4),성균관대학교출판부,"노상도, 박상태, 한기호, 한영신",GEDW004-41,2,3.99,58,0
+827,과학기술글쓰기,박상태,논리적 추론과 증명(개정판 2판),이제이북스,이병덕,GEDW004-41,2,3.99,58,0
+828,과학기술글쓰기,노상도,과학기술 커뮤니케이션,시그마프레스,"노상도, 강무진, 권영돈, 손미애, 신동렬",GEDW004-41,2,3.99,58,0
+829,비판적사고,홍지호,비판적 사고,성균관대학교출판부,"이좌용, 홍지호",GEDT003-01,2,4.28,58,0
+830,비판적사고,홍지호,비판적 사고(3판),성균관대학교출판부,"이좌용, 홍지호",GEDT003-01,2,4.28,58,0
+831,사고와표현,오광근,글쓰기의 절차와 과정,성균관대학교출판부,"김경훤, 오광근, 유하라, 김희경, 현원숙",GEDT013-01,2,3.5,58,0
+832,수리적사고,이장주,수학여행,성균관대학교출판부,"강옥기, 김미진, 조현공, 허난",GEDT004-01,2,3.71,58,0
+833,수리적사고,이장주,우리 역사 속 수학 이야기,사람의무늬,이장주,GEDT004-01,2,3.71,58,0
+834,창의적사고,최인수,"몰입, FLOW",한울림,미하이 칙센트미하이,GEDT006-01,2,3.85,58,0
+835,창의적사고,최인수,창의성의 발견,쌤앤파커스,최인수,GEDT006-01,2,3.85,58,0
+836,창의적사고,이화선,박영택 창의발상론(양장본 HardCover),한국표준협회미디어,박영택,GEDT006-01,2,3.85,58,0
+837,통계적사고,김민숙,통계적 사고(2판)(양장본 HardCover),박영사,"남궁평, 박종선, 허문열",GEDT005-01,2,3.15,58,0
+838,기호논리학,정은해,기호논리학,민영사,여훈근,GEDT002-42,2,3.28,58,0
+839,기호논리학,이병덕,논리적 추론과 증명,이제이북스,이병덕,GEDT002-42,2,3.28,58,0
+840,기호논리학,이병덕,코어 논리학(시그니처클래스),성균관대학교출판부,이병덕,GEDT002-42,2,3.28,58,0
+841,일반논리학,홍지호,논리교실 필로지아(CD1장포함),오란디프,정대현 외,GEDT001-I1,2,3.9,58,0
+842,경제학입문,신혜원,맨큐의 핵심경제학(7판),Cengage Learning,그레고리 맨큐,GEDI010-01,3,4.89,58,0
+843,경제학입문,정승진,와이드 경제학(3판),비앤엠북스,"홍승기, 박환재, 장선구",GEDI010-01,3,4.89,58,0
+844,경제학입문,양은모,맨큐의 핵심경제학(8판),한티에듀,그레고리 맨큐,GEDI010-01,3,4.89,58,0
+845,경제학입문,김민성,경제학원론(2판)(반양장),시그마프레스,"대런 애쓰모글루, David Laibson, 존 리스트",GEDI010-01,3,4.89,58,0
+846,경제학입문,이해춘,경제학 들어가기(4판)(양장본 HardCover),문우사,"이준구, 이창용",GEDI010-01,3,4.89,58,0
+847,기초독어1,최명원,Schritte international 1. Kursbuch + Arbeitsbuch mit Audio-CD zum...,없음,Niebisch Daniela,GEDI016-01,3,4.62,58,0
+848,기초독어1,오민정,Schritte 1. Deutsch als Fremdsprache: Schritte 1. Lehrerhandbuch,Hueber,"Bovermann, Monika",GEDI016-01,3,4.62,58,0
+849,기초독어2,홍문표,Schritte International 2,없음,Niebisch Daniela,GEDI017-01,3,4.8,58,0
+850,기초러시아어2,이스토미나일로나,영어로 배우는 러시아어,문예림,이스토미나 일로나,GEDI019-01,3,5.0,58,0
+851,기초일본어1,류희승,Let's go japanese 세트(New Campus)(전3권),제이앤씨,성균관대학교 교재편찬위원회,GEDI020-01,3,4.1,58,0
+852,기초일본어1,류희승,Step by Step 일본어,재팬리서치21,성균관대학교 일본학연계전공 교재편찬위,GEDI020-01,3,4.1,58,0
+853,기초중국어1,왕수향,신공략 중국어: 기초편(개정판)(CD2장포함),다락원,"마전비, 소영하, 적염",GEDI014-01,3,3.07,58,0
+854,기초중국어1,김보영,신공략 중국어: 초급편(CD포함)(개정판)(CD1장포함),다락원,"마전비, 소영하, 적염",GEDI014-01,3,3.07,58,0
+855,기초프랑스어1,정광흠,기초 프랑스어,성균관대학교출판부,성균관대학교 프랑스어문학과,GEDI012-01,3,4.75,58,0
+856,기초한문,안나미,교양한문,성균관대학교출판부,성균관대학교 교양한문 편찬위원회,GEDI023-01,3,4.08,58,0
+857,기초한문,김종서,봄 여름 가을 겨울,김영사,김종서,GEDI023-01,3,4.08,58,0
+858,기초한문,김동석,사자성어 따라쓰기 365+,문자향,우리한문학회,GEDI023-01,3,4.08,58,0
+859,기초한문,이은영,사자성어,월인,우리한문학회편,GEDI023-01,3,4.08,58,0
+860,영어쓰기,브리짓맥그레거,해커스 토익 실전 1000제 리딩.1(문제집)(구토익)(개정판),해커스어학연구소,해커스어학연구소,GEDG001-01,2,3.52,58,0
+861,현대중국사회의이해,유홍준,현대중국사회: 역사와 사회변동,그린,"유홍준, 김지훈",GEDG024-01,2,4.31,58,0
+862,동아시아역사와문화,다니엘종스베켄디크,Introduction to Korean History and Culture(Hardcover),한림출판사,없음,GEDS052-01,3,3.8,58,0
+863,공학컴퓨터프로그래밍,정윤경,MATLAB 기초와응용(공학설계를 위한)(5판),아진,"Brian H Hahn, Daniel T Valentine",GEDB030-41,3,0.0,58,0
+864,공학컴퓨터프로그래밍,정윤경,파이썬 프로그래밍 개론(에이콘 프로그래밍 언어 시리즈),에이콘출판,데이비드 슈나이더,GEDB030-41,3,0.0,58,0
+865,컴퓨팅사고와SW코딩,노해선,컴퓨팅 사고를 위한 파이선 입문,성균관대학교출판부,한옥영,GEDT014-01,2,4.11,58,0
+866,컴퓨팅사고와SW코딩,한옥영,Do it! 점프 투 파이썬,이지스퍼블리싱,박응용,GEDT014-01,2,4.11,58,0
+867,프로그래밍기초와실습,황지영,C How to program,Pearson,Paul deitel,GEDB029-41,3,4.3,58,0
+868,프로그래밍기초와실습,등국홍,C How to Program,"Pearson Education, Limited",Deitel,GEDB029-41,3,4.3,58,0
+869,프로그래밍기초와실습,등국홍,C How to Program (7th Edition) (Deital How to Series),Prentice Hall,Paul Deitel,GEDB029-41,3,4.3,58,0
+870,프로그래밍기초와실습,등국홍,윤성우의 열혈 C 프로그래밍(개정판),오렌지미디어,윤성우,GEDB029-41,3,4.3,58,0
+871,동양사상입문,신정근,동양철학의 유혹,이학사,신정근,GEDI001-01,3,4.36,58,0
+872,동양사상입문,신정근,한마음의 나라 한국,동인서원,이기동,GEDI001-01,3,4.36,58,0
+873,미분적분학1,조윤형,Calculus :early transcendentls 8/e(stewart성균관대),경문사,stewart,GEDB001-01,3,2.35,58,0
+874,미분적분학1,배종식,Calculus : Concepts and Contexts,Brooks Cole,Stewart James,GEDB001-01,3,2.35,58,0
+875,미분적분학1,배종식,Calculus: Early Transcendentals,Cengage Learning,James Stewart,GEDB001-01,3,2.35,58,0
+876,미분적분학1,김세기,Chemistry,McGraw Hill,chang,GEDB001-01,3,2.35,58,0
+877,미분적분학1,허석문,스튜어트 미분적분학(8판),북스힐,James Stewart,GEDB001-01,3,2.35,58,0
+878,미분적분학1,권순학,미분적분학(8판),경문사,제임스 스튜어트,GEDB001-01,3,2.35,58,0
+879,미분적분학1,서이혁,대학미분적분학(4판),경문사,James Stewart,GEDB001-01,3,2.35,58,0
+880,미분적분학1,서이혁,대학미적분학(3판),경문사,JAMES STEWART,GEDB001-01,3,2.35,58,0
+881,미분적분학1,서이혁,미분적분학(7판),경문사,James Stewart,GEDB001-01,3,2.35,58,0
+882,미분적분학1,김현수,Calculus (International Metric Version),Cengage Learning,Stewart James,GEDB001-01,3,2.35,58,0
+883,미분적분학1,나다나엘가르얀토,미분적분학(13판),자유아카데미,"Thomas, Weir, Hass",GEDB001-01,3,2.35,58,0
+884,사회학입문,정태인,Soc3,Wadsworth,Nijole V Benokraitis,GEDI009-01,3,3.02,58,0
+885,사회학입문,정태인,사회과학으로의 초대(개정판 2판),성균관대학교출판부,성균관대학교 사회과학연구소,GEDI009-01,3,3.02,58,0
+886,사회학입문,정태인,사회학: 비판적 사회읽기(2판),한울아카데미,비판사회학회 (엮음),GEDI009-01,3,3.02,58,0
+887,사회학입문,정태인,사회학의 핵심 개념들,동녘,"앤소니 기든스, 필립 W 서튼",GEDI009-01,3,3.02,58,0
+888,사회학입문,정태인,현대 사회학(5판),을유문화사,앤서니 기든스,GEDI009-01,3,3.02,58,0
+889,사회학입문,정태인,현대 사회학(6판),을유문화사,앤소니 기든스,GEDI009-01,3,3.02,58,0
+890,사회학입문,정태인,현대사회학(7판),을유문화사,"앤소니 기든스, 필립 서튼",GEDI009-01,3,3.02,58,0
+891,사회학입문,정태인,현대사회학(8판),을유문화사,"앤소니 기든스, 필립 서튼",GEDI009-01,3,3.02,58,0
+892,사회학입문,구정우,386세대 그빛과 그늘,문학사상사,진정 외,GEDI009-01,3,3.02,58,0
+893,사회학입문,김상욱,사회학: 비판적 사회읽기(2판)(한울아카데미 1520),한울,"비판사회학회 (엮음), 정태석 외",GEDI009-01,3,3.02,58,0
+894,사회학입문,김상욱,사회학(4판),그린,"석현호, 이정환, 김상욱",GEDI009-01,3,3.02,58,0
+895,사회학입문,이완수,사회학(5판),그린,"석현호, 이정환, 김상욱",GEDI009-01,3,3.02,58,0
+896,생명과학1,이우성,Campbell Biology,Pearson,"Martha R Taylor, Eric J Simon, Jean L Dickey, Kelly Hogan, Jane B Reece",GEDB016-01,3,4.75,58,0
+897,생명과학1,이우성,Campbell Biology: Concepts and connections,Pearson Education Asia,Campbell,GEDB016-01,3,4.75,58,0
+898,생명과학1,이우성,Campbell Biology: Concepts and Connections (+Access Code),Prentice-Hall,"Jane BReece, Martha R Taylor, Eric J Simon, Jean L Dickey",GEDB016-01,3,4.75,58,0
+899,생명과학1,이우성,생명과학 강의노트(3판),바이오사이언스,이우성,GEDB016-01,3,4.75,58,0
+900,생명과학1,이우성,생명과학: 개념과 현상의 이해(6판)(부록포함),바이오사이언스,"CAMPBELL, REECE, TAYLOR, SIMON, DICKEY",GEDB016-01,3,4.75,58,0
+901,생명과학1,이우성,생명과학(7판)(개념과현상의이해)(전2권),PEARSON EDUCATION KOREA,"Reece, Taylor, Simon, Dickey",GEDB016-01,3,4.75,58,0
+902,생명과학1,이우성,생명과학(캠벨)(10판),바이오사이언스,"Campbell, Reece, Urry, Cain, Wasserman",GEDB016-01,3,4.75,58,0
+903,생명과학1,이우성,생명과학(캠벨)(9판),바이오사이언스,"Jane B Reece, Lisa A Urry, Michael L Cain, Steven A Wasserman",GEDB016-01,3,4.75,58,0
+904,생명과학1,이석희,생명과학(개념과 현상의 이해)(9판),라이프사이언스,"Taylor, simon, dicky, hogan, reexe",GEDB016-01,3,4.75,58,0
+905,선형대수학,설한국,Contemporary Linear Algebra,Wiley,Howard Anton,GEDB003-01,3,4.03,58,0
+906,선형대수학,설한국,Elementary Linear Algebra,Wiley,"Howard Anton, Chris Rorres",GEDB003-01,3,4.03,58,0
+907,선형대수학,설한국,linear algbra and its applications sungkyunkwan univer ver.,.,없음,GEDB003-01,3,4.03,58,0
+908,선형대수학,설한국,선형대수(알기 쉬운)(개정판 11판),범한서적,"Howard Anton, Chris Rorres",GEDB003-01,3,4.03,58,0
+909,선형대수학,설한국,선형대수학(5판),프로텍미디어,"David C Lay, Steven R Lay, Judi J McDonald",GEDB003-01,3,4.03,58,0
+910,선형대수학,정윤모,Linear Algebra with Applications,Pearson Education Korea,Leon,GEDB003-01,3,4.03,58,0
+911,선형대수학,정윤모,현대 선형대수학,경문사,"이상구, 김덕선",GEDB003-01,3,4.03,58,0
+912,심리학입문,권영미,심리학개론(4판),PEARSON EDUCATION KOREA,"Kosslyn, Robin S Rosenberg, 이순묵, 도경수, 서용원",GEDI008-01,3,4.54,58,0
+913,심리학입문,권영미,심리학과 삶의 도전(12판),시그마프레스,"Jeffrey S Nevid, Spencer A Rathus",GEDI008-01,3,4.54,58,0
+914,심리학입문,박형생,Psychology in Your Life,Norton,"Grison, Heatherton, Gazzaniga",GEDI008-01,3,4.54,58,0
+915,심리학입문,박형생,심리학 입문,시그마프레스,"Schacter, Gilbert, Wegner",GEDI008-01,3,4.54,58,0
+916,심리학입문,최훈석,Introducing Psychology,PearsonEducacion,Brain,GEDI008-01,3,4.54,58,0
+917,심리학입문,최훈석,Introducing Psychology : Brain Person Group (Paperback),Pearson,MKosslyn Stephen,GEDI008-01,3,4.54,58,0
+918,심리학입문,이경성,마이어스의 심리학개론(11판),시그마프레스,"데이비드 G. 마이어스, 네이선 드월",GEDI008-01,3,4.54,58,0
+919,언어학입문,주경진,언어 이론과 그 응용(3판)(한국문화사 언어학 시리즈),한국문화사,김진우,GEDI002-01,3,3.13,58,0
+920,언어학입문,주경진,언어학 101,한국문화사,장영준,GEDI002-01,3,3.13,58,0
+921,언어학입문,박희수,언어,탑출판사,김진우,GEDI002-01,3,3.13,58,0
+922,언어학입문,박희수,언어(개정판 3판),한국문화사,강범모,GEDI002-01,3,3.13,58,0
+923,언어학입문,문정원,Linguistics for Non-Linguists,Jones and Bartlett,Parker Frank,GEDI002-01,3,3.13,58,0
+924,역사학입문,이진일,역사에 대해 생각하기,책과함께,사라 마자,GEDI004-01,3,4.73,58,0
+925,역사학입문,이진일,우리 안의 과거(양장본 HardCover),휴머니스트,테사 모리스 스즈키,GEDI004-01,3,4.73,58,0
+926,일반물리학1,이주열,Physics for Scientists and engineers with Modern Physics,Cengage Learning,Serway,GEDB008-41,3,4.73,58,0
+927,일반물리학1,이주열,대학물리학(9판)(전2권),북스힐,"Raymond A Serway, John W Jewett",GEDB008-41,3,4.73,58,0
+928,일반물리학1,최영일,Physics for Scientists and Engineers with Modern Physics,BROOKS/COLE,Raymond Serway,GEDB008-41,3,4.73,58,0
+929,일반물리학1,최영일,Principles of Physics,Brooks Cole Pub Co,Serway Raymond,GEDB008-41,3,4.73,58,0
+930,일반물리학1,최우석,대학물리학(8판)(전2권),북스힐,"John W Jewett Jr, Raymond A Serway",GEDB008-41,3,4.73,58,0
+931,일반물리학1,랍라하예,대학물리학(최신)(전2권),북스힐,Ramond A Serway,GEDB008-41,3,4.73,58,0
+932,일반물리학1,카와이신스케,일반물리학 1,교문사,울산대학교물리학과,GEDB008-41,3,4.73,58,0
+933,일반화학1,팽기욱,일반화학(줌달의)(9판),사이플러스,Zumdahl,GEDB012-41,3,4.66,58,0
+934,일반화학1,팽기욱,줌달의 일반화학(9판),사이플러스,Zumdahl,GEDB012-41,3,4.66,58,0
+935,일반화학1,윤완수,일반화학 7판,사이플러스,WHITTEN DAVIS,GEDB012-41,3,4.66,58,0
+936,철학입문,정은해,철학에의 초대,비사원,대학교재 편찬위,GEDI005-01,3,2.76,58,0
+937,희랍어,김태경,Athenaze Book. I,"Oxford University Press, USA",Maurice Balme/Gilbert Lawall/James Morwood,GEDI024-01,3,3.0,58,0
+938,고급생명과학1,김승철,Biology: A Global Approach,"Pearson Education, Limited","Neil A Campbell, Lisa A Urry, Michael L Cain, Steven A Wasserman, Peter V Minorsky",GEDB026-41,3,4.13,58,0
+939,고급생명과학1,김승철,Biology: A Global Approach (Pearson Global Edition),PEARSON,Campbell Neil A,GEDB026-41,3,4.13,58,0
+940,공학수학1,박준현,Advanced Engineering Mathematics,Wiley,Erwin Kreyszig,GEDB004-41,3,4.4,58,0
+941,공학수학1,박준현,공업수학(상): 상미분방정식 선형대수 벡터미적분(개정판 10판),범한서적,Erwin  Kreyszig,GEDB004-41,3,4.4,58,0
+942,공학수학1,최문택,KREYSZIG 공업수학 문제풀이 해설(개정판 10판),범한서적,범한서적 편집부,GEDB004-41,3,4.4,58,0
+943,공학수학1,최문택,공업수학. 상(KREYSZIG)(개정판 9판),범한서적,Erwin  Kreyszig,GEDB004-41,3,4.4,58,0
+944,공학수학1,최문택,공업수학(하)(Kreyszig)(개정판 10판),범한서적,Erwin Kreyszig,GEDB004-41,3,4.4,58,0
+945,공학수학1,권영돈,KREYSZIG 공업수학(상)(최신)(개정8판),범한서적,없음,GEDB004-41,3,4.4,58,0
+946,공학수학1,미트라게게르치,Advanced Engineering Mathematics : Abridged International Sutdent Edition,Wiley,Erwin Kreyszig,GEDB004-41,3,4.4,58,0
+947,일반물리학실험1,최한용,일반물리학실험,북스힐,없음,GEDB009-41,1,0.0,58,0
+948,일반물리학실험1,카르스텐로트,일반물리학실험(개정판),북스힐,박찬응,GEDB009-41,1,0.0,58,0
+949,일반화학실험1,박성호,일반화학실험,사이플러스,화학교재연구회,GEDB013-41,1,5.0,58,0
+950,확률및통계,길이만,Introduction to Probabiliy and Statistics for Engineers and Scientists(5판),Elsevier,Sheldon M Ross,GEDB028-41,3,4.33,58,0
+951,확률및통계,길이만,Probability and Statistics for Engineers and Scientists(Global Edition),Pearson Education,"Ronald E Walpole, Raymond H Myers, Sharon L Myers, Keying Ye",GEDB028-41,3,4.33,58,0
+952,확률및통계,길이만,이공계용 확률과통계,홍릉과학출판사,Sheldon M Ross,GEDB028-41,3,4.33,58,0
+953,확률및통계,길이만,확률과 통계(이공계용)(FOURTH EDITION)(4판),홍릉과학출판사,SHELDIN M ROSS,GEDB028-41,3,4.33,58,0
+954,고전속의행복,원만희,니코마코스 윤리학(개정판)(원전으로 읽는 순수 고전 세계)(양장본 HardCover),숲,아리스토텔레스,GEDH092-01,3,4.17,58,0
+955,고전속의행복,원만희,쇼펜하우어의 행복론과 인생론,을유문화사,"쇼펜하우어, 아르투어 쇼펜하우어",GEDH092-01,3,4.17,58,0
+956,고전속의행복,원만희,행복의 정복,사회평론,버트런드 러셀,GEDH092-01,3,4.17,58,0
+957,문예창작의이해,이규배,수능국어 절대어휘 상상사전: 운문문학편,작은숲,이규배,GEDH064-01,3,1.08,58,0
+958,문화사회학,박치현,문화 이론,이학사,필립 스미스,SOC2008-01,3,3.55,45,1
+959,문화인류학,이경미,낯선 곳에서 나를 만나다(개정증보판),일조각,한국문화인류학회,GEDH021-01,3,3.61,58,0
+960,문화인류학,이경미,문화인류학(개정판)(반양장),서울대학교출판문화원,"한상복, 이문웅, 김광억",GEDH021-01,3,3.61,58,0
+961,사랑과문학,이지순,사랑의 빛깔들(양장본 HardCover),사람의무늬,이지순,GEDH034-I1,3,3.71,58,0
+962,생명의료윤리,임종식,"인간, 위대한 기적인가 지상의 악마인가?",사람의무늬,임종식,GEDH032-01,3,3.7,58,0
+963,생명의료윤리,임종식,형사법과 살해의도,성균관대학교출판부,임종식,GEDH032-01,3,3.7,58,0
+964,세계의정원과문화,김도훈,유럽 정원을 거닐다,글항아리,"정기호, 최종희, 김도훈, 이준규, 윤호병",GEDH035-41,3,4.0,58,0
+965,연극과문화,김동욱,세계연극사,McGraw-Hill,Edwin Wilson 외 1 명,GEDH065-I1,3,2.43,58,0
+966,영미문화의이해,이강선,영미문화의 이해,신아사,박거용,GEDH008-01,3,0.0,58,0
+967,예술의말과생각,오종우,안나 카레니나 박스 세트(세계문학전집)(전3권),문학동네,레프 톨스토이,GEDH059-01,3,4.48,58,0
+968,예술의말과생각,오종우,안나 카레니나. 1(세계문학전집 219)(반양장),민음사,레프 톨스토이,GEDH059-01,3,4.48,58,0
+969,예술의말과생각,오종우,예술 수업,어크로스,오종우,GEDH059-01,3,4.48,58,0
+970,음악의이해,이지현,청소년을 위한 서양음악사(2판),두리미디어,이동활,GEDH018-41,3,3.88,58,0
+971,정치이데올로기론,윤비,Political Ideologies,Oxford U.K,Matthew Festenstein,PSD2007-01,3,3.31,41,1
+972,정치이데올로기론,윤비,사회사상과 정치 이데올로기(제주대 평화연구소 번역총서 10),오름,앤드류 헤이우드,PSD2007-01,3,3.31,41,1
+973,한자와한문의세계,이돈석,한문의 세계(교양인을 위한),성균관대학교출판부,이명학,GEDH063-01,3,4.07,58,0
+974,북유럽신화의이해,홍미경,게르만 신화와 전설,범우사,라이너 테츠너,GEDH048-01,3,4.57,58,0
+975,아동의심리와교육,강민희,아동발달의 이해(3판)(양장본 HardCover),학지사,정옥분,GEDH025-01,3,4.55,58,0
+976,경제학의고전과현대적이슈,김광수,도덕감정론(비봉고전선)(양장본 HardCover),비봉출판사,애덤 스미스,GEDS032-01,3,3.36,58,0
+977,경제학의고전과현대적이슈,김광수,도덕감정론(한길그레이트북스 142)(양장본 HardCover),한길사,애덤 스미스,GEDS032-01,3,3.36,58,0
+978,경제학의고전과현대적이슈,김광수,죽은 경제학자의 살아있는 아이디어,김영사,토드 부크홀츠,GEDS032-01,3,3.36,58,0
+979,경제학의고전과현대적이슈,김광수,죽은 경제학자의 살아있는 아이디어(개정판)(양장본 HardCover),김영사,토드 부크홀츠,GEDS032-01,3,3.36,58,0
+980,고전속의미디어와언론의자유,이상철,미디어의 이해,커뮤니케이션북스,마셜 매클루언,GEDS069-01,3,3.27,58,0
+981,고전속의정의,이전오,도덕과 입법의 원칙에 대한 서론(대우고전총서 33)(양장본 HardCover),아카넷,제러미 벤담,GEDS068-01,3,4.92,58,0
+982,글로벌무역의이해,박명섭,글로벌 무역의 이해(3판)(양장본 HardCover),아카데미프레스,박명섭,GEDS048-01,3,2.0,58,0
+983,기술시대의회계,백태영,회계와 사회(6판)(양장본 HardCover),신영사,"김혁, 백원선, 백태영, 송인만, 이효익",GEDS041-I1,3,4.05,58,0
+984,기술시대의회계,백태영,회계와 사회(7판)(양장본 HardCover),신영사,"송인만, 백원선, 백태영, 이용규, 이종은",GEDS041-I1,3,4.05,58,0
+985,기술시대의회계,백태영,회계와 사회(8판)(양장본 HardCover),신영사,"최관, 백원선, 백태영, 이용규, 이종은",GEDS041-I1,3,4.05,58,0
+986,기업과증권시장의이해,박영규,"주식투자, 누가 시장을 이기는가?",베가북스,박영규,GEDS060-I1,3,3.03,58,0
+987,기업과증권시장의이해,박영규,증권투자의 이해(2판),문영사,박영규,GEDS060-I1,3,3.03,58,0
+988,기업과증권시장의이해,박영규,증권투자의 이해(양장본 HardCover),문영사,"박영규, 권용재, 최영목",GEDS060-I1,3,3.03,58,0
+989,나와역사,하원수,김창숙 문존,성균관대학교출판부,심산사상연구회,GEDS029-01,3,2.67,58,0
+990,대중매체의이해,박인곤,커뮤니케이션 연구 어떻게 할 것인가,커뮤니케이션북스,아서 아사 버거,GEDS011-41,3,4.47,58,0
+991,동양의역사와문명,김지훈,동아시아 속의 중국사,혜안,"기시모토 미오, 하마구치 노부코",GEDS004-01,3,3.82,58,0
+992,비교정치론,마인섭,나쁜 사마리아인들,부키,장하준,PSD2002-01,3,3.85,41,1
+993,비교정치론,마인섭,민주주의와 그 비판자들(현대의지성 101),문학과지성사,로버트 달,PSD2002-01,3,3.85,41,1
+994,사회과학고전읽기,박승희,도덕경(다시 읽다 2),사람의무늬,박승희,GEDS047-01,3,3.87,58,0
+995,서양의역사와문명,이상동,서양사 강좌,아카넷,박윤덕 외,GEDS005-01,3,3.93,58,0
+996,서양의역사와문명,이상동,세상에서 가장 짧은 세계사,위즈덤하우스,존 허스트,GEDS005-01,3,3.93,58,0
+997,서양의역사와문명,이상동,"우신예찬(바보 신 모리아, 어리석은 현자들을 비웃다)(서해클래식 019)",서해문집,에라스무스,GEDS005-01,3,3.93,58,0
+998,유럽속의독일,나연숙,하룻밤에 읽는 유럽사(2판)(하룻밤 시리즈),알에이치코리아,윤승준,GER2002-01,3,1.8,28,1
+999,이공계경영학,이희상,경영학(이공계를 위한)(2판)(양장본 HardCover),신영사,"이희상, 백태영, 김종욱",GEDS046-I1,3,2.45,58,0
+1000,이공계경영학,이희상,경영학(이공계를 위한)(양장본 HardCover),신영사,"김종욱, 백태영, 이희상",GEDS046-I1,3,2.45,58,0
+1001,이공계경영학,이희상,이공계를 위한 경영학(3판)(양장본 HardCover),신영사,"이희상, 백태영",GEDS046-I1,3,2.45,58,0
+1002,직업생활과법,김홍영,교양노동법,문우사,한국노동법학회,GEDS065-41,3,4.41,58,0
+1003,직업생활과법,김홍영,교양노동법(2판),문우사,한국노동법학회,GEDS065-41,3,4.41,58,0
+1004,프랑스어권사회와문화,정지용,프랑스 하나 그리고 여럿(개정판),지성공간,서울대학교 불어문화권연구소,FRE3030-01,3,4.36,36,2
+1005,한국전통사회의정치문화,배항섭,19세기 민중사 연구의 시각과 방법(동아시아 문명총서 11)(양장본 HardCover),성균관대학교출판부,배항섭,GEDS050-41,3,0.0,58,0
+1006,한국현대사,오제연,마을로 간 한국전쟁,돌베개,박찬승,HIS2005-01,3,4.77,34,1
+1007,현대민주주의의이해,김비환,민주주의와 법의 지배,후마니타스,"아담 쉐보르스키, 호세 마리아 마라발",GEDS010-I1,3,3.26,58,0
+1008,현대민주주의의이해,김비환,이것이 민주주의다,개마고원,김비환,GEDS010-I1,3,3.26,58,0
+1009,현대사회와법,서순택,시민생활과 법: 민사 생활법률 강의,이화여자대학교출판부,"송덕수, 정태윤, 오종근, 서을오, 김병선",GEDS039-01,3,4.25,58,0
+1010,현대사회와법,이희경,한국인의 법과 생활(개정판),법무부,"법무부, 한국법교육센터",GEDS039-01,3,4.25,58,0
+1011,현대사회와법의정신,최봉철,공리주의(책세상문고 고전의 세계),책세상,존 스튜어트 밀,GEDS064-01,3,4.17,58,0
+1012,현대사회와복지,홍경준,무연사회,용오름,없음,GEDS018-01,3,4.23,58,0
+1013,현대사회와복지,홍경준,빈곤을 보는 눈(세상을 읽는 눈),개마고원,신명호,GEDS018-01,3,4.23,58,0
+1014,현대사회와헌법의이해,지성우,변호사시험법전(2018),현암사,현암사 법전부,GEDS070-01,3,3.0,58,0
+1015,현대사회와헌법의이해,지성우,변호사시험용법전: 공법편 민사법편 형사법편(2016)(PRIME),프라임에듀북,편집부,GEDS070-01,3,3.0,58,0
+1016,현대사회와헌법의이해,지성우,헌법학(2018)(18판)(양장본 HardCover),법문사,성낙인,GEDS070-01,3,3.0,58,0
+1017,공학경제,이명용,경제성공학(최신)(개정판 2판)(양장본 HardCover),형설출판사,유일근,GEDS024-41,3,4.47,58,0
+1018,성격과적응,이경성,성격심리학,학지사,노안영,GEDS017-41,3,4.09,58,0
+1019,성격과적응,이경성,성격심리학(양장본 HardCover),법문사,민경환,GEDS017-41,3,4.09,58,0
+1020,성격과적응,이경성,성격심리학(인간 이해를 위한)(양장본 HardCover),학지사,권석만,GEDS017-41,3,4.09,58,0
+1021,소비와윤리,윤명애,윤리적 소비의 이해와 실천,시그마프레스,"천경희, 홍연금, 윤명애, 송인숙",GEDS063-01,3,4.12,58,0
+1022,소비와윤리,윤명애,행복한 소비 윤리적 소비,시그마프레스,"천경희, 홍연금, 윤명애, 송인숙, 이성림",GEDS063-01,3,4.12,58,0
+1023,인간과토지의문명사,박은영,조선과 명청(현재를 보는 역사),너머북스,"기시모토 미오, 미야지마 히로시",GEDS053-01,3,4.54,58,0
+1024,과학사,박영민,과학사신론(2판),다산출판사,"김영식, 임경순",GEDN001-01,3,3.47,58,0
+1025,과학사,박영민,과학사의 이해,다산출판사,임경순,GEDN001-01,3,3.47,58,0
+1026,문명과자연환경,한면희,미래세대와 생태윤리,철학과현실사,한면희,GEDN019-01,3,2.63,58,0
+1027,문명과자연환경,한면희,초록문명론 (동녘신서 97),동녘,한면희,GEDN019-01,3,2.63,58,0
+1028,생명의과학,이우성,생명과학 강의노트(개정판),성균관대학교출판부,이우성,GEDN012-I1,3,3.67,58,0
+1029,생명진화의철학,주성호,창조적 진화 (대우고전총서 11),아카넷,앙리 베르그손,GEDN011-01,3,3.55,58,0
+1030,우주론,홍승우,빅뱅이론과 우주의 기원,대광서림,윤성민,GEDN006-I1,3,3.19,58,0
+1031,우주론,홍승우,우주의 비밀,청문각(교문사),전일동,GEDN006-I1,3,3.19,58,0
+1032,현대천문학개론,윤성민,은하 블랙홀을 찾아서(개정판 2판),부지런한거북이,윤성민,GEDN005-I1,3,2.92,58,0
+1033,현대천문학개론,윤성민,은하 블랙홀을 찾아서(개정판),부지런한거북이,윤성민,GEDN005-I1,3,2.92,58,0
+1034,4차산업혁명과과학문화,조항민,과학기술 미디어와 만나다,한국학술정보,조항민,GEDN045-41,3,4.27,58,0
+1035,4차산업혁명과과학문화,조항민,클라우스 슈밥의 제4차 산업혁명 더 넥스트(The Next),새로운현재,클라우스 슈밥,GEDN045-41,3,4.27,58,0
+1036,기후와문화,이승재,기후와 문화,시그마프레스,"오성남, 김정우, 이태영, 신임철, 이규석",GEDN024-01,3,3.73,58,0
+1037,자연과학고전읽기,권영욱,사피엔스,김영사,유발 하라리,GEDN025-01,3,4.0,58,0
+1038,FYE세미나Ⅰ,정순현,새내기 멘토링,그린,"유홍준, 신진규, 정순현, 박은영, 최선희",GELT038-01,1,5.0,0,0
+1039,컴퓨터문서작성,추현승,컴퓨터활용능력 1급 필기(2017)(시나공 Summary)(시나공시리즈 26),길벗,길벗알앤디,GELT006-I1,1,4.05,0,0
+1040,교육과정,서향희,교육과정론(교사를 위한)(양장본 HardCover),공동체,"권낙원, 김민환, 한승록, 추광재",EDU2006-01,3,4.83,37,1
+1041,교육의심리학적이해,최권,교육심리학(8판),학지사,"PAUL EGGEN, DON KAUCHAK",CFTD007-01,2,4.37,1,0
+1042,교육철학및교육사,김은우,교육철학 및 교육사의 이해(2판),학지사,"신차균, 안경식, 유재봉",CFTD001-01,2,4.0,1,0
+1043,아동교육론,방은정,영어 기출문제 유형 분석집(초등임용 2차),초등임용영어닷컴,서승우 외 1 명,CFTD034-01,3,0.0,1,0
+1044,아동교육론,방은정,초등 심층면접(2015),위드북,윤승현,CFTD034-01,3,0.0,1,0
+1045,영어교육론,주경진,How Languages are Learned,Oxford,Patsy M Lightbown,CFTD013-01,3,0.0,1,0
+1046,중국어교육론,조은정,중국어 교육론,한국문화사,"엄익상, 박용진, 이옥주",CFTD015-01,3,0.0,1,0
+1047,체육교육론,김길용,체조지도 방법의 원리(교사에게 자신감을 주는),무지개사,"이대형, 권오석",CFTD037-01,3,0.0,1,0
+1048,세계경제질서의역사,이성주,세계경제사 들어서기(양장본 HardCover),해남,송병건,INT2004-01,3,4.43,11,1
+1049,글로벌지속경영,정홍주,An International Comparison of Financial Consumer Protection(IAFICO Book...,피앤씨미디어,사단법인 국제금융소비자학회,INT3003-01,3,2.67,11,2
+1050,상법1,최준선,인사이트 상법,집현재,이정엽 (편저),BIZ2023-01,3,3.72,2,1
+1051,상법1,최준선,회계사 객관식 상법(11판),나무와사람,"오수철, 심유식",BIZ2023-01,3,3.72,2,1
+1052,상법1,최준선,회계사 상법신강(인터넷전용상품)(11판),여울,김혁붕,BIZ2023-01,3,3.72,2,1
+1053,상법1,최준선,회사법(11판)(양장본 HardCover),삼영사,최준선,BIZ2023-01,3,3.72,2,1
+1054,상법1,최준선,회사법(12판)(양장본 HardCover),삼영사,최준선,BIZ2023-01,3,3.72,2,1
+1055,상법1,최준선,회사법(13판)(양장본 HardCover),삼영사,최준선,BIZ2023-01,3,3.72,2,1
+1056,상법1,최준선,회사법(14판)(양장본 HardCover),삼영사,최준선,BIZ2023-01,3,3.72,2,1
+1057,세무회계,정문기,객관식 세법(2020)(개정판 9판),상경사,"정지선, 윤성만, 유은종, 정우승",BUS3019-01,3,4.0,3,2
+1058,세무회계,정문기,세법 워크북. 1(2020)(개정판 14판),상경사,"이철재, 정우승, 유은종",BUS3019-01,3,4.0,3,2
+1059,세무회계,정문기,세법 워크북. 2(2020)(개정판 14판),상경사,"이철재, 정우승, 유은종",BUS3019-01,3,4.0,3,2
+1060,세무회계,정문기,세법강의. 1(2019)(31판),세경사,"이철재, 정우승, 유은종",BUS3019-01,3,4.0,3,2
+1061,세무회계,정문기,세법개론(2016)(22판),상경사,"임상엽, 정정운",BUS3019-01,3,4.0,3,2
+1062,조직행동론,차동옥,조직행동론(13판)(양장본 HardCover),한경사,"Don Hellriegel, John W Slocum",DBA4018-01,3,0.0,59,3
+1063,통계적데이터마이닝,김재직,심층 학습(제이펍의 인공지능 시리즈 13),제이펍,"이안 굿펠로, 요슈아 벤지오, 에런 쿠빌",STA3014-01,3,4.44,5,2
+1064,통계적데이터마이닝,김재직,패턴 인식과 머신 러닝(제이펍의 인공지능 시리즈 11),제이펍,크리스토퍼 비숍,STA3014-01,3,4.44,5,2
+1065,원가회계,백태영,원가관리회계(6판)(양장본 HardCover),신영사,백태영,BUS2020-01,3,0.0,3,1
+1066,원가회계,백태영,원가회계(2판),신영사,백태영,BUS2020-01,3,0.0,3,1
+1067,원가회계,백태영,원가회계(3판)(양장본 HardCover),신영사,백태영,BUS2020-01,3,0.0,3,1
+1068,원가회계,백태영,원가회계(양장본 HardCover),신영사,백태영,BUS2020-01,3,0.0,3,1
+1069,국제비즈니스협상과계약,박명섭,영문 계약서 작성의 키포인트,아카데미프레스,나카무라 히데오,BUS2036-01,3,0.0,3,1
+1070,국제비즈니스협상과계약,박명섭,전략적 협상(글로벌시대의),아카데미프레스,"알랭 랑뻬르, 오우레리앙 꼴송, 미셀 뻬까",BUS2036-01,3,0.0,3,1
+1071,마케팅인텔리젼스,이은주,Introduction to Neuromarketing ＆ Consumer Neuroscience,Neurons Inc,Dr Thomas Zoega Ramsoy,BUS3037-I1,3,2.32,3,2
+1072,Strategic Management,김상균,Strategic Management,Cengage Learning,없음,GBA2008-01,3,3.58,6,1
+1073,Strategic Management,김상균,Strategic Management: Concepts: Competitiveness and Globalization,Cengage Learning,Michael A Hitt / R Duane Ireland / Robert E Hoskisson,GBA2008-01,3,3.58,6,1
+1074,Intermediate Corporate Finance,김영한,Equity Asset Valuation,Wiley,Jerald E Pinto CFA,GBA2011-01,3,4.19,6,1
+1075,Intermediate Corporate Finance,김영한,Studyguide for Investment Valuation: Tools and Techniques for...,Academic Internet Publishers,Aswath Damodaran,GBA2011-01,3,4.19,6,1
+1076,Marketing Strategy and Planning,김태완,Marketing Strategy,Palgrave,Robert W Palmatier,GBA3009-01,3,3.22,6,2
+1077,Organizations and Organizational Change,현선해,Understanding the Theory and Design of Organizations,South-Western,Richard L Daft,GBA3017-01,3,3.57,6,2
+1078,실험계획법,이근백,Design and Analysis of Experiments (Paperback),Wiley,Montgomery,STA3026-01,3,3.85,5,2
+1079,실험계획법,이종석,실험설계와 분석(8판),자유아카데미,Douglas C Montgomery,STA3026-01,3,3.85,5,2
+1080,한국경제론,정승진,국가의 역할,부키,장하준,ECO3016-01,3,2.15,4,2
+1081,한국경제론,정승진,인간의 얼굴을 한 세계화,21세기북스,조지프 E 스티글리츠,ECO3016-01,3,2.15,4,2
+1082,한국경제론,정승진,주식회사 한국의 구조조정 무엇이 문제인가,창비,"신장섭, 장하준",ECO3016-01,3,2.15,4,2
+1083,외환시장론,조두연,International Financial Management: Pearson New Internationa,Pearson Penguin Longman,Geert Bekaert & Robert Hodrick,ECO3021-01,3,4.29,4,2
+1084,정책학원론,권기헌,정의로운 국가란 무엇인가,박영사,권기헌,PAD2001-01,3,2.8,39,1
+1085,정책학원론,권기헌,정책학 강의(양장본 HardCover),박영사,권기헌,PAD2001-01,3,2.8,39,1
+1086,정책학원론,권기헌,정책학 콘서트(양장본 HardCover),박영사,권기헌,PAD2001-01,3,2.8,39,1
+1087,정책학원론,권기헌,정책학의 향연(양장본 HardCover),박영사,권기헌,PAD2001-01,3,2.8,39,1
+1088,국제정치론,차태서,국제분쟁의 이해: 이론과 역사(개정판),한울아카데미,조지프 나이,PSD2022-01,3,4.75,41,1
+1089,국제정치론,차태서,세계외교사,서울대학교출판문화원,김용구,PSD2022-01,3,4.75,41,1
+1090,화폐금융론,이근영,Economics of Money Banking and Financial Markets 9/E,Pearson Education Asia,Mishkin,ECO2008-01,3,3.43,4,1
+1091,화폐금융론,이근영,화폐와 금융시장(3판)(양장본 HardCover),율곡출판사,"정운찬, 김홍범",ECO2008-01,3,3.43,4,1
+1092,화폐금융론,이근영,화폐와 금융시장(4판),율곡출판사,"정운찬, 김홍범",ECO2008-01,3,3.43,4,1
+1093,화폐금융론,이근영,화폐와 금융시장(5판)(양장본 HardCover),율곡출판사,"정운찬, 김홍범",ECO2008-01,3,3.43,4,1
+1094,화폐금융론,전용일,Economics of Money Banking and Financial Markets The Business School...,Pearson,Frederic S Mishkin,ECO2008-01,3,3.43,4,1
+1095,화폐금융론,전용일,"Economics of Money, Banking and Financial Markets","Pearson Education, Limited",Mishkin Frederic S,ECO2008-01,3,3.43,4,1
+1096,화폐금융론,전용일,The Economics of Money Banking and Financial Markets (Paperback),Pearson Educacion,Mishkin,ECO2008-01,3,3.43,4,1
+1097,화폐금융론,전용일,"The Economics of Money, Banking and Financial Markets",Prentice Hall,Mishkin Frederic S,ECO2008-01,3,3.43,4,1
+1098,재정학,장선구,POINT 재정학,비앤엠북스,없음,ECO2010-02,3,3.5,4,1
+1099,재정학,장선구,객관식 재정학,비앤엠북스,"장선구, 박환재",ECO2010-02,3,3.5,4,1
+1100,재정학,장선구,객관식 재정학(3판),비앤엠북스,"장선구, 박환재",ECO2010-02,3,3.5,4,1
+1101,재정학,장선구,신규상품등록,교보문고,편집부,ECO2010-02,3,3.5,4,1
+1102,재정학,장선구,재정학 연습문제 해설집(이준구 조명환의)(5판),문우사,김진욱,ECO2010-02,3,3.5,4,1
+1103,재정학,장선구,재정학(객관식)(양장본 HardCover),비앤엠북스,"장선구, 박환재",ECO2010-02,3,3.5,4,1
+1104,재정학,장선구,재정학(유레카),비앤엠북스,"장선구, 김수빈",ECO2010-02,3,3.5,4,1
+1105,국제무역론,김영한,무역영어 1급 기본이론+문제(2019)(와우패스)(개정판),와우패스,백소라,ECO2013-01,3,3.6,4,1
+1106,한국경제사,송경은,기아와 기적의 기원,해남,차명수,ECO3002-01,3,3.55,4,2
+1107,한국경제사,송경은,한국경제사,한국방송통신대학교,한국방송통신대학교 편집부,ECO3002-01,3,3.55,4,2
+1108,한국경제사,송경은,"한국경제사(1학기, 워크북포함)",한국방송통신대학교,"장시원, 이영훈, 박기주",ECO3002-01,3,3.55,4,2
+1109,계량경제학,김창식,계량경제학. 1(5판),박영사,"Jeffrey M Wooldridge, 한치록",ECO3005-01,3,4.66,4,2
+1110,계량경제학,김창식,계량경제학. 5/E(Gujarati의)(5판),지필미디어,"Damodar N Gujarati, Dawn C Proter",ECO3005-01,3,4.66,4,2
+1111,계량경제학,김창식,계량경제학(3판),시그마프레스,"R Carter Hill, WILLIAM E GRIFFITHS, GUAY C LIM",ECO3005-01,3,4.66,4,2
+1112,계량경제학,김창식,계량경제학(4판),McGraw-Hill,"Gujarati, Dawn C Porter",ECO3005-01,3,4.66,4,2
+1113,노동경제학,조준모,Modern Labor Economics,Pearson,Ronald Ehrenberg,ECO3009-01,3,4.42,4,2
+1114,노동경제학,조준모,노동경제학(7판),시그마프레스,George J Borjas,ECO3009-01,3,4.42,4,2
+1115,노동경제학,조준모,현대노동경제학: 이론과공공정책(10판),Pearson Education,Ehrenberg,ECO3009-01,3,4.42,4,2
+1116,경제발전론,김인철,Economic Development 12/E,Pearson Education,Michael P Todaro,ECO3017-01,3,4.5,4,2
+1117,환경경제학,이해춘,Environmental and Natural Resources Economics 9/E (Paperback),Pearson Educacion,없음,ECO3028-01,3,3.7,4,2
+1118,Economic Development,린슈친,Economic Development,Addison Wesley,Todaro,GEC3403-01,3,4.46,7,2
+1119,Economic Development,린슈친,Economic Growth 2/E,Addison-Wesley,Weil,GEC3403-01,3,4.46,7,2
+1120,Economic Development,린슈친,Economic Growth 3/E (Paperback),Pearson Educacion,Weil,GEC3403-01,3,4.46,7,2
+1121,경제법,정호열,경제법,박영사,정호열,PIL3001-01,3,4.29,40,2
+1122,경제법,정호열,경제법(전정판 5판)(양장본 HardCover),박영사,정호열,PIL3001-01,3,4.29,40,2
+1123,경제법,정호열,경제법(전정판 6판)(양장본 HardCover),박영사,정호열,PIL3001-01,3,4.29,40,2
+1124,Intermediate Microeconomic Theory,송준,미시경제학(5판)(양장본 HardCover),법문사,이준구,GEC2003-01,3,4.44,7,1
+1125,Intermediate Macroeconomic Theory,김영세,Macroeconomics 6/E,Worth,Mankiw N Gregory,GEC2004-01,3,4.8,7,1
+1126,Statistical Analysis for Economics,송은지,Statistics for Management &amp; Economics,Cengage Learning,Keller,GEC2006-01,3,2.35,7,1
+1127,Statistical Analysis for Economics,송은지,Statistics for Management and Economics,Cengage Learning,Gerald Keller,GEC2006-01,3,2.35,7,1
+1128,International Corporate Finance,김성현,International Corporate Finance,McGraw-Hill,J. Ashok Robin,GEC3208-01,3,4.0,7,2
+1129,Asset Pricing,황수성,재무경제학,피앤씨미디어,"황수성, 신진호",GEC3213-01,3,5.0,7,2
+1130,재료역학,박선규,재료역학(개정판 9판),Cengage Learning,"James M Gere, Barry J Goodno",CAL2001-41,3,4.0,12,1
+1131,재료역학,이정윤,Beer의 재료역학(G/E)(6판),McGraw Hill,"Ferdinand P Beer, ERussell Johnston Jr, John T Dewolf, David F Mazurek",CAL2001-41,3,4.0,12,1
+1132,재료역학,이정윤,Beer의 재료역학(수정판 6판),경문사,"Ferdinand P Beer, E Russell Johnstonm Jr, John T Dewolf, David F Mazurek",CAL2001-41,3,4.0,12,1
+1133,철근콘크리트구조1,이정윤,철근콘크리트구조(2012 설계기준)(2판)(양장본 HardCover),동화기술,이정윤,CAL2003-41,3,4.88,12,1
+1134,토질역학,유충식,Principles of Geotechnical Engineering (Paperback),Cengage Learning,Das Braja M,CAL2018-41,3,3.67,12,1
+1135,측량정보학및실습,윤홍식,측량정보공학(개정판 3판),양서각,조규전,CAL2020-41,3,4.44,12,1
+1136,부정정구조물의해석,김문영,구조해석(4판)(CD1장포함)(양장본 HardCover),동화기술,"Jack C McCormac, 권순덕, 김성보, 이영욱, 윤태호",CAL3040-41,3,4.17,12,2
+1137,열전달,이진기,An Introduction to Mass and Heat Transfer: Principles of Analysis and...,John Wiley & Sons Inc,Middleman Stanley,EME3004-41,3,4.61,16,2
+1138,열전달,이진기,열전달(8판),텍스트북스,"Frank P. Incropera, David P DeWitt, hedore L Bergman, Adrienne S Lavine",EME3004-41,3,4.61,16,2
+1139,물리화학1,이진용,Quantitative Chemical Analysis (Revised),Freeman,Harris Daniel C,CHY2001-41,3,4.0,50,1
+1140,반도체공학개론,이후정,Solid State Electronic Devices(Global Edition),Pearson Higher Education,Ben Streetman,EAM2012-41,3,4.0,21,1
+1141,반도체공학개론,정원국,고체전자공학(7판)(양장본 HardCover),성진미디어,"Ben G Streetman, Sanjay Kumar Banerjee",EAM2012-41,3,4.0,21,1
+1142,박막재료공정,염근영,Materials Science of Thin Films,Academic,Ohring Milton,EAM3038-41,3,3.93,21,2
+1143,인간공학및실습,공용구,인간공학(7판)(양장본 HardCover),대영사,"Mark S Sanders, Ernest J McCormick",ESM2010-41,3,0.0,19,1
+1144,제조전략이해,최후곤,"Automation, Production Systems, and Computer-Integrated Manufacturing",Pearson,Mikell P Groover,ESM2011-41,3,3.71,19,1
+1145,생산관리,권대일,생산운영관리(13판),MCGRAW-HILL Higher Education,William J Stevenson,ESM3019-41,3,0.0,19,2
+1146,응용통계및연습2,강석호,Probability and Statistics 4/E,Pearson Education Asia,DeGroot Morris H,ESM3026-41,3,5.0,19,2
+1147,화공유체역학,방석호,화학공학유체역학,한산,James O Wilkes,ECH2007-41,3,4.64,22,1
+1148,화공유체역학,남재도,Introduction to Fluid Dynamics: Principles of Analysis &amp; Design,Wiley,Middleman Stanley,ECH2007-41,3,4.64,22,1
+1149,화공유체역학,이용철,단위조작(7판),McGraw-Hill,Mccabe,ECH2007-41,3,4.64,22,1
+1150,화공유체역학,권영돈,Fluid Mechanics for Chemical Engineers,Prentice-Hall,Wilkes,ECH2007-41,3,4.64,22,1
+1151,화공유체역학,권영돈,화학공학 유체역학(윌키스의)(3판),사이플러스,James O Wilkes,ECH2007-41,3,4.64,22,1
+1152,공업물리화학1,한귀영,물리화학(9판),교보문고,"Peter Atkins, Julio de Paula",ECH2017-41,3,3.29,22,1
+1153,공업물리화학1,이준영,"of Physical Chemistry by Peter Atkins, Julio de Paula, ISBN: 9780716773290",Academic Internet Publishers,없음,ECH2017-41,3,3.29,22,1
+1154,공업물리화학1,김덕준,물리화학(8판),교보문고,"Atkins, Julio de Paula",ECH2017-41,3,3.29,22,1
+1155,공업생화학,엄숭호,Biochemistry : A short course,W.H. Freeman & Company,Tymoczko John L/ Berg Jeremy M/ Stryer Lubert,ECH2024-41,3,3.43,22,1
+1156,공업생화학,엄숭호,Biochemistry : Short Course,Palgrave Macmillan,Tymoczko / Berg / Stryer,ECH2024-41,3,3.43,22,1
+1157,공업생화학,엄숭호,Biochemistry (Paperback),Cengage Learning,Garrett,ECH2024-41,3,3.43,22,1
+1158,공업생화학,엄숭호,생화학(Stryer)(핵심),범문에듀케이션,"John L Tymoczko, Jeremy MBerg, Lubert Stryer",ECH2024-41,3,3.43,22,1
+1159,광학기초,이연호,Optics,Pearson,Eugene Hecht,EEE3006-41,3,4.43,15,2
+1160,광학기초,이연호,광학(4판),자유아카데미,Eugene Hecht,EEE3006-41,3,4.43,15,2
+1161,광학기초,박형원,광학(5판),자유아카데미,"조재흥, 김규욱, 황인각",EEE3006-41,3,4.43,15,2
+1162,광학기초,송장근,광학(OPTICS)(4판),자유아카데미,"Eugene Hecht, 장수, 황보창권, 조두진",EEE3006-41,3,4.43,15,2
+1163,응용생명공학,박재형,생체공학(2판),한티미디어,W Mark Saltzman,ECH2029-41,3,5.0,22,1
+1164,화공계산,김덕준,Introduction to Chemical Processes,McGraw-Hill,Murphy,ECH2031-41,3,4.14,22,1
+1165,화공계산,김덕준,화학공정계산(Murphy의)(개정판)(양장본 HardCover),사이플러스,Regina MMurphy,ECH2031-41,3,4.14,22,1
+1166,화공계산,김덕준,화학공정계산(개정판)(양장본 HardCover),사이플러스,Regina MMurphy,ECH2031-41,3,4.14,22,1
+1167,화공계산,김덕준,화학공정계산(제3판)(CD-ROM 1장 포함),청문각(교문사),RMFelder 외,ECH2031-41,3,4.14,22,1
+1168,화공계산,이동현,Elementary Principles of Chemical Processes,Wiley,Richard M Felder,ECH2031-41,3,4.14,22,1
+1169,화공계산,김동환,공학도를 위한 수치해석(7판),McGraw Hill,"Steven C Chapra, Raymond P Canale",ECH2031-41,3,4.14,22,1
+1170,화공계산,채희엽,Basic Principles and Calculations in Chemical Engineering (Revised),Pearson Educacion,Himmelblau David Mautner,ECH2031-41,3,4.14,22,1
+1171,화공계산,채희엽,화공양론(8판)(CD1장포함),PEARSON EDUCATION KOREA,"Himmelblau, JamesB Riggs",ECH2031-41,3,4.14,22,1
+1172,반도체화학공정,채희엽,반도체 소자 공정기술,자유아카데미,"Michael Quirk, Julian Serda",ECH3061-41,3,2.54,22,2
+1173,재료현대물리,정원국,Concepts of Modern Physics,McGraw-Hill,Beiser,EAM2039-41,3,3.86,21,1
+1174,재료현대물리,정원국,Concepts of Modern Physics (Asia Adaptation),McGraw-Hill,Beiser,EAM2039-41,3,3.86,21,1
+1175,재료현대물리,정원국,현대물리학(6판),McGraw Hill,"Beiser, Kok Wai Cheah",EAM2039-41,3,3.86,21,1
+1176,재료물리화학,이재찬,기본 물리화학,탐구당,Walter JMoore,EAM2046-41,3,3.88,21,1
+1177,재료물리화학,황동목,기본 물리 화학,탐구당,Walter J.Moore,EAM2046-41,3,3.88,21,1
+1178,결정구조및X-선회절,양철웅,Elements of X Ray Diffraction(3판)(Paperback),PEARSON EDUCATION KOREA,"BD Cullity, SR Stock",EAM2047-41,3,4.31,21,1
+1179,결정구조및X-선회절,양철웅,X-ray 결정학,청문각(교문사),허무영,EAM2047-41,3,4.31,21,1
+1180,결정구조및X-선회절,양철웅,재료결정학(개정판 2판),청문각(교문사),이정용,EAM2047-41,3,4.31,21,1
+1181,신소재공학개론1,주진호,Fundamentals of Materials Science and Engineering,John Wiley & Sons Inc,"William D Callister, David G Rethwisch",EAM2057-41,3,4.72,21,1
+1182,신소재공학개론1,주진호,재료과학(THIRD EDITION)(3판),한티미디어,WILLIAM D CALLISTER JR,EAM2057-41,3,4.72,21,1
+1183,신소재강도학,김득중,Mechanical Metallurgy (SI),McGraw-Hill,"Dieter, Bacon David",EAM3002-41,3,3.86,21,2
+1184,기계재료,이영제,재료공학(핵심)(3판),한티미디어,"Donald R Askeland, Wendelin JWright",EME2013-41,3,4.15,16,1
+1185,기계설계입문,서명원,기계공학제도(4판),문운당,김종원,EME2014-41,3,3.63,16,1
+1186,기체동역학,김윤제,Fundamentals of Gas Dynamics,John Wiley & Sons Inc,"Zucker Robert D, Biblarz Oscar",EME3009-41,3,4.09,16,2
+1187,기구학,문형필,기구학(4판)(CD1장포함),ITC,"John J Uicker, Gordon R Pennock, Joseph E Shigley",EME3017-41,3,3.53,16,2
+1188,기구학,최혁렬,기구학(4판),프로텍미디어,"Arthur G Erdman, George N Sandor, Sridhar Kota",EME3017-41,3,3.53,16,2
+1189,비파괴공학개론,송성진,비파괴평가공학,학연사,박은수 외,EME3035-41,3,4.0,16,2
+1190,시스템프로그램,최형기,Computer Systems,Pearson,Bryant Randal E,SWE2001-41,3,4.7,18,1
+1191,시스템프로그램,최형기,컴퓨터 시스템(3판),피어슨에듀케이션코리아,"Randal E Bryan, David R O'Hallaron",SWE2001-41,3,4.7,18,1
+1192,동아시아철학입문,김도일,중국철학사(상)(완역판)(까치글방 154),까치,풍우란,COS2027-01,3,5.0,56,1
+1193,동아시아철학입문,김도일,중국철학사(하)(완역판)(까치글방 155),까치,풍우란,COS2027-01,3,5.0,56,1
+1194,국어학연구입문,이금희,국어학개설(3판)(양장본 HardCover),학연사,이익섭,DKL2017-01,3,4.0,25,1
+1195,국문학연구입문,정인숙,한국문학강의,길벗,조동일,DKL2018-01,3,4.57,25,1
+1196,국문학연구입문,정인숙,한국문학강의(개정판),길벗,"조동일, 서대석, 이혜순, 김대행, 박희병",DKL2018-01,3,4.57,25,1
+1197,인문학명저산책,김연정,빌러비드(세계문학전집 116),문학동네,토니 모리슨,CLA2003-01,3,3.0,60,1
+1198,인문학명저산책,김연정,안드로이드는 전기양의 꿈을 꾸는가(필립 K. 딕 걸작선 12)(양장본 HardCover),폴라북스,필립 K. 딕,CLA2003-01,3,3.0,60,1
+1199,인문학명저산책,김연정,오만과 편견(세계문학전집 88),민음사,제인 오스틴,CLA2003-01,3,3.0,60,1
+1200,인문학명저산책,김연정,추락,동아일보사,존 쿳시,CLA2003-01,3,3.0,60,1
+1201,인문학명저산책,김연정,하얀 이빨. 1,민음사,제이디 스미스,CLA2003-01,3,3.0,60,1
+1202,인문학명저산책,심세광,감시와 처벌(2판)(양장본 HardCover),나남,미셸 푸코,CLA2003-01,3,3.0,60,1
+1203,인문학명저산책,심세광,성의 역사. 1: 지식의 의지(6판)(나남신서 136),나남,미셸 푸코,CLA2003-01,3,3.0,60,1
+1204,인문학명저산책,김영죽,그리스인 조르바(열린책들 세계문학 21)(양장본 HardCover),열린책들,니코스 카잔차키스,CLA2003-01,3,3.0,60,1
+1205,인문학명저산책,김영죽,마음(문예세계문학선 14),문예출판사,나쓰메 소세키,CLA2003-01,3,3.0,60,1
+1206,인문학명저산책,김영죽,북학의(오래된 책방 01),서해문집,박제가,CLA2003-01,3,3.0,60,1
+1207,인문학명저산책,김영죽,아내를 모자로 착각한 남자(개정판)(양장본 HardCover),알마,올리버 색스,CLA2003-01,3,3.0,60,1
+1208,인문학명저산책,김영죽,왜 나는 너를 사랑하는가(개정판)(양장본 HardCover),청미래,알랭 드 보통,CLA2003-01,3,3.0,60,1
+1209,프랑스어문법,노윤채,대학 프랑스어 문법,신아사,노윤채,FRE2001-01,3,4.67,36,1
+1210,고급중회화1,이안동,박아한어 중급가속편. 1,북경대학출판사,편집부,CHI3011-01,3,3.82,35,2
+1211,중국어학의이해,이정심,중국어란 무엇인가(개정증보판)(양장본 HardCover),통나무,최영애,CHI3032-01,3,3.0,35,2
+1212,영미시입문,김원중,Sound and Sense,Cengage Learning,"Arp Thomas R, Greg Johnson",ENG2001-01,3,3.27,10,1
+1213,라틴어독해연습,정준영,"Wheelock's Latin, 7th Edition",없음,Wheelock Frederic M,LIT2005-01,3,4.83,61,1
+1214,디지털문명과언어의미래,최명원,언어인간학,21세기북스,김성도,ILI3004-01,3,3.27,62,2
+1215,러시아어발달사,안혁,How Russian Came to Be the Way It Is,Slavica Pub,없음,RUS2023-01,3,3.25,29,1
+1216,러시아어발달사,안혁,러시아 문어사(양장본 HardCover),선인,"뵈크, 플렉켄슈타인, 프라이당크",RUS2023-01,3,3.25,29,1
+1217,동아시아의국제질서와일본,고은미,유목민의 눈으로 본 세계사,시루,스기야마 마사아키,JAP3031-01,3,3.57,63,2
+1218,뉴미디어컨텐츠론,김원제,"미디어 콘텐츠, 창조기획과 스마트 비즈니스",한국학술정보,"김원제, 송해룡",MCJ2006-01,3,3.82,44,1
+1219,뉴미디어컨텐츠론,김찬원,아이디스오더(하이브리드미래문화연구총서 6),성균관대학교출판부,"래리 D 로젠, 낸시 A 치버, L 마크 캐리어",MCJ2006-01,3,3.82,44,1
+1220,영어발음의이해,강용순,Practical Phonetics and Phonology,없음,Collins Beverley S,ENG2011-01,3,3.15,10,1
+1221,언어습득과영어교육,이혜문,Principles of Language Learning and Teaching,Prentice-Hall,Brown H Douglas,ENG3019-01,3,3.87,10,2
+1222,언어습득과영어교육,이혜문,외국어 학습 교수의 원리(5판),Pearson Education,Brown,ENG3019-01,3,3.87,10,2
+1223,일본어로읽는일본사회,김동건,JLPT(일본어능력시험) 한 권으로 끝내기 N4(개정판)(CD1장포함),다락원,"이치우, 이한나",JAP3032-01,3,4.0,63,2
+1224,고전문학작가론,한영규,새 민족문학사 강좌. 1(양장본 HardCover),창비,민족문학사연구소,DKL3016-01,3,4.0,25,2
+1225,한문문법,강지희,한문독해기본패턴(한문독해첩경시리즈 1),전통문화연구회,동양고전정보화연구소 고전교육연구실,KLC2007-01,3,4.75,24,1
+1226,영미소설입문,홍덕선,Disgrace,없음,Coetzee J M,ENG2004-01,3,3.08,10,1
+1227,미국문학개관1,정연식,The Norton Anthology of American Literature,W. W. Norton & Company,W W Norton & Company,ENG2007-01,3,4.35,10,1
+1228,미국문학개관1,정연식,The Norton Anthology of American Literature (Shorter Eighth Edition),W. W. Norton & Company,Nina Baym,ENG2007-01,3,4.35,10,1
+1229,의미와영어사용,이한정,STYLE(문체),홍문관,조셉 윌리엄스,ENG2021-01,3,4.06,10,1
+1230,중세르네상스영시,션노르만딘,Troilus and Cressida (Oxford World's Classics),Oxford U.K,없음,ENG3001-01,3,4.29,10,2
+1231,중세르네상스영시,션노르만딘,Troilus and Criseyde,Penguin Books,"Chaucer, Geoffrey",ENG3001-01,3,4.29,10,2
+1232,도이치1a,프랑크그뤼네르트,Menschen A1. Kursbuch mit DVD-ROM,없음,Evans Sandra,GER2006-01,3,4.33,28,1
+1233,도이치1a,프랑크그뤼네르트,studio 21 Grundstufe A1: Gesamtband. Intensivtraining mit Audio-CD,Cornelsen,Cornelsen Verlag GmbH,GER2006-01,3,4.33,28,1
+1234,메타데이터론,고영만,Metadata,Neal-Schuman Publishers,"Zeng, Marcia Lei (NA)",LIS2015-01,3,3.14,31,1
+1235,중국의역사1,하원수,한국인을 위한 중국사(서해역사책방 6),서해문집,신성곤 외,HIS2006-01,3,3.67,34,1
+1236,중국정치론,이희옥,중국 공산당을 개혁하라(동아시아자료총서 13)(양장본 HardCover),성균관대학교출판부,옌이룽,PSD3003-01,3,4.27,41,2
+1237,중국정치론,이희옥,중국 모델의 혁신(동아시아자료총서 4)(반양장),성균관대학교출판부,딩쉐량,PSD3003-01,3,4.27,41,2
+1238,중국정치론,이희옥,중국은 문명형 국가다,지식공작소,장웨이웨이,PSD3003-01,3,4.27,41,2
+1239,중국정치론,이희옥,중국은 문명형 국가다 큰글씨책,지식공작소,장웨이웨이,PSD3003-01,3,4.27,41,2
+1240,중국정치론,이희옥,차이나 핸드북(개정증보판),김영사,성균중국연구소,PSD3003-01,3,4.27,41,2
+1241,중국정치론,이희옥,차이나모델,서해문집,대니얼 A 벨,PSD3003-01,3,4.27,41,2
+1242,국어음운론,권인한,국어음성학,태학사,이호영,DKL2002-01,3,3.54,25,1
+1243,국어정서법,정희창,한국어 정서법(개정판)(사회평론 교육 총서 14),사회평론아카데미,"이선웅, 이승희, 정희창",DKL2012-01,3,4.37,25,1
+1244,형법의이해,김성돈,형법총론(5판)(양장본 HardCover),SKKUP,김성돈,PIL2003-01,3,3.64,40,1
+1245,교육사회학,양정호,교육사회학총론(개정증보판)(새로운)(2판),동문사,이종각,EDU3016-01,3,1.19,37,2
+1246,집합론,윤상운,A Book of Set Theory,Dover Publications,Pinter Charles,MAE2002-01,3,4.8,9,1
+1247,미분방정식,정희선,Differential Equations with Boundary Value Problems (Paperback),Brooks Cole,Zill,MAE2010-01,3,4.8,9,1
+1248,미분방정식,정희선,Differential Equations with Boundary-Value Problems (Paperback),Brooks/Cole,Zill,MAE2010-01,3,4.8,9,1
+1249,미분기하학1,조윤형,Differential Geometry of Curves and Surfaces,Dover Publications,Do Carmo Manfredo P,MAE3002-01,3,4.86,9,2
+1250,위상수학1,정희선,Schaum's Outline of General Topology,McGraw-Hill,Lipschutz Seymour,MAE3003-01,3,4.9,9,2
+1251,추상대수학1,임수봉,First Course in Abstract Algebra (Paperback),Pearson Penguin Longman,John Fraleigh,MAE3004-01,3,4.86,9,2
+1252,추상대수학1,임수봉,현대대수학(7판),성진미디어,John B Fraleigh,MAE3004-01,3,4.86,9,2
+1253,데이터통신기술,이광수,Data Communications and Networking (Global Edition),McGraw-Hill,Forouzan,COM3002-01,3,3.13,38,2
+1254,데이타베이스,김재현,데이터베이스 개론(IT Cookbook 한빛 교재 시리즈 150),한빛아카데미,김연희,COM3003-01,3,3.17,38,2
+1255,데이타베이스,김재현,데이터베이스 개론과 실습(오라클로 배우는),한빛아카데미,"박우창, 남송휘, 이현룡",COM3003-01,3,3.17,38,2
+1256,프로그래밍언어론,김재현,프로그래밍 언어론(IT Coolbook 한빛교재시리즈 87)(양장본 HardCover),한빛아카데미,"김종훈, 김종진",COM3008-01,3,3.7,38,2
+1257,PR의이해,박현순,PR,커뮤니케이션북스,커뮤니케이션북,MCJ2011-01,3,4.38,44,1
+1258,PR의이해,박현순,PR 입문,커뮤니케이션북스,"이명천, 김요한",MCJ2011-01,3,4.38,44,1
+1259,PR의이해,박현순,PR학 원론,커뮤니케이션북스,"한정호, 김병희, 김장열, 김찬아, 박노일",MCJ2011-01,3,4.38,44,1
+1260,PR의이해,박현순,프레임(나를 바꾸는 심리학의 지혜)(반양장),21세기북스,최인철,MCJ2011-01,3,4.38,44,1
+1261,언론실무교육,신성호,언론 글쓰기 이렇게 한다,한울,이건호,MCJ2030-01,3,4.58,44,1
+1262,국제법,성재호,국제법,박영사,김정균,PSD2020-01,3,4.27,41,1
+1263,국제법,성재호,신국제법강의: 이론과 사례(9판)(양장본 HardCover),박영사,정인섭,PSD2020-01,3,4.27,41,1
+1264,정치제도론,조원빈,"Patterns of Democracy (Updated, Expanded)",Yale University Press,Arend Lijphart,PSD3032-01,3,4.08,41,2
+1265,정치학개론,김태효,국제관계와 세계정치,명인문화사,Andrew Heywood,PSD2021-I1,3,4.7,41,1
+1266,정치학개론,김태효,세계화 시대의 정치학(개정판),오름,"홍익표, 진시원",PSD2021-I1,3,4.7,41,1
+1267,유아교육론,성지현,유아교육개론,공동체,없음,KID2003-01,3,2.57,47,1
+1268,유아교육론,성지현,유아교육개론(3판),양서원,"이기숙, 장영희, 정미라, 엄정애",KID2003-01,3,2.57,47,1
+1269,아동문학,현은자,그림책의 이해 1(2판),사계절,"현은자, 김세희",KID2004-01,3,3.62,47,1
+1270,아동문학,현은자,그림책의 이해 2,사계절,현은자,KID2004-01,3,3.62,47,1
+1271,아동문학,현은자,쿠슐라와 그림책 이야기,보림출판사（주）,없음,KID2004-01,3,3.62,47,1
+1272,아동관찰및행동연구,이미나,아동관찰 및 행동연구,학지사,"성미영, 전가일, 정현심, 김유미, 정하나",KID2007-01,3,4.0,47,1
+1273,아동관찰및행동연구,이미나,아동관찰행동연구,양서원,"전남련, 백향기, 김인자, 송영선, 이미향",KID2007-01,3,4.0,47,1
+1274,아동임상심리,김미성,아동 청소년 이상심리학(8판),시그마프레스,"Rita Wicks-Nelson, Allen C Israel",KID3025-01,3,0.0,47,2
+1275,정신건강,설희정,재난정신건강: 이론과 실제,피앤씨미디어,J Halpern M Rramontin,KID3048-01,3,4.8,47,2
+1276,이상심리,장혜인,Abnormal Psychology (GE),Pearson,"Thomas F Oltmanns, Robert E Emery",PSY3030-01,3,4.36,8,2
+1277,이상심리,장혜인,현대 이상심리학(2판)(양장본 HardCover),학지사,권석만,PSY3030-01,3,4.36,8,2
+1278,행정법총론,강현호,국가경영행정법(상)(양장본 HardCover),디비북스,강현호,PAD2012-01,3,3.08,39,1
+1279,인지심리,도경수,인지 심리학(4판),Cengage Learning,E Bruce Goldstein,PSY2001-01,3,3.83,8,1
+1280,인지심리,도경수,인지심리학,학지사,이정모,PSY2001-01,3,3.83,8,1
+1281,인지심리,도경수,인지심리학(3판)(양장본 HardCover),학지사,"이정모, 강은주, 김민식, 감기택, 김정오",PSY2001-01,3,3.83,8,1
+1282,현대사회심리,최훈석,Exploring Social Psychology,McGraw-Hill Higher Education,David G Myers,PSY2004-01,3,4.48,8,1
+1283,현대사회심리,최훈석,Exploring Social Psychology 6/E (Paperback),McGraw Hill,Myers,PSY2004-01,3,4.48,8,1
+1284,정서심리,용정순,정서심리학,Cengage Learning,"Kalat, Michelle N Shiota",PSY2007-01,3,4.0,8,1
+1285,정서심리,용정순,정서심리학(2판),Cengage Learning,"Michelle N Shiota, James W Kalat",PSY2007-01,3,4.0,8,1
+1286,인지과학,박형생,인지과학,성균관대학교출판부,없음,PSY3003-01,3,4.37,8,2
+1287,인지과학,박형생,인지과학: 학문 간 융합의 원리와 응용(양장본 HardCover),성균관대학교출판부,이정모,PSY3003-01,3,4.37,8,2
+1288,지각심리,민수정,감각 및 지각심리학(9판)(Paperback),박학사,E. Bruce Goldstein,PSY3008-01,3,4.42,8,2
+1289,성격심리,김수안,성격심리학(12판),시그마프레스,"Daniel Cervone, Lawrence A Pervin",PSY3029-01,3,3.21,8,2
+1290,소매경영의이해,정재은,"Retailing Management, 9/E",McGraw-Hill Education,Levy,CON3019-01,3,4.08,64,2
+1291,일탈과범죄,박형민,일탈과 범죄의 사회학(사회학총서 9),다산출판사,"김준호, 박성훈, 박형민, 신동준, 이성식",SOC2006-01,3,4.44,45,1
+1292,사회심리학,박태희,사회심리학의 이해(4판)(양장본 HardCover),학지사,한규석,GEDS012-01,3,0.0,58,0
+1293,조직사회학,유홍준,조직사회학(양장본 HardCover),성균관대학교출판부,유홍준,SOC3016-01,3,3.64,45,2
+1294,행정법의이해,김민호,행정법 엑기스(8판),필통북스,정선균,GLD2005-01,3,4.64,42,1
+1295,행정법의이해,김민호,행정법(양장본 HardCover),박영사,김민호,GLD2005-01,3,4.64,42,1
+1296,행정법의이해,김민호,행정법특강(15판)(양장본 HardCover),박영사,홍정선,GLD2005-01,3,4.64,42,1
+1297,행정학의이해,김상태,한국행정학(6판)(양장본 HardCover),박영사,유민봉,GLD2007-01,3,3.72,42,1
+1298,조직과인간관계의이해,박성민,조직과 인간관계(양장본 HardCover),박영사,"박성민, 김선아",GLD2013-01,3,0.0,42,1
+1299,글로벌거버넌스와국제기구,이숙종,International Organizations,Lynne Rienner,Karns Margaret P/ Mingst Karen A,GLD3010-01,3,2.68,42,2
+1300,글로벌거버넌스와국제기구,이숙종,국제기구의 이해(2판)(국제지역연구소 번역시리즈 13),명인문화사,"Margaret P Karns, Karen A Mingst",GLD3010-01,3,2.68,42,2
+1301,글로벌거버넌스와국제기구,이숙종,국제기구의 이해(3판),명인문화사,"Margaret P Karns, Karen A Mingst, Kendall W Stiles",GLD3010-01,3,2.68,42,2
+1302,글로벌거버넌스와국제기구,이숙종,국제기구의 이해(국제지역연구소 번역시리즈 2),명인문화사,"마가렛 P 칸스, 카렌 A 밍스트",GLD3010-01,3,2.68,42,2
+1303,범죄와사회,이희경,형법 각론(양장본 HardCover),피데스,원혜욱,GLD3015-01,3,4.24,42,2
+1304,가족관계와법률,류일현,친족상속법(3판)(양장본 HardCover),박영사,송덕수,GLD3016-01,3,3.71,42,2
+1305,가족관계와법률,류일현,친족상속법(4판)(양장본 HardCover),박영사,송덕수,GLD3016-01,3,3.71,42,2
+1306,행정과경제1:미시경제론,문상호,경제학원론:연습문제와 해답(5판),문우사,"이준구, 이창용",PAD2004-01,3,3.67,39,1
+1307,행정과경제1:미시경제론,문상호,경제학원론(연습문제와 해답),법문사,이준구,PAD2004-01,3,3.67,39,1
+1308,행정과경제1:미시경제론,문상호,미시경제학:수학노트와 연습문제 해답(7판),문우사,이준구,PAD2004-01,3,3.67,39,1
+1309,지방행정론,정문기,지방자치론,법문사,없음,PAD2008-01,3,3.8,39,1
+1310,지방행정론,정문기,지방자치론(수정판 2판)(양장본 HardCover),법문사,김병준,PAD2008-01,3,3.8,39,1
+1311,지방행정론,정문기,지방자치론(수정판),법문사,김병준,PAD2008-01,3,3.8,39,1
+1312,공공조직관리론,김근세,Understanding the Theory and Design of Organizations...,SouthWestern,"Daft, Richard L.",PAD2013-01,3,3.45,39,1
+1313,공공조직관리론,김근세,조직이론과 설계(10판)(양장본 HardCover),한경사,RICHARD L DAFT,PAD2013-01,3,3.45,39,1
+1314,공공조직관리론,김근세,조직행동론(16판),한티미디어,"스티븐 P. 로빈스, Timothy A. Judge",PAD2013-01,3,3.45,39,1
+1315,규제정책론,박형준,규제정책론(전정판)(양장본 HardCover),대영문화사,배용수,PAD3022-01,3,3.76,39,2
+1316,규제정책론,박형준,정부규제론,법문사,최병선,PAD3022-01,3,3.76,39,2
+1317,사회복지학개론,홍경준,사회과학으로의 초대(개정판),성균관대학교출판부,성균관대학교 사회과학연구소,SWF2001-01,3,4.11,32,1
+1318,사회복지학개론,홍경준,사회복지개론(개정판 4판)(사회복지학 총서 41),나남,"조흥식, 김상균, 최일섭, 최성재, 김혜란",SWF2001-01,3,4.11,32,1
+1319,사회복지학개론,홍경준,아가: 희미한 옛사랑의 그림자(양장본 HardCover),민음사,이문열,SWF2001-01,3,4.11,32,1
+1320,사회복지정책론,박승희,오래된 미래(양장본 HardCover),중앙북스,헬레나 노르베리 호지,SWF2003-01,3,3.79,32,1
+1321,사회복지정책론,박승희,한국 사회보장론,성균관대학교출판부,박승희,SWF2003-01,3,3.79,32,1
+1322,사회복지정책론,박승희,한국사회복지정책론 (아름다운 세상 가꾸기),성균관대학교출판부,박승희,SWF2003-01,3,3.79,32,1
+1323,사회복지정책론,박승희,한국사회복지정책론(개정판),성균관대학교출판부,박승희,SWF2003-01,3,3.79,32,1
+1324,사회복지실천론,엄명용,사회복지실천의 이해(3판)(양장본 HardCover),학지사,"엄명용, 김성천, 오혜경, 윤혜미",SWF2004-01,3,3.75,32,1
+1325,사회복지실천론,엄명용,사회복지실천의 이해(4판)(양장본 HardCover),학지사,"엄명용, 김성천, 오혜경, 윤혜미",SWF2004-01,3,3.75,32,1
+1326,사회복지실천론,엄명용,클라이언트 사례집(사회복지사가 쓴),학지사,조성우,SWF2004-01,3,3.75,32,1
+1327,아동복지론,김기현,아동복지론(3판)(양장본 HardCover),공동체,노병일,SWF2009-01,3,4.71,32,1
+1328,사회복지윤리와철학,이혁구,사회복지 윤리와 철학(2판)(양장본 HardCover),공동체,"우국희, 임세희, 성정현, 최승희, 장연진",SWF2016-01,3,3.86,32,1
+1329,행동행정학,데이비드올리버카즈단,Nudge * 2017 노벨 경제학상 *,Penguin Books,"Thaler Richard H, Sunstein Cass R",PAD3033-01,3,4.13,39,2
+1330,행동행정학,데이비드올리버카즈단,넛지 : 똑똑한 선택을 이끄는 힘(양장본 HardCover),리더스북,"리처드 탈러, 캐스 선스타인",PAD3033-01,3,4.13,39,2
+1331,식품미생물학,우한민,Brock Biology of Microorganisms,Pearson Education Asia,Madigan Michael,FBT2011-41,3,2.88,48,1
+1332,유전학,황혜진,핵심유전학(9판),바이오사이언스출판,"William S Klug, Michael R Cummings, Charlotte A Spencer, Michael A Palladino",IBT2003-41,3,4.0,49,1
+1333,컴퓨터개론,김문현,Computer Science Illuminated,Jones & Bartlett Publishers,Dale Nell,SWE2020-01,2,4.3,18,1
+1334,디지털통신,김동인,Fundamentals of Communication Systems,PEARSON,John G Proakis,EEE3012-41,3,3.33,15,2
+1335,제어공학기초,박기헌,Automatic Control Systems (BK+CD),Wiley,Kuo/ Golnaraghi,EEE3024-41,3,3.5,15,2
+1336,제어공학기초,박기헌,Kuo의 자동제어(8판),Wiley,"Kuo, Farid Golnaraghi",EEE3024-41,3,3.5,15,2
+1337,데이터통신,이태진,데이터통신과 네트워킹(5판),McGraw-Hill,Forouzan,ICE3025-41,3,4.09,17,2
+1338,생체역학,엄길호,생체역학 사례기반 접근,한미의학,"Sean P Flanagan, 김용운, 서정석, 엄길호, 이기광",EBM3007-41,3,2.0,65,2
+1339,스포츠통계학,엄한주,통계학: 이해와 응용(2판)(양장본 HardCover),시그마프레스,"유극렬, 박주헌",SPT3044-41,3,2.0,53,2

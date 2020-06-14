@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Board_list</title>
+		<link rel="stylesheet" type="text/css" href="/static/css/style.css">
+	</head>
+	<body>
+		<div class="board-page">
+			<div class="board">
+				<p align="right">{{ uname }} 님 환영합니다.<button id="btn_logout">Log-out</button></p>
+				<h1>글 목록</h1>
+
+				<!-- 검색 시작 -->
+				<div class="search" align="right">
+					<input id="search" type="text" />
+                	<button id="search_btn" >검색</button>
+				</div>
+				<!-- 검색 종료 -->
+
+				<table class="title">
+					<tr>
+						<th width="20%">번호</th>
+						<th width="40%">제목</th>
+						<th width="20%">작성자</th>
+						<th width="20%">등록일</th>
+					</tr>
+				</table>
+				<table class="content">
+
+							<tbody id="table_body">
+
+							</tbody>
+								
+						
+					<!-- <% } %> -->
+				</table>
+				<div align="right"><button id="btn_board_new">새글 등록</button></div>
+			</div>
+		</div>
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+		<script>
+		$.ajax({
+			url:'/rest/posts/',
+			method:'GET',
+			dataType:'json',
+			contentType:'application/json',
+			success:function(data) {
+	
+				var table = document.getElementById('table_body');
+	
+				for (var i = 0; i < data.length; i++) {
+	
+					var tr = document.createElement('tr');
+					var id = data[i].id;
+					var title = data[i].title;  
+					// date      
+					var date = data[i].reg_date;
+					var yyyy = date.substr(0,4);
+					var mm = date.substr(5,2);
+					var dd = date.substr(8,2); 
+
+
+					var user_id = data[i].user_id;
+					var uname = "";
+	
+					$.ajax({
+						url:'/rest/users/' + user_id + '/',
+						method:'GET',
+						dataType:'json',
+						async: false,
+						contentType:'application/json',
+						success:function(udata) {
+							uname = udata.uname;
+						}
+					});
+	
+					tr.innerHTML = "<td width='20%'>" + id + "</td><td width='40%'><a href='/post/detail/" + id + "/'>" + title + "</a></td><td width='20%'>" + uname + "</td><td width='20%'>" + yyyy + "년 " + mm + "월 " + dd + "일" + "</td>";
+					table.appendChild(tr);
+				
+				}
+	
+			},
+			error:function(err) {
+				alert('실패2');
+			}
+		});
+		</script>
+		<script>
+			$('#search_btn').on('click', function() {
+				$.ajax({
+					url:'/rest/posts?title=' + $('#search').val(),
+					method:'GET',
+					dataType:'json',
+					success:function(data) {
+						console.log(data);
+						var table = document.getElementById('table_body');
+						while ( table.hasChildNodes() ) 
+						{ 
+							table.removeChild( table.firstChild ); 
+						}
+
+						for (var i = 0; i < data.length; i++) {
+
+							var tr = document.createElement('tr');
+							var id = data[i].id;
+							var title = data[i].title;  
+							// date      
+							var date = data[i].reg_date;
+							var yyyy = date.substr(0,4);
+							var mm = date.substr(5,2);
+							var dd = date.substr(8,2); 
+
+
+							var user_id = data[i].user_id;
+							var uname = "";
+
+							$.ajax({
+								url:'/rest/users/' + user_id + '/',
+								method:'GET',
+								dataType:'json',
+								async: false,
+								contentType:'application/json',
+								success:function(udata) {
+									uname = udata.uname;
+								}
+							});
+
+							tr.innerHTML = "<td width='20%'>" + id + "</td><td width='40%'><a href='/post/detail/" + id + "/'>" + title + "</a></td><td width='20%'>" + uname + "</td><td width='20%'>" + yyyy + "년 " + mm + "월 " + dd + "일" + "</td>";
+							table.appendChild(tr);
+
+						}
+
+						
+					},
+					error:function(err) {
+						alert('검색 실패!');
+					}
+				});
+				
+			});
+		</script>
+		<script src="/static/scripts/board.js"></script>
+	</body>
+</html>
