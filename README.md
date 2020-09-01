@@ -47,7 +47,7 @@ PROJECT ROOT
 > [FeatureEngineering & Modeling & Evaluation of Recommendation](https://github.com/skkuse/2020spring_41class_team4/tree/master/src/Recommend)
 ----------------------------------------------------------
 * FrontEnd
-> [FrontEnd](https://github.com/skkuse/2020spring_41class_team4/tree/master/src/)
+> [FrontEnd](https://github.com/skkuse/2020spring_41class_team4/tree/master/src/Backend/backpack/templates/)
 ----------------------------------------------------------
 * BackEnd
 > [BackEnd](https://github.com/skkuse/2020spring_41class_team4/tree/master/src/)
